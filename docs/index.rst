@@ -24,7 +24,3 @@ Endless possibilities to support your creative process, from static compositions
 .. toctree::
    :caption: Tutorials
    :maxdepth: 2
-
-.. toctree::
-   :caption: blabla
-   :maxdepth: 2
