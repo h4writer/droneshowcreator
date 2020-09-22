@@ -7,7 +7,6 @@ Let your inspiration run free and create beautiful drone light show spectacles w
 Endless possibilities to support your creative process, from static compositions to dynamic graphic animations with an infinite number of drones. the sky is no longer the limit.
 
 
-
 .. toctree::
    :caption: Preface
    :maxdepth: 2
