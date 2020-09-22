@@ -1,8 +1,7 @@
 =======
-preface
+Overvieuw interface
 =======
 
-Overview interface
 - Vieuw part
 - Clips
 - Scene list
