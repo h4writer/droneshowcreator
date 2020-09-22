@@ -1,10 +1,8 @@
-.. toctree::
-   :caption: Welcome to GitHub pages
-   :maxdepth: 2
+**************************
+Welcome to GitHub Pages
+**************************
 
-   test
 
-## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/h4writer/droneshowcreator/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -26,3 +24,9 @@ Syntax highlighted code block
 
 1. Numbered
 
+
+.. toctree::
+   :caption: Welcome to GitHub pages
+   :maxdepth: 2
+
+   test
