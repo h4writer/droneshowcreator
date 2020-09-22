@@ -1,32 +1,29 @@
-**************************
-Welcome to GitHub Pages
-**************************
+=================================
+Welcome to Andlights Dronecreator
+=================================
 
-
-
-You can use the [editor on GitHub](https://github.com/h4writer/droneshowcreator/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
+The software solution for your creation, layout and output of drone light shows.
+Let your inspiration run free and create beautiful drone light show spectacles with our user-friendly software.
+Endless possibilities to support your creative process, from static compositions to dynamic graphic animations with an infinite number of drones. the sky is no longer the limit.
 
 
 .. toctree::
-   :caption: Welcome to GitHub pages
+   :caption: Preface
    :maxdepth: 2
 
-   test
+   preface
+
+.. toctree::
+   :caption: Getting Started
+   :maxdepth: 2
+
+   Introduction
+   Installation
+
+
+.. toctree::
+   :caption: Tutorials
+   :maxdepth: 2
+
+   tut1
+   tut2
