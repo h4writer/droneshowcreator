@@ -22,8 +22,8 @@ Endless possibilities to support your creative process, from static compositions
 
 
 .. toctree::
-   :caption: Tutorials
+   :caption: Description tools
    :maxdepth: 2
-
-   tut1
-   tut2
+   
+   menubar
+   viewport
