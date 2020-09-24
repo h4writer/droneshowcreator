@@ -1,5 +1,5 @@
 ============================
-3.3 Discription edit actions
+3.3 Edit actions
 ============================
 
 3.3.1 Menu bar
