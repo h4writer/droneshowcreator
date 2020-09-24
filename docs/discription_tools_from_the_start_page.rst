@@ -5,71 +5,73 @@
 4.1.1 Menu bar
 --------------
 
-  4.1.1.1 File
+ 4.1.1.1 File
  
-   Tekst
+  Tekst
  
-  4.1.1.2 Edit
+ 4.1.1.2 Edit
   
-   Tekst
+  Tekst
  
-  4.1.1.3 View
+ 4.1.1.3 View
  
-   Tekst
+  Tekst
  
-  4.1.1.4 Show
+ 4.1.1.4 Show
  
-   Tekst
+  Tekst
  
-  4.1.1.5 Help
+ 4.1.1.5 Help
  
-   Tekst
+  Tekst
  
 4.1.2 Viewport
 --------------
 
-  4.1.2.1 Pen
+ 4.1.2.1 Pen
  
-   Tekst
+  Tekst
    
-  4.1.2.2 Star
+ 4.1.2.2 Star
   
-   Tekst
+  Tekst
    
-  4.1.2.3 Text
+ 4.1.2.3 Text
   
-   Tekst
+  Tekst
    
-  4.1.2.4 Image
+ 4.1.2.4 Image
   
-   Tekst
+  Tekst
    
-  4.1.2.5 Books
+ 4.1.2.5 Books
   
-   Tekst
+  Tekst
    
-  4.1.2.6 Music note
+ 4.1.2.6 Music note
   
-   Tekst
+  Tekst
    
-  4.1.2.7 Camera
+ 4.1.2.7 Camera
   
-   Tekst
+  Tekst
    
- 4.1.3 Clip timeline
- -------------------
+4.1.3 Clip timeline
+-------------------
  
-  4.1.3.1 Sequence
+ 4.1.3.1 Sequence
   
-   Tekst
+  Tekst
    
-   4.1.3.2 Music sequence
+ 4.1.3.2 Music sequence
    
-    Tekst
+  Tekst
     
-   4.1.3.3 Cursor
+ 4.1.3.3 Cursor
    
-    Tekst
+  Tekst
     
-   4.1.3.4 Timeline zoom in and out
+ 4.1.3.4 Timeline zoom in and out
+ 
+  Tekst
  
