@@ -30,746 +30,752 @@
 
    Tekst
 
-4.3.2.1.3 Move
+  4.3.2.1.3 Move
 
-Tekst
+   Tekst
 
-4.3.2.1.4 Scale
+  4.3.2.1.4 Scale
 
-Tekst
+   Tekst
 
-4.3.2.1.5 Wave
+  4.3.2.1.5 Wave
 
-Tekst
+   Tekst
 
-4.3.2.1.6 Yaw
+  4.3.2.1.6 Yaw
 
-Tekst
+   Tekst
 
-4.3.2.2 Lights
+ 4.3.2.2 Lights
 
-4.3.2.2.1 Colorize
+  4.3.2.2.1 Colorize
 
-Tekst
+   Tekst
 
-4.3.2.2.2 Fade
+  4.3.2.2.2 Fade
 
-Tekst
+   Tekst
 
-4.3.2.2.3 Gradiënt
+  4.3.2.2.3 Gradiënt
 
-Tekst
+   Tekst
 
-4.3.2.2.4 Fade-in
+  4.3.2.2.4 Fade-in
 
-Tekst
+   Tekst
 
-4.3.2.2.5 Fade-out
+  4.3.2.2.5 Fade-out
 
-Tekst
+   Tekst
 
-4.3.2.2.6 Strobe
+  4.3.2.2.6 Strobe
 
-Tekst
+   Tekst
 
-4.3.2.2.7 Sparkle
+  4.3.2.2.7 Sparkle
 
-Tekst
+   Tekst
 
-4.3.2.2.8 Roll over
+  4.3.2.2.8 Roll over
 
-Tekst
+   Tekst
 
-4.3.2.2.9 Spot
+  4.3.2.2.9 Spot
 
-Tekst
+   Tekst
 
-4.3.2.2.10 Image
+  4.3.2.2.10 Image
 
-Tekst
+   Tekst
 
-4.3.2.2.11 Rainbow
+  4.3.2.2.11 Rainbow
 
-Tekst
+   Tekst
 
-4.3.2.2.12 Gamma correction
+  4.3.2.2.12 Gamma correction
 
-Tekest
+   Tekest
 
-4.3.2.2.13 Max light corrections
+  4.3.2.2.13 Max light corrections
+  
+   Tekst
 
 4.3.3 Viewport
 --------------
 
-4.3.3.1 View cubus
+ 4.3.3.1 View cubus
 
-Tekst
+  Tekst
 
-4.3.3.2 Time indication
+ 4.3.3.2 Time indication
 
-Tekst
+  Tekst
 
-4.3.3.3 play button, speed up, slow dawn
+ 4.3.3.3 play button, speed up, slow dawn
 
-Tekst
+  Tekst
 
-4.3.3.4 Vieuw zoom in and out
+ 4.3.3.4 Vieuw zoom in and out
 
-Tekst
+  Tekst
 
 4.3.4 Properties
 -----------------
 
-4.3.4.1 Bezier
+ 4.3.4.1 Bezier
 
-4.3.4.1.1 Start
+  4.3.4.1.1 Start
 
-Tekst
+   Tekst
 
-4.3.4.1.2 Duration
+  4.3.4.1.2 Duration
 
-Tekst
+   Tekst
 
-4.3.4.1.3 Drones
+  4.3.4.1.3 Drones
 
-Tekst
+   Tekst
 
-4.3.4.1.4 Remove
+  4.3.4.1.4 Remove
 
-Tekst
+   Tekst
 
-4.3.4.2 Rotation
+ 4.3.4.2 Rotation
 
-4.3.4.2.1 Start
+  4.3.4.2.1 Start
 
-Tekst
+   Tekst
 
-4.3.4.2.2 Duration
+  4.3.4.2.2 Duration
 
-Tekst
+   Tekst
 
-4.3.4.2.3 Drones
+  4.3.4.2.3 Drones
 
-Tekst
+   Tekst
 
-4.3.4.2.4 Remove
+  4.3.4.2.4 Remove
 
-Tekst
+   Tekst
 
-4.3.4.2.5 Rotation front, side, top
+  4.3.4.2.5 Rotation front, side, top
 
-Tekst
+   Tekst
 
-4.3.4.2.6 Rotation point, front, side, top
+  4.3.4.2.6 Rotation point, front, side, top
 
-Tekst
+   Tekst
 
-4.3.4.3 Move
+ 4.3.4.3 Move
 
-4.3.4.3.1 Start
+  4.3.4.3.1 Start
 
-Tekst
+   Tekst
 
-4.3.4.3.2 Duration
+  4.3.4.3.2 Duration
 
-Tekst
+   Tekst
 
-4.3.4.3.3 Drones
+  4.3.4.3.3 Drones
 
-Tekst
+   Tekst
 
-4.3.4.3.4 Remove
+  4.3.4.3.4 Remove
 
-Tekst
+   Tekst
 
-4.3.4.3.5 Relative
+  4.3.4.3.5 Relative
 
-Tekst
+   Tekst
 
-4.3.4.3.6 Position X,Y,Z
+  4.3.4.3.6 Position X,Y,Z
 
-4.3.4.4 Scale
+ 4.3.4.4 Scale
 
-4.3.4.4.1 Start
+  4.3.4.4.1 Start
 
-Tekst
+   Tekst
 
-4.3.4.4.2 Duration
+  4.3.4.4.2 Duration
 
-Tekst
+   Tekst
 
-4.3.4.4.3 Drones
+  4.3.4.4.3 Drones
 
-Tekst
+   Tekst
 
-4.3.4.4.4 Remove
+  4.3.4.4.4 Remove
 
-Tekst
+   Tekst
 
-4.3.4.4.5 Scale X,Y,Z
+  4.3.4.4.5 Scale X,Y,Z
 
-Tekst
+   Tekst
 
-4.3.4.4.6 Scale point X,Y,Z
+  4.3.4.4.6 Scale point X,Y,Z
+  
+   Tekst
 
-4.3.4.5 Wave
+ 4.3.4.5 Wave
 
-4.3.4.5.1 Start
+  4.3.4.5.1 Start
 
-Tekst
+   Tekst
 
-4.3.4.5.2 Duration
+  4.3.4.5.2 Duration
 
-Tekst
+   Tekst
 
-4.3.4.5.3 Drones
+  4.3.4.5.3 Drones
 
-Tekst
+   Tekst
 
-4.3.4.5.4 Remove
+  4.3.4.5.4 Remove
 
-Tekst
+   Tekst
 
-4.3.4.5.5 Height
+  4.3.4.5.5 Height
 
-Tekst
+   Tekst
 
-4.3.4.5.6 Time offset
+  4.3.4.5.6 Time offset
 
-Tekst
+   Tekst
 
-4.3.4.5.7 Angle
+  4.3.4.5.7 Angle
 
-Tekst
+   Tekst
 
-4.3.4.5.8 Iterations
+  4.3.4.5.8 Iterations
 
-Tekst
+   Tekst
 
-4.3.4.6 Yaw
+ 4.3.4.6 Yaw
 
-4.3.4.6.1 Start
+  4.3.4.6.1 Start
 
-Tekst
+   Tekst
 
-4.3.4.6.2 Duration
+  4.3.4.6.2 Duration
 
-Tekst
+   Tekst
 
-4.3.4.6.3 Drones
+  4.3.4.6.3 Drones
 
-Tekst
+   Tekst
 
-4.3.4.6.4 Remove
+  4.3.4.6.4 Remove
 
-Tekst
+   Tekst
 
-4.3.4.6.5 Relative
+  4.3.4.6.5 Relative
 
-Tekst
+   Tekst
 
-4.3.4.6.6 Yaw
+  4.3.4.6.6 Yaw
 
-Tekst
+   Tekst
 
-4.3.4.7 Colorize
+ 4.3.4.7 Colorize
 
-4.3.4.7.1 Start
+  4.3.4.7.1 Start
 
-Tekst
+   Tekst
 
-4.3.4.7.2 Duration
+  4.3.4.7.2 Duration
 
-Tekst
+  Tekst
 
-4.3.4.7.3 Drones
+  4.3.4.7.3 Drones
 
-Tekst
+   Tekst
 
-4.3.4.7.4 Remove
+  4.3.4.7.4 Remove
 
-Tekst
+   Tekst
 
-4.3.4.7.5 blend mode
+  4.3.4.7.5 blend mode
 
-Tekst
+   Tekst
 
-4.3.4.7.6 Opacity
+  4.3.4.7.6 Opacity
 
-Tekst
+   Tekst
 
-4.3.4.7.7 Color
+  4.3.4.7.7 Color
 
-Tekst
+   Tekst
 
-4.3.4.8 Fade
+ 4.3.4.8 Fade
 
-4.3.4.8.1 Start
+  4.3.4.8.1 Start
 
-Tekst
+   Tekst
 
-4.3.4.8.2 Duration
+  4.3.4.8.2 Duration
 
-Tekst
+   Tekst
 
-4.3.4.8.3 Drones
+  4.3.4.8.3 Drones
 
-Tekst
+   Tekst
 
-4.3.4.8.4 Remove
+  4.3.4.8.4 Remove
 
-Tekst
+   Tekst
 
-4.3.4.8.5 Blend mode
+  4.3.4.8.5 Blend mode
 
-Tekst
+   Tekst
 
-4.3.4.8.6 Opacity
+  4.3.4.8.6 Opacity
 
-Tekst
+   Tekst
 
-4.3.4.8.7 Color
+  4.3.4.8.7 Color
 
-Tekst
+   Tekst
 
-4.3.4.9 Gradiënt
+ 4.3.4.9 Gradiënt
 
-4.3.4.9.1 Start
+  4.3.4.9.1 Start
 
-Tekst
+   Tekst
 
-4.3.4.9.2 Duration
+  4.3.4.9.2 Duration
 
-Tekst
+   Tekst
 
-4.3.4.9.3 Drones
+  4.3.4.9.3 Drones
 
-Tekst
+   Tekst
 
-4.3.4.9.4 Remove
+  4.3.4.9.4 Remove
 
-Tekst
+   Tekst
 
-4.3.4.9.5 Blend mode
+  4.3.4.9.5 Blend mode
 
-Tekst
+   Tekst
 
-4.3.4.9.6 Opacity
+  4.3.4.9.6 Opacity
 
-Tekst
+   Tekst
 
-4.3.4.9.7 Start color
+  4.3.4.9.7 Start color
 
-Tekst
+   Tekst
 
-4.3.4.9.8 Second color
+  4.3.4.9.8 Second color
 
-Tekst
+   Tekst
 
-4.3.4.9.9 Start position X,Y,Z
+  4.3.4.9.9 Start position X,Y,Z
 
-Tekst
+   Tekst
 
-4.3.4.9.10 Stop position X,Y,Z
+  4.3.4.9.10 Stop position X,Y,Z
+  
+   Tekst
 
-4.3.4.10 Fade in
+ 4.3.4.10 Fade in
 
-4.3.4.10.1 Start
+  4.3.4.10.1 Start
 
-Tekst
+   Tekst
 
-4.3.4.10.2 Duration
+  4.3.4.10.2 Duration
 
-Tekst
+   Tekst
 
-4.3.4.10.3 Drones
+  4.3.4.10.3 Drones
 
-Tekst
+    Tekst
 
-4.3.4.10.4 Remove
+  4.3.4.10.4 Remove
 
-Tekst
+   Tekst
 
-4.3.4.10.5 Blend mode
+  4.3.4.10.5 Blend mode
 
-Tekst
+   Tekst
 
-4.3.4.10.6 Opacity
+  4.3.4.10.6 Opacity
 
-Tekst
+   Tekst
 
-4.3.4.10.7 Easing
+  4.3.4.10.7 Easing
 
-Tekst
+   Tekst
 
-4.3.4.11 Fade out
+ 4.3.4.11 Fade out
 
-4.3.4.11.1 Start
+  4.3.4.11.1 Start
 
-Tekst
+   Tekst
 
-4.3.4.11.2 Duration
+  4.3.4.11.2 Duration
 
-Tekst
+   Tekst
 
-4.3.4.11.3 Drones
+  4.3.4.11.3 Drones
 
-Tekst
+   Tekst
 
-4.3.4.11.4 Remove
+  4.3.4.11.4 Remove
 
-Tekst
+   Tekst
 
-4.3.4.11.5 Blend mode
+  4.3.4.11.5 Blend mode
 
-Tekst
+   Tekst
 
-4.3.4.11.6 Opacity
+  4.3.4.11.6 Opacity
 
-Tekst
+   Tekst
 
-4.3.4.11.7 Easing
+  4.3.4.11.7 Easing
 
-Tekst
+   Tekst
 
-4.3.4.12 Strobe
+ 4.3.4.12 Strobe
 
-4.3.4.12.1 Start
+  4.3.4.12.1 Start
 
-Tekst
+   Tekst
 
-4.3.4.12.2 Duration
+  4.3.4.12.2 Duration
 
-Tekst
+   Tekst
 
-4.3.4.12.3 Drones
+  4.3.4.12.3 Drones
 
-Tekst
+   Tekst
 
-4.3.4.12.4 Remove
+  4.3.4.12.4 Remove
 
-Tekst
+   Tekst
 
-4.3.4.12.5 Blend mode
+  4.3.4.12.5 Blend mode
 
-Tekst
+   Tekst
 
-4.3.4.12.6 Opacity
+  4.3.4.12.6 Opacity
 
-Tekst
+   Tekst
 
-4.3.4.12.7 Start color
+  4.3.4.12.7 Start color
 
-Tekst
+   Tekst
 
-4.3.4.12.8 Second color
+  4.3.4.12.8 Second color
 
-Tekst
+   Tekst
 
-4.3.4.12.9 Strobe duration
+  4.3.4.12.9 Strobe duration
 
-Tekst
+   Tekst
 
-4.3.4.12.10 Visible drones
+  4.3.4.12.10 Visible drones
 
-Tekst
+   Tekst
 
-4.3.4.12.11 Easing
+  4.3.4.12.11 Easing
 
-Tekst
+   Tekst
 
-4.3.4.13 Sparkle
+ 4.3.4.13 Sparkle
 
-4.3.4.13.1 Start
+  4.3.4.13.1 Start
 
-Tekst
+   Tekst
 
-4.3.4.13.2 Duration
+  4.3.4.13.2 Duration
 
-Tekst
+   Tekst
 
-4.3.4.13.3 Drone
+  4.3.4.13.3 Drone
 
-Tekst
+   Tekst
 
-4.3.4.13.4 Remove
+  4.3.4.13.4 Remove
 
-Tekst
+   Tekst
 
-4.3.4.13.5 Blend mode
+  4.3.4.13.5 Blend mode
 
-Tekst
+   Tekst
 
-4.3.4.13.6 Opacity
+  4.3.4.13.6 Opacity
 
-Tekst
+   Tekst
 
-4.3.4.13.7 Start color
+  4.3.4.13.7 Start color
 
-Tekst
+   Tekst
 
-4.3.4.13.8 Second color
+  4.3.4.13.8 Second color
 
-Tekst
+   Tekst
 
-4.3.4.13.9 Strobe duration
+  4.3.4.13.9 Strobe duration
 
-Tekst
+   Tekst
 
-4.3.4.13.10 Visible drones
+  4.3.4.13.10 Visible drones
 
-Tekst
+   Tekst
 
-4.3.4.13.11 Easing
+  4.3.4.13.11 Easing
 
-Tekst
+   Tekst
 
-4.3.4.14 Roll over
+ 4.3.4.14 Roll over
 
-4.3.4.14.1 Start
+  4.3.4.14.1 Start
 
-Tekst
+   Tekst
 
-4.3.4.14.2 Duration
+  4.3.4.14.2 Duration
 
-Tekst
+   Tekst
 
-4.3.4.14.3 Drones
+  4.3.4.14.3 Drones
 
-Tekst
+   Tekst
 
-4.3.4.14.4 Remove
+  4.3.4.14.4 Remove
 
-Tekst
+   Tekst
 
-4.3.4.14.5 Blend mode
+  4.3.4.14.5 Blend mode
 
-Tekst
+   Tekst
 
-4.3.4.14.6 Opacity
+  4.3.4.14.6 Opacity
 
-Tekst
+   Tekst
 
-4.3.4.14.7 Start color
+  4.3.4.14.7 Start color
 
-Tekst
+   Tekst
 
-4.3.4.14.8 Second color
+  4.3.4.14.8 Second color
 
-Tekst
+   Tekst
 
-4.3.4.14.9 Start position X,Y,Z
+  4.3.4.14.9 Start position X,Y,Z
 
-Tekst
+   Tekst
 
-4.3.4.14.10 Stop position X,Y,Z
+  4.3.4.14.10 Stop position X,Y,Z
 
-Tekst
+   Tekst
 
-4.3.4.15 Spot
+ 4.3.4.15 Spot
 
-4.3.4.15.1 Start
+  4.3.4.15.1 Start
 
-Tekst
+   Tekst
 
-4.3.4.15.2 Duration
+  4.3.4.15.2 Duration
 
-Tekst
+   Tekst
 
-4.3.4.15.3 Drones
+  4.3.4.15.3 Drones
 
-Tekst
+   Tekst
 
-4.3.4.15.4 Remove
+  4.3.4.15.4 Remove
 
-Tekst
+   Tekst
 
-4.3.4.15.5 Blend mode
+  4.3.4.15.5 Blend mode
 
-Tekst
+   Tekst
 
-4.3.4.15.6 Opacity
+  4.3.4.15.6 Opacity
 
-Tekst
+   Tekst
 
-4.3.4.15.7 Gradiënt type
+  4.3.4.15.7 Gradiënt type
 
-Tekst
+   Tekst
 
-4.3.4.15.8 Start position X,Y,Z
+  4.3.4.15.8 Start position X,Y,Z
 
-Tekst
+   Tekst
 
-4.3.4.15.9 End position X,Y,Z
+  4.3.4.15.9 End position X,Y,Z
 
-Tekst
+   Tekst
 
-4.3.4.15.10 Color
+  4.3.4.15.10 Color
 
-Tekst
+   Tekst
 
-4.3.4.15.11 Keyfram blend mode
+  4.3.4.15.11 Keyfram blend mode
 
-Tekst
+   Tekst
 
-4.3.4.15.12 Cutt of after distance
+  4.3.4.15.12 Cutt of after distance
 
-Tekst
+   Tekst
 
-4.3.4.15.13 Gradiënt shift
+  4.3.4.15.13 Gradiënt shift
 
-Tekst
+   Tekst
 
-4.3.4.16 Image
+ 4.3.4.16 Image
 
-4.3.4.16.1 Start
+  4.3.4.16.1 Start
 
-Tekst
+   Tekst
 
-4.3.4.16.2 Duration
+  4.3.4.16.2 Duration
 
-Tekst
+   Tekst
 
-4.3.4.16.3 Drones
+  4.3.4.16.3 Drones
 
-Tekst
+   Tekst
 
-4.3.4.16.4 Remove
+  4.3.4.16.4 Remove
 
-Tekst
+   Tekst
 
-4.3.4.16.5 Blend mode
+  4.3.4.16.5 Blend mode
 
-Tekst
+   Tekst
 
-4.3.4.16.6 Opacity
+  4.3.4.16.6 Opacity
 
-Tekst
+   Tekst
 
-4.3.4.16.7 Image
+  4.3.4.16.7 Image
 
-Tekst
+   Tekst
 
-4.3.4.16.8 Middle X,Y,Z
+  4.3.4.16.8 Middle X,Y,Z
 
-Tekst
+   Tekst
 
-4.3.4.16.9 Up X,Y,Z
+  4.3.4.16.9 Up X,Y,Z
 
-Tekst
+   Tekst
 
-4.3.4.16.10 Right X,Y,Z
+  4.3.4.16.10 Right X,Y,Z
 
-Tekst
+   Tekst
 
-4.3.4.16.11 Scale
+  4.3.4.16.11 Scale
 
-Tekst
+   Tekst
 
-4.3.4.16.12 Blur
+  4.3.4.16.12 Blur
 
-Tekst
+   Tekst
 
-4.3.4.17 Rainbow
+ 4.3.4.17 Rainbow
 
-4.3.4.17.1 Start
+  4.3.4.17.1 Start
 
-Tekst
+   Tekst
 
-4.3.4.17.2 Duration
+  4.3.4.17.2 Duration
 
-Tekst
+   Tekst
 
-4.3.4.17.3 Drone
+  4.3.4.17.3 Drone
 
-Tekst
+   Tekst
 
-4.3.4.17.4 Remove
+  4.3.4.17.4 Remove
 
-Tekst
+   Tekst
 
-4.3.4.17.5 Blend mode
+  4.3.4.17.5 Blend mode
 
-Tekst
+   Tekst
 
-4.3.4.17.6 Opacity
+  4.3.4.17.6 Opacity
 
-Tekst
+   Tekst
 
-4.3.4.17.7 Color
+  4.3.4.17.7 Color
 
-Tekst
+   Tekst
 
-4.3.4.18 Gamma correction
+ 4.3.4.18 Gamma correction
 
-4.3.4.18.1 Start
+  4.3.4.18.1 Start
 
-Tekst
+   Tekst
 
-4.3.4.18.2 Duration
+  4.3.4.18.2 Duration
 
-Tekst
+   Tekst
 
-4.3.4.18.3 Drone
+  4.3.4.18.3 Drone
 
-Tekst
+   Tekst
 
-4.3.4.18.4 Remove
+  4.3.4.18.4 Remove
 
-Tekst
+   Tekst
 
-4.3.4.18.5 blend mode
+  4.3.4.18.5 blend mode
 
-Tekst
+   Tekst
 
-4.3.4.18.6 Opacity
+  4.3.4.18.6 Opacity
 
-Tekst
+   Tekst
 
-4.3.4.18.7 Gamma
+  4.3.4.18.7 Gamma
 
-Tekst
+   Tekst
 
-4.3.4.19 Max light correction
+ 4.3.4.19 Max light correction
 
-4.3.4.19.1 Start
+  4.3.4.19.1 Start
 
-Tekst
+   Tekst
 
-4.3.4.19.2 Duration
+  4.3.4.19.2 Duration
 
-Tekst
+   Tekst
 
-4.3.4.19.3 Drone
+  4.3.4.19.3 Drone
 
-Tekst
+   Tekst
 
-4.3.4.19.4 Remove
+  4.3.4.19.4 Remove
 
-Tekst
+   Tekst
 
-4.3.4.19.5 Blend mode
+  4.3.4.19.5 Blend mode
 
-Tekst
+   Tekst
 
-4.3.4.19.6 Max light
+  4.3.4.19.6 Max light
 
-Tekst
+   Tekst
 
 4.3.5 Action list
 ------------------
 
-4.3.5.1 Action, RAW, eye icon
+ 4.3.5.1 Action, RAW, eye icon
 
-Tekst
+  Tekst
 
-4.3.5.2 Cursor
+ 4.3.5.2 Cursor
 
-Tekst
+  Tekst
 
-4.3.5.3 Time line
+ 4.3.5.3 Time line
 
-Tekst
+  Tekst
 
 4.3.6 Drone list
 ----------------
