@@ -1,18 +1,33 @@
-======================
-Discription start page
-======================
+==========================
+3.1 Discription start page
+==========================
 
-Menu bar
---------
+3.1.1 Menu bar
+--------------
 
-Tekst
+ Tekst
 
-Viewport
---------
+3.1.2 Viewport
+--------------
 
-Tekst
+ Tekst
 
-Clips
------
+3.1.3 Clips
+-----------
 
-tekst
+ Tekst
+ 
+ 3.1.4 Scene list
+ ----------------
+ 
+  Tekst
+  
+  3.1.5 Movie preview
+  -------------------
+  
+   Tekst
+   
+   3.1.6 Properties
+   ----------------
+   
+    Tekst
