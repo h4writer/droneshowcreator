@@ -7,7 +7,13 @@
 
  4.1.1.1 File
  
-  Tekst
+  New: Create a new document for the editing layout of a light show.
+  Open: To open an existing layout.
+  Open recent: List of your 20 most recently saved formatting documents.
+  Save: To save your layout.
+  Save as: brings up a prompt to save your work as a file with a different name.
+  Settings: This function is used to determine the flight zone in which the drones must travel. the width, dept, height and above ground are displayed in meters.
+  backgroundimage: xxxx default drone size: xxxxxx
  
  4.1.1.2 Edit
   
