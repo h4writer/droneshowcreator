@@ -2,7 +2,7 @@
 4.1 Discription tools from the start page
 =========================================
 
- 4.1.1 Menu bar
+4.1.1 Menu bar
 --------------
 
   4.1.1.1 File
@@ -25,7 +25,7 @@
  
   Tekst
  
- 4.1.2 Viewport
+4.1.2 Viewport
 --------------
 
   4.1.2.1 Pen
