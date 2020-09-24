@@ -7,11 +7,11 @@
 
   4.1.1.1 File
  
-  Tekst
+          Tekst
  
   4.1.1.2 Edit
   
-  Tekst
+          Tekst
  
   4.1.1.3 View
  
