@@ -5,7 +5,7 @@
 3.1.1 Menu bar
 ---------------
 
-  Tekst 
+ Tekst 
  
 3.1.2 Viewport
 ---------------
