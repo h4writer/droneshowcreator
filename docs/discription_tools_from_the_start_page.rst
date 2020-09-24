@@ -6,34 +6,29 @@
 --------------
 
   4.1.1.1 File
-  ------------
  
   Tekst
  
   4.1.1.2 Edit
-  ------------
+  
   Tekst
  
   4.1.1.3 View
-  ------------
  
   Tekst
  
-4.1.1.4 Show
-------------
+  4.1.1.4 Show
  
-Tekst
+  Tekst
  
-4.1.1.5 Help
-------------
+  4.1.1.5 Help
  
-Tekst
+  Tekst
  
 4.1.2 Viewport
 --------------
 
-4.1.2.1 Pen
------------
+  4.1.2.1 Pen
  
-Tekst
+  Tekst
  
