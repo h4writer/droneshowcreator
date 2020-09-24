@@ -1,5 +1,5 @@
 ==========================
-3.1 Discription start page
+3.1 Home page
 ==========================
 
 3.1.1 Menu bar
