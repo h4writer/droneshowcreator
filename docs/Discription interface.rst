@@ -1,18 +1,18 @@
-=========================
+==========================
 3.1 Discription start page
-=========================
+==========================
 
-3.1.1 menu bar
+3.1.1 Menu bar
 --------------
 
  tekst
 
-viewport
---------
+3.1.2 viewport
+--------------
 
  tekst
 
-clips
+3.1.3 clips
 -----
 
  tekst
@@ -32,9 +32,9 @@ properties
 
  tekst.
 
-===========
-edit figure
-===========
+===============
+3.2 Edit figure
+===============
 
 viewport
 --------
@@ -52,7 +52,7 @@ drone list
 tekst
 
 ============
-edit actions
+3.3 Edit actions
 ============
 
 menu bar
