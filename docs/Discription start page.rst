@@ -1,1 +1,10 @@
+======================
+discription start page
+======================
 
+menu bar
+viewport
+clips
+scene list
+movie preview
+properties
