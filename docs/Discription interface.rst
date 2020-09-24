@@ -5,32 +5,32 @@ discription start page
 menu bar
 --------
 
-tekst
+ tekst
 
 viewport
 --------
 
-tekst
+ tekst
 
 clips
 -----
 
-tekst
+ tekst
 
 scene list
 ----------
 
-tekst
+ tekst
 
 movie preview
 -------------
 
-tekst
+ tekst
 
 properties
 ----------
 
-tekst.
+ tekst.
 
 ===========
 edit figure
