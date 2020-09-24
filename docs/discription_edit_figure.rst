@@ -1,5 +1,5 @@
 ===========================
-3.2 Discription edit figure
+3.2 Edit figure
 ===========================
 
 3.2.1 Viewport
