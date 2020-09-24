@@ -27,11 +27,11 @@ Tools edit figure
 
  4.2.1.6 Color area
  
- Here you can choose a desired color from a suggested color range, or you can create a color yourself via the link "custom color".
+  Here you can choose a desired color from a suggested color range, or you can create a color yourself via the link "custom color".
 
  4.2.1.7 Custom color
  
- Here you have the option to compose a color yourself according to the RGB color code or the web color code, hue, saturation, brightness and opacity can also be adjusted here.
+  Here you have the option to compose a color yourself according to the RGB color code or the web color code, hue, saturation, brightness and opacity can also be adjusted here.
 
 4.2.2 Properties
 ----------------
