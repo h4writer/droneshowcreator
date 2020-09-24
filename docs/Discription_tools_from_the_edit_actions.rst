@@ -1,5 +1,5 @@
 ===========================================
-4.3 Discription tools from the edit actions
+4.3 Tools edit actions
 ===========================================
 
 4.3.1 Menu bar
