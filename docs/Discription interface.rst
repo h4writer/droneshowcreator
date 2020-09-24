@@ -1,9 +1,9 @@
 =========================
-3. discription start page
+3.1 Discription start page
 =========================
 
-menu bar
---------
+3.1.1 menu bar
+--------------
 
  tekst
 
