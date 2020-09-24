@@ -22,9 +22,9 @@ Welcome to Andlights Dronecreator
    :caption: Description tools
    :maxdepth: 2
    
-   tools_from_the_start_page
-   tools_from_the_edit_figure
-   tools_from_the_edit_actions
+   discription_tools_from_the_start_page
+   discription_tools_from_the_edit_figure
+   discription_tools_from_the_edit_actions
    
    .. toctree::
    :caption: Workflow
