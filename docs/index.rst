@@ -14,9 +14,9 @@ Welcome to Andlights Dronecreator
    :caption: Description interface
    :maxdepth: 2
    
-   Home page
-   edit_figure
-   edit_actions
+   Start page
+   Edit_figure
+   Edit_actions
    
 .. toctree::
    :caption: Description tools
