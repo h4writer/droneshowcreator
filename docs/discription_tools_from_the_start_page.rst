@@ -1,5 +1,5 @@
 =========================================
-4.1 Discription tools from the start page
+4.1 Tools home page
 =========================================
 
 4.1.1 Menu bar
