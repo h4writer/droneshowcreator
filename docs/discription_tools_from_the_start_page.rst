@@ -50,23 +50,23 @@
    
  4.1.2.3 Text
   
-  Tekst
+  When using the text icon, a clip will automatically appear in the timeline. Then go to "properties" => text => enter the desired text and parameters.
    
  4.1.2.4 Image
   
-  Tekst
+  For placing an image. Note the image must be in black / white (duotone) with a transparent background (PNG format). => click on the icon => a clip will appear => right colon => image none => click and place image.
    
  4.1.2.5 Books
   
-  Tekst
+  Library with existing scenes to choose from. Note, an existing layout to be placed in a new layout must first be saved in the "Library folder" before it is available for posting.
    
  4.1.2.6 Music note
   
-  Tekst
+  For placing audio files. Note, you must first place a "music sequence" in the timeline before you can place the audio.
    
  4.1.2.7 Camera
   
-  Tekst
+  Tekst xxxxxxxxx
    
 4.1.3 Clip timeline
 -------------------
