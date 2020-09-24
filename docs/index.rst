@@ -2,28 +2,28 @@
 Welcome to Andlights Dronecreator
 =================================
 
-The software solution for your creation, layout and output of drone light shows.
-Let your inspiration run free and create beautiful drone light show spectacles with our user-friendly software.
-Endless possibilities to support your creative process, from static compositions to dynamic graphic animations with an infinite number of drones. the sky is no longer the limit.
-
-
 .. toctree::
-   :caption: Preface
+   :caption: Introduction
    :maxdepth: 2
 
-   preface
-
 .. toctree::
-   :caption: Getting Started
+   :caption: Installation
    :maxdepth: 2
 
-   Introduction
-   Installation
-
-
 .. toctree::
+   :caption: Description interface
+   :maxdepth: 2
+   
+   Home page
+   Edit figure
+   Edit actions
+   
+   .. toctree::
    :caption: Description tools
    :maxdepth: 2
    
-   menubar
-   viewport
+   Tools from the home page
+   Tools from the edit figure
+   Tools from the edit actions
+   
+   
