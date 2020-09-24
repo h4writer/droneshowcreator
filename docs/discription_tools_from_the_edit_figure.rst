@@ -1,5 +1,5 @@
 ======================================
-Description tools from the edit figure
+Tools edit figure
 ======================================
 
 4.2.1 Viewport
