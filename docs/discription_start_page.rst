@@ -5,30 +5,30 @@
 3.1.1 Menu bar
 ---------------
 
-Tekst 
+  Tekst 
  
 3.1.2 Viewport
 ---------------
 
-Tekst
+  Tekst
   
 3.1.3 Clips
 --------------
 
-Tekst
+  Tekst
   
 3.1.4 Scene list
 ------------------
 
-Tekst
+  Tekst
   
 3.1.5 Movie preview
 ---------------------
 
-Tekst
+  Tekst
   
 3.1.6 Properties
 ------------------
 
-Tekst
+  Tekst
 
