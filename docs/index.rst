@@ -18,12 +18,10 @@ Welcome to Andlights Dronecreator
    Edit figure
    Edit actions
    
-   .. toctree::
+.. toctree::
    :caption: Description tools
    :maxdepth: 2
    
    Tools from the home page
    Tools from the edit figure
    Tools from the edit actions
-   
-   
