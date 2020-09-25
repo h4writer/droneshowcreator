@@ -81,7 +81,7 @@
     
  4.1.3.3 Cursor
    
-  Tekst
+  The blue cursor needle always indicates the position of the visualization in the layout timeline. The needle can always be moved manually, but it is also magnetic, which means that if you drag a markup block to a different position, the needle will move along and move magnetically and take up position at the right end of that block. You can also adjust the position of the cursor needle in the clock in the viewport, by adjusting the values ​​the needle will take the position, this can be useful if you have to work in milliseconds. You can also zoom in and out on the sequence timeline to make the blocks bigger or smaller => place the cursor on the numerical indication and roll the mouse wheel to enlarge or reduce. When placing a new markup block, the block will always be placed where the cursor needle is located. Note, it may be that there is not enough space next to the needle to place a new block because it has, for example, a very long time zone. in that case select a new sequence line that is still free to place the block.
     
  4.1.3.4 Timeline zoom in and out
  
