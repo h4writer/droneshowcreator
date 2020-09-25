@@ -15,7 +15,8 @@ In this section you will find a list of all possible effects that you can apply 
 3.3.3 Viewport
 --------------
 
-Tekst
+TekstThis section provides visualization of the layout and allows you to instantly view the effects placed in the timeline in different perspectives.
+TIP you can place the cursor in a very accurate way in the desired place by entering the numerical value in the clock.
 
 3.3.4 Properties
 ----------------
