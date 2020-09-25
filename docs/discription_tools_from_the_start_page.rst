@@ -73,7 +73,7 @@
  
  4.1.3.1 Sequence
   
-  A sequence is a horizontal space on the timeline where a markup block can be placed. You can create as many sequences vertically one below the other as needed for the intended end result. You can create a new sequence by clicking on the icon for new sequence to the left of the timeline or by dragging a format block down. A sequence is only intended for formatting and not for placing audio files.
+  A sequence is a horizontal space on the timeline where a markup block (=clip) can be placed. You can create as many sequences vertically one below the other as needed for the intended end result. You can create a new sequence by clicking on the icon for new sequence to the left of the timeline or by dragging a format block down. A sequence is only intended for formatting and not for placing audio files.
    
  4.1.3.2 Music sequence
    
@@ -81,12 +81,12 @@
     
  4.1.3.3 Cursor
    
-  The blue cursor needle always indicates the position of the visualization in the layout timeline. The needle can always be moved manually, but it is also magnetic, which means that if you drag a markup scene block to a different position, the needle will move along and move magnetically and take up position at the right end of that scene block. You can also adjust the position of the cursor needle in the clock in the viewport, by adjusting the values the needle will take the position, this can be useful if you have to work in milliseconds. When placing a new markup scene block, the block will always be placed where the cursor needle is located. Note, it may be that there is not enough space next to the needle to place a new block because it has, for example, a very long time zone. in that case select a new sequence line that is still free to place the scene block.
+  The blue cursor needle always indicates the position of the visualization in the layout timeline. The needle can always be moved manually, but it is also magnetic, which means that if you drag a markup clip or scene block to a different position, the needle will move along and move magnetically and take up position at the right end of that clip or scene block. You can also adjust the position of the cursor needle in the clock in the viewport, by adjusting the values the needle will take the position, this can be useful if you have to work in milliseconds. When placing a new markup clip or scene block, the block will always be placed where the cursor needle is located. Note, it may be that there is not enough space next to the needle to place a new block because it has, for example, a very long time zone. in that case select a new sequence line that is still free to place the scene block.
 
     
  4.1.3.4 Timeline zoom in and out
  
-  You can also zoom in and out on the sequence timeline to make the scene blocks bigger or smaller => place the cursor on the numerical indication and roll the mouse wheel to enlarge or reduce.
+  You can also zoom in and out on the sequence timeline to make the clip or scene blocks bigger or smaller => place the cursor on the numerical indication and roll the mouse wheel to enlarge or reduce.
 
   
 4.1.4 Scene list
@@ -94,7 +94,7 @@
 
  4.1.4.1 Main
 
-  In this list, all the different scenes are listed. A scene is a block in the timeline that contains the layout of a certain figuration.
+  In this list, all the different scenes are listed. A scene is a block in the timeline that contains clips with the layout of a certain figuration .
 The program always automatically places a first blank scene = main scene, this scene can be copied, exported or deleted. You do this by selecting the scene and using the right mouse button.
  4.1.4.2 New
 
@@ -108,15 +108,15 @@ The program always automatically places a first blank scene = main scene, this s
 
  4.1.6.1 Drones
 
-  Tekst
+  Shows the number of drones used within the selected clip or scene.
 
  4.1.6.2 Start
 
-  Tekst
+  Shows the time when a clip or scene starts. The unit is displayed in milliseconds. 3,000ms = 3 sec. You can always adjust the starting position numerically. 
 
  4.1.6.3 Duration
 
-  Tekst
+  Specifies the duration of a clip or scene. The unit is displayed in milliseconds. 3,000ms = 3 sec. You can always numerically adjust the duration.
 
  4.1.6.4 Position X, Y, Z
 
