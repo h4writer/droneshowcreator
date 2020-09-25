@@ -10,7 +10,7 @@ In this room, the drones are placed, removed or modified by means of various lay
 3.2.2 Properties
 ----------------
 
-Tekst
+THere you can add a number of basic settings to the layout, the most important is the "RAW clip". Here you can adjust the working field in which the drones are located.
 
 3.2.3 Drone list
 ----------------
