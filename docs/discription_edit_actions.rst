@@ -5,7 +5,7 @@
 3.3.1 Menu bar
 --------------
 
-Tekst
+In the menu bar of the edit actions you will find functions related to saving, closing, undoing and view preferences.
 
 3.3.2 Button pane
 -----------------
