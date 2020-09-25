@@ -73,11 +73,11 @@
  
  4.1.3.1 Sequence
   
-  Tekst
+  A sequence is a horizontal space on the timeline where a markup block can be placed. You can create as many sequences vertically one below the other as needed for the intended end result. You can create a new sequence by clicking on the icon for new sequence to the left of the timeline or by dragging a format block down. A sequence is only intended for formatting and not for placing audio files.
    
  4.1.3.2 Music sequence
    
-  Tekst
+  This is the same as the regular sequence but only intended for placing audio files. This makes it easy to synchronize image and audio with each other
     
  4.1.3.3 Cursor
    
