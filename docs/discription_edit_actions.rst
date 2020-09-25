@@ -21,7 +21,7 @@ TIP you can place the cursor in a very accurate way in the desired place by ente
 3.3.4 Properties
 ----------------
 
-Tekst
+This function displays the detail of the selected effect. If you have placed an effect in the timeline and click on it, you will get all possible settings that belong to this effect.
 
 3.3.5 Action list
 -----------------
