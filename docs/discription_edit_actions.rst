@@ -26,7 +26,7 @@ This function displays the detail of the selected effect. If you have placed an 
 3.3.5 Action list
 -----------------
 
-Tekst
+This is the timeline where the effects will be placed. The duration of the effect is automatically set to the duration of the sequence on which you want to place an effect. It is of course always possible to adjust the length of the effect by clicking and sliding it as desired at the ends of the bar. It is also possible to place different effects under each other, or to adjust the order by taking the blocks and dragging them to the desired place
 
 3.3.6 Drone list
 ----------------
