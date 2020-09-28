@@ -94,8 +94,7 @@
 
  4.1.4.1 Main
 
-  In this list, all the different scenes are listed. A scene is a block in the timeline that contains clips with the layout of a certain figuration .
-The program always automatically places a first blank scene = main scene, this scene can be copied, exported or deleted. You do this by selecting the scene and using the right mouse button.
+  In this list, all the different scenes are listed. A scene is a block in the timeline that contains clips with the layout of a certain figuration. The program always automatically places a first blank scene = main scene, this scene can be copied, exported or deleted. You do this by selecting the scene and using the right mouse button.
 
  4.1.4.2 New
 
