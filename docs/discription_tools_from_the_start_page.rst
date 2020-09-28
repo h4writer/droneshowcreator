@@ -141,7 +141,7 @@ X axis = from left to straight, Y axis = from forward to back, Z axis = from top
 
  4.1.6.9 Edit action
 
-  Tekst
+  Instead of first clicking on the clip or scene and then using the right mouse button to go to edit actions, you can reach the menu in a faster way via the "edit actions" button.
 
  4.1.6.10 RAW clip
 
