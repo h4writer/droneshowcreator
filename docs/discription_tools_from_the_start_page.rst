@@ -108,7 +108,7 @@ The program always automatically places a first blank scene = main scene, this s
 
  4.1.6.1 Drones
 
-  Shows the number of drones used within the selected clip or scene.
+  Displays the number of drones used within the selected clip or scene. This is only an informative value that cannot be adjusted numerically. You can only adjust the drone number via "edit actions".
 
  4.1.6.2 Start
 
@@ -120,11 +120,12 @@ The program always automatically places a first blank scene = main scene, this s
 
  4.1.6.4 Position X, Y, Z
 
-  Tekst
+  With this function you can adjust the position of the drones, clips or scene within the flight zone according to an X, Y, Z axis.
+X axis = from left to straight, Y axis = from forward to back, Z axis = from top to bottom. First select the clip or scene in the timeline => use the arrows left and right to adjust the values or click directly on the numerical values ​​to adjust it.
 
  4.1.6.5 Remove
 
-  Tekst
+  When using this button you delete the selected scene or clip, use CTRL Z to undo the edit.
 
  4.1.6.6 Speed
 
