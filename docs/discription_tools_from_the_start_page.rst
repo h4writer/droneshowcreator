@@ -133,7 +133,7 @@ X axis = from left to straight, Y axis = from forward to back, Z axis = from top
 
  4.1.6.7 Rotation
 
-  Tekst
+  With this function you can rotate the layout of a clip or scene around 3 possible axes. The front, side and top axes are expressed in degrees. Front = the figuration will rotate frontally around its axis with or counterclockwise. Side = the figuration will rotate around its axis in side view, clockwise or counterclockwise. Top = the figuration will rotate around its vertical axis in frontal view. The add button allows you to add unlimited new rotation point. The red crosses on the right are used to delete the rotation point.
 
  4.1.6.8 Scale
 
