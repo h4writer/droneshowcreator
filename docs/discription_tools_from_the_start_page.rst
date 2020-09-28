@@ -120,8 +120,7 @@
 
  4.1.6.4 Position X, Y, Z
 
-  With this function you can adjust the position of the drones, clips or scene within the flight zone according to an X, Y, Z axis.
-X axis = from left to straight, Y axis = from forward to back, Z axis = from top to bottom. First select the clip or scene in the timeline => use the arrows left and right to adjust the values or click directly on the numerical values ​​to adjust it.
+  With this function you can adjust the position of the drones, clips or scene within the flight zone according to an X, Y, Z axis. X axis = from left to straight, Y axis = from forward to back, Z axis = from top to bottom. First select the clip or scene in the timeline => use the arrows left and right to adjust the values or click directly on the numerical values to adjust it.
 
  4.1.6.5 Remove
 
