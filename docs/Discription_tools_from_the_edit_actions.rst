@@ -294,7 +294,7 @@ The double arrows to the right: If you click on this, the cursor needle will aut
 
    Tekst
 
-  4.3.4.7.4 Remove
+  4.3.4.7.4 Remove 
 
    Tekst
 
