@@ -106,19 +106,22 @@
 
  4.3.3.1 View cubus
 
-  Tekst
+  The program has 3 different preview perspectives, the front view (first cube), top view (second cube) and the side view (third cube). A fourth function uses the directional arrows on the keyboard to allow you to freely move the layout in all directions for the ideal perspective. The latter function can be very useful when formatting complex structures.
 
  4.3.3.2 Time indication
 
-  Tekst
+  This is the numerical representation of the cursor needle position in hours, minutes, seconds and milliseconds. If you adjust the numerical values ​​manually, the needle will automatically jump to the entered value.
 
- 4.3.3.3 play button, speed up, slow dawn
+ 4.3.3.3 play button, speed up.
 
-  Tekst
+  The double arrows to the left: If you click on this, the cursor needle automatically jumps to the beginning of the timeline.
+The play triangle: Clicking on this will cause the cursor needle to run from its position on the timeline.
+The double arrows to the right: If you click on this, the cursor needle will automatically move to the end of the layout. This means to the end position of the last block
+1x: This is the acceleration function, if you enter a value of 10x the playback speed will be accelerated 10x. The 1 value is the normal speed.
 
  4.3.3.4 Vieuw zoom in and out
 
-  Tekst
+  The automatic framing icon ensures that your layout, regardless of size, is visualized in the available viewport frame. The percentage is automatically calculated for this. You can also manually determine the size of the visualization by entering a percentage yourself or by using the arrows. Manually determining the preview can be useful to enlarge details of complex structures for a clear interpretation.
 
 4.3.4 Properties
 -----------------
