@@ -137,7 +137,7 @@ X axis = from left to straight, Y axis = from forward to back, Z axis = from top
 
  4.1.6.8 Scale
 
-  Tekst
+  You have the option to scale the layout of a clip or scene to a different format according to an X, Y and Z axis. Increasing the numerical value is increasing the format, decreasing the values ​​is decreasing the format. Use the arrows left and right or click on the value to enter a new number. Next to the word "scale" you will find a slider, if this is on you can scale in proportion. If the slide switch is off, you can choose which W, Y or Z axis you want to scale separately.
 
  4.1.6.9 Edit action
 
