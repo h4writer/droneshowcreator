@@ -145,7 +145,7 @@ X axis = from left to straight, Y axis = from forward to back, Z axis = from top
 
  4.1.6.10 RAW clip
 
-  Tekst
+  This is the area in which the drones are located. In this space, adjustments can be made to the width, depth and height, expressed in meters. You can use the arrows left and right or enter numerically.
 
 4.1.7 Lay-out interface
 ------------------------
