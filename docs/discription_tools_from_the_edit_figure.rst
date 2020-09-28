@@ -38,19 +38,21 @@ Tools edit figure
 
  4.2.2.1 Speed
 
-  Tekst
+  Function where you can adjust the speed of execution of the layout. Use the arrows left and right to change the speed in steps of 0.1 (= 0.5 sec) or click on the numerical value to enter a new value. The higher the value, the faster the format will be executed. The length of the clip or scene will get shorter when speeding up and longer when slowing down.
 
  4.2.2.2 Rotation
 
-  Tekst
+  With this function you can rotate the layout of a clip or scene around 3 possible axes. The front, side and top axes are expressed in degrees. Front = the figuration will rotate frontally around its axis with or counterclockwise. Side = the figuration will rotate around its axis in side view, clockwise or counterclockwise. Top = the figuration will rotate around its vertical axis in frontal view. The add button allows you to add unlimited new rotation point. The red crosses on the right are used to delete the rotation point.
 
  4.2.2.3 Scale
 
-  Tekst
+  TYou have the option to scale the layout of a clip or scene to a different format according to an X, Y and Z axis. Increasing the numerical value is increasing the format, decreasing the values ​​is decreasing the format. Use the arrows left and right or click on the value to enter a new number. Next to the word "scale" you will find a slider, if this is on you can scale in proportion. If the slide switch is off, you can choose which W, Y or Z axis you want to scale separately.
+
 
  4.2.2.4 RAW clip width, depth, height
 
-  Tekst
+  This is the area in which the drones are located. In this space, adjustments can be made via the width, depth and height, expressed in meters. You can use the arrows left and right or enter numerically.
 
 4.2.3 Drone list
 ----------------
+xxxxxxxxxxxx
