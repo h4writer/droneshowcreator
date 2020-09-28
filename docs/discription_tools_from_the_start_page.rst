@@ -129,7 +129,7 @@ X axis = from left to straight, Y axis = from forward to back, Z axis = from top
 
  4.1.6.6 Speed
 
-  Tekst
+  Function where you can adjust the speed of execution of the layout. Use the arrows left and right to change the speed in steps of 0.1 (= 0.5 sec) or click on the numerical value to enter a new value. The higher the value, the faster the format will be executed. The length of the clip or scene will get shorter when speeding up and longer when slowing down.
 
  4.1.6.7 Rotation
 
