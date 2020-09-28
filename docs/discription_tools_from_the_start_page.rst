@@ -96,6 +96,7 @@
 
   In this list, all the different scenes are listed. A scene is a block in the timeline that contains clips with the layout of a certain figuration .
 The program always automatically places a first blank scene = main scene, this scene can be copied, exported or deleted. You do this by selecting the scene and using the right mouse button.
+
  4.1.4.2 New
 
   At the bottom of the sub-frame you can also choose to create a new scene. At properties you will then be given the option to rename all scenes. So a main scene can be composed of all other separate scenes. Example: scene A is placed in scene B, scene B is placed in scene C and scene C is placed in the main scene => the main scene then contains both scene A, B and C. Placing a scene in another scene is done via the book icon in the viewport. Every scene that is in the scene list is also in the book icon
