@@ -7,15 +7,16 @@
 
  4.3.1.1 File
 
-  Tekst
+  Includes the save and close function.
 
  4.3.1.2 Edit
 
-  Tekst
+  Contains the undo and redo functions.
 
  4.3.1.3 View
 
-  Tekst
+  Includes the function "drone frame" where you can choose whether or not you want to show the frame of the drones in the visualization and "Drone closeness indicator" which indicates with a red mark when the drones are placed too close to each other in the layout and this will cause problems in the effective output of the drone show.
+
 
 4.3.2 Buttonpane
 ----------------
