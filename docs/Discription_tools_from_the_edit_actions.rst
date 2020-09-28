@@ -114,10 +114,7 @@
 
  4.3.3.3 play button, speed up.
 
-  The double arrows to the left: If you click on this, the cursor needle automatically jumps to the beginning of the timeline.
-The play triangle: Clicking on this will cause the cursor needle to run from its position on the timeline.
-The double arrows to the right: If you click on this, the cursor needle will automatically move to the end of the layout. This means to the end position of the last block
-1x: This is the acceleration function, if you enter a value of 10x the playback speed will be accelerated 10x. The 1 value is the normal speed.
+  The double arrows to the left: If you click on this, the cursor needle automatically jumps to the beginning of the timeline.The play triangle: Clicking on this will cause the cursor needle to run from its position on the timeline. The double arrows to the right: If you click on this, the cursor needle will automatically move to the end of the layout. This means to the end position of the last block 1x: This is the acceleration function, if you enter a value of 10x the playback speed will be accelerated 10x. The 1 value is the normal speed.
 
  4.3.3.4 Vieuw zoom in and out
 
