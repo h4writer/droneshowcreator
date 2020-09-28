@@ -149,5 +149,5 @@
 4.1.7 Lay-out interface
 ------------------------
 
-The position of the layout can be adjusted as desired at any time. You can drag each panel to a different position, resize it as desired. Place the cursor on the edge of a panel, a left right arrow appears => click and move as desired. In each top right corner of each panel you will also find an icon to make the panel full screen, click this icon again to reduce it.
+ The position of the layout can be adjusted as desired at any time. You can drag each panel to a different position, resize it as desired. Place the cursor on the edge of a panel, a left right arrow appears => click and move as desired. In each top right corner of each panel you will also find an icon to make the panel full screen, click this icon again to reduce it.
  
