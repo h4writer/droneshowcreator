@@ -65,7 +65,7 @@
     
  - Redo
   
-   *Undo an action or operation*
+   *Redo an action or operation*
     
 3.1.3 View
 
@@ -99,10 +99,12 @@
 
  - About
   
-   tekst
+   *For asking questions in case of problems.*
    
 3.2 Viewport
 ---------------
+
+*In this section you will find the tools to place and select drones within a layout. The placed drones can be visualized in different positions in a simulation using an in and out zoom function. It is also possible to follow the timeline numerically and possibly to slow down or speed up the time.*
 
 3.2.1 Pen
 
