@@ -35,13 +35,15 @@
     
       - Width
       
-      tekst
+       tekst
       
       - Depth
       
-      tekst
+       tekst
       
       - Height
+      
+       tekst
     
 3.1.2 Edit
 
