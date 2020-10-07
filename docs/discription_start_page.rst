@@ -35,15 +35,27 @@
     
     - Width
       
-      tekst
+      *expressed in meters*
       
     - Depth
       
-      tekst
+      *expressed in meters*
       
     - Height
       
-      tekst
+      *expressed in meters*
+      
+    - Above ground
+    
+      *expressed in meters*
+      
+    - Background images
+    
+      *xxxxxxxxxxxxxxxxx*
+      
+    - Default drone size
+    
+      *xxxxxxxxxxxxxxxxxx*
     
 3.1.2 Edit
 
