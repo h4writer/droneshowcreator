@@ -148,42 +148,45 @@
  
 3.2.2 Cadrage icon
 
- Tekst
+ *Use this button if your layout is not fully visualized, the layout will be automatically resized until it fits in the visualization area. You can also use the three lines that frame the "View" area. Click with the mouse pointer on the lines and drag as desired.* 
  
 3.2.2 Preview procent
 
- Tekst
+ *You can also reduce, enlarge or fit the visualization of your layout by entering the desired percentages.*
  
 3.3 Clips
 ---------------
 
+ *A sequence is a horizontal space on the timeline where a markup block can be placed. You can create as many sequences vertically one below the other as needed for the intended end result. You can create a new sequence by clicking on the icon for new sequence to the left of the timeline or by dragging a format block down. A sequence is only intended for formatting and not for placing audio files.*
+
 3.3.1 Timeline
 
- Tekst
+ *This is the area where clips and scenes are placed on the sequence tracks and the audio files on the audio sequence. The timeline is therefore a collection of clips and scenes that together form a layout. You can also zoom in and out on the sequence timeline to make the blocks bigger or smaller => place the cursor on the numerical indication and roll the mouse wheel to enlarge or reduce.*
  
 3.3.2 Cursor needle
 
- Tekst
+ *The blue cursor needle always indicates the position of the visualization in the layout timeline. The needle can always be moved manually, but it is also magnetic, which means that if you drag a markup block to a different position, the needle will move along and move magnetically and take up position at the right end of that block. You can also adjust the position of the cursor needle in the clock in the viewport, by adjusting the values ​​the needle will take the position, this can be useful if you have to work in milliseconds. When placing a new markup block, the block will always be placed where the cursor needle is located. Note, it may be that there is not enough space next to the needle to place a new block because it has, for example, a very long time zone. in that case select a new sequence line that is still free to place the block.*
  
 3.3.3 Sequence
 
- Tekst
+ *A sequence is a horizontal space on the timeline where a markup block can be placed. You can create as many sequences vertically one below the other as needed for the intended end result. You can create a new sequence by clicking on the icon for new sequence to the left of the timeline or by dragging a format block down. A sequence is only intended for formatting and not for placing audio files. With the right mouse button you can change the name of the sequence.*
  
-3.3.4 Music icon
+3.3.4 Audio sequence
 
- Tekst
+ *This is the same as the regular sequence but only intended for placing audio files. This makes it easy to synchronize image and audio with each other. With the right mouse button you can change the name of the audio sequence.*
  
 3.3.5 Sequence icon
 
- Tekst
+ *To create a new sequence track in the timeline. You can also drag a clip or scene down to create unlimited and automatic new sequence jobs.*
  
 3.3.6 Audio sequence icon
 
- Tekst
+ *To create a new audio sequence track in the timeline. You can also drag an audio clip down to create unlimited and automatic new audio sequence jobs.*
  
-3.3.7 Right mouse botton
+3.3.7 Clip and scene cubes
 
- Tekst
+ *A clip is a block that you place on the sequence track via the pen or star tool and contains x number of drones in a formation that are bound to a certain time duration. You cannot edit a newly placed clip directly with "edit figure", it must first be converted (via right mouse button) to a raw file (convert into raw). Other options such as edit actions, take a snapshot or delete are available via the right mouse button without converting the clip to raw. A layout of several clips can be saved as a scene. You can re-import this collection at any time in a new format or new scene. A main scene can therefore consist of different scenes which in turn consist of other scenes. For more info see below under "scenelist".*
+
 
 3.4 Scene list
 ---------------
