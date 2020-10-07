@@ -185,4 +185,45 @@
  - Drones
   
    tekst
+   
+ - Start
+  
+   tekst
+   
+ - Duration
+  
+   tekst
+   
+ - Position X Y Z
+  
+   tekst
+   
+ - Remove
+  
+   tekst
  
+ 3.6.2 Transformation
+ 
+ - Speed
+  
+   tekst
+   
+ - Rotation
+  
+   tekst
+   
+ - Scale
+  
+   tekst
+   
+ 3.6.3 Action
+
+ 3.6.4 Formation
+ 
+ - Color
+  
+   tekst
+   
+ - Color
+  
+   Mode
