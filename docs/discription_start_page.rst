@@ -33,15 +33,15 @@
   
     *This function is used to determine the flight zone in which the drones must travel. the width, dept, height and above ground are displayed in meters.*
     
-      - Width
+     - Width
       
        tekst
       
-      - Depth
+     - Depth
       
        tekst
       
-      - Height
+     - Height
       
        tekst
     
