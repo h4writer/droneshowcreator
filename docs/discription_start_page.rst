@@ -9,27 +9,29 @@
 
 3.1.1 File
 
-  - New: Create a new document for the editing layout of a light show.
+  - New: 
+  
+    *Create a new document for the editing layout of a light show.*
   
   - Open
   
-    tekst
+    *To open an existing layout.*
   
   - Open recent
   
-    tekst
+    *List of your 20 most recently saved formatting documents.*
     
   - Save
   
-    tekst
+    *To save your layout.*
     
   - Save as
   
-    tekst
+    *Brings up a prompt to save your work as a file with a different name.*
     
   - Settings
   
-    tekst
+    *This function is used to determine the flight zone in which the drones must travel. the width, dept, height and above ground are displayed in meters.*
     
 3.1.2 Edit
 
