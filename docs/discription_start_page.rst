@@ -235,4 +235,19 @@
      Tekst
        
      - 5 rows
+     
+     - 5 cols
   
+     - Horizontal spacing
+
+     - Vertical spacing
+
+     - Rotation
+
+     - Plane
+     
+          - XZ plane
+          
+          - XZ plane
+          
+          - YZ plane
