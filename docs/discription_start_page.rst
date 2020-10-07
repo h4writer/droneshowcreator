@@ -80,9 +80,9 @@
 
 3.2.1 Pen
 
-Tekst
+ Tekst
 
 3.2.2 Star
 
-Tekst
+ Tekst
 
