@@ -234,5 +234,5 @@
   
      Tekst
        
-       5 rows
+        5 rows
   
