@@ -9,14 +9,14 @@
 
   - New
   
-  tekst
+    tekst
   
   - Open
   
-  tekst
+    tekst
   
   - Open recent
   
-  tekst
+    tekst
 
 
