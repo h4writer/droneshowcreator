@@ -37,7 +37,7 @@
   
    tekst
     
-  - Redo
+ - Redo
   
    tekst
     
