@@ -185,23 +185,20 @@
  
 3.3.7 Clip and scene cubes
 
- *A clip is a block that you place on the sequence track via the pen or star tool and contains x number of drones in a formation that are bound to a certain time duration. You cannot edit a newly placed clip directly with "edit figure", it must first be converted (via right mouse button) to a raw file (convert into raw). Other options such as edit actions, take a snapshot or delete are available via the right mouse button without converting the clip to raw. A layout of several clips can be saved as a scene. You can re-import this collection at any time in a new format or new scene. A main scene can therefore consist of different scenes which in turn consist of other scenes. For more info see below under "scenelist".*
-
+ *A clip is a block that you place on the sequence track via the pen or star tool and contains x number of drones in a formation that are bound to a certain time duration. You cannot edit a newly placed clip directly with "edit figure", it must first be converted (via right mouse button) to a raw file (convert into raw). Other options such as edit actions, take a snapshot or delete are available via the right mouse button without converting the clip to raw. A collection of different clips on the timeline can be saved as a scene. For more information see below at scene list.*
 
 3.4 Scene list
 ---------------
 
+*A collection of different clips on a timeline that is saved as a separate block is called a scene. At "scene list" all created scenes are listed.*
+
 3.4.1 Main
 
- Tekst
+ *When starting a new layout (= new document), the program will always automatically place a "main scene" in the "scene list". This is a blank scene in which the clips are automatically placed. The main scene can always be copied, exported or deleted. Use the right mouse button for this. The intention of the main scene, however, is that all other scenes come together here and serve as the main scene. It is best to create a new scene at the start of your edit, give it a name, place your clips in it and then import them into the "main scene". A scene containing clips can therefore be imported into another scene where it can be combined with other clips and scenes ... so these can be used interchangeably.*
  
 3.4.2 New
 
- Tekst
- 
-3.4.3 Right mouse botton
-
- Tekst
+ *To create a new scene => select the new scene from the list => go to properties to change the name. At "used drones" you can see how many drones are present in your scene. Note this number can be divided over several clips.*
  
 3.5 Movie preview
 ------------------
