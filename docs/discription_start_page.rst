@@ -61,39 +61,39 @@
 
  - Undo
   
-   tekst
+   *Undo an action or operation.*
     
  - Redo
   
-   tekst
+   *Undo an action or operation*
     
 3.1.3 View
 
  - Drone frames
   
-   tekst
+   *You can choose whether or not the frame of the drone is shown in the visualization.*
     
  - Drone closseness indicator
   
-   tekst
+   *Function that indicates with a red block above the drone when the drones are placed too close to each other,and this cannot be performed in reality.*
     
  - Scale drone
   
-   tekst
+   *xxxxxxxxxxxxxxxxxxxx*
 
  - Background images
   
-   tekst
+   *xxxxxxxxxxxxxxxxxxxxxx*
     
 3.1.4 Show
 
  - Upload
   
-   tekst
+   *function where an existing layout can be uploaded in your current layout.*
     
  - Export indoor
   
-   tekst
+   *Function whereby a layout for outdoor drones can be exported to a layout for indoor light shows with specific settings.*
     
 3.1.4 Help
 
