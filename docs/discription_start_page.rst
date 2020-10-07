@@ -247,6 +247,8 @@
    *With this function you can enlarge or reduce your layout within a clip or scene. If the slider on the right is on, so it has a blue color, the scaling will be done proportionally according to the X, Y, Z axis. You can also choose to scale according to a single axis, then you have to turn off the slider. You can enter the values ​​numerically or use the arrows. When resizing, make sure that the drones do not get too close to each other, otherwise the layout cannot be performed for safety reasons. You can check this via the menu bar => view => drone closeness indicator.*
    
  3.6.3 Action
+ 
+  - Edit action
 
   *With this button you automatically go to the edit actions menu, this is the same if you select your clip or scene in the timeline and use the right mouse button to go to edit actions. In the nemu of edit actions you can enter colors and movements, among other things.*
 
