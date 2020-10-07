@@ -9,9 +9,7 @@
 
 3.1.1 File
 
-  - New
-  
-    tekst
+  - New: Create a new document for the editing layout of a light show.
   
   - Open
   
