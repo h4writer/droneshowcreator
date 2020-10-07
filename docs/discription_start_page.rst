@@ -18,5 +18,27 @@
   - Open recent
   
     tekst
+    
+  - Save
+  
+    tekst
+    
+  - Save as
+  
+    tekst
+    
+   - Settings
+  
+    tekst
+    
+3.1.1 Edit
 
+  - Undo
+  
+    tekst
+    
+    
+  - Redo
+  
+    tekst
 
