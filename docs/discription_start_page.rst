@@ -272,27 +272,27 @@
        
      - 5 rows
      
-      *enter the number of rows.*
+       *enter the number of rows.*
      
      - 5 cols
      
-      *Enter the number of columns.*
+       *Enter the number of columns.*
   
      - Horizontal spacing
      
-      *Enter the horizontal space between 2 drones, expressed in meters.*
+       *Enter the horizontal space between 2 drones, expressed in meters.*
 
      - Vertical 
      
-      *Enter the vertical space between 2 drones, expressed in meters.*
+       *Enter the vertical space between 2 drones, expressed in meters.*
      
      - Rotation
      
-      *To rotate your layout around its center, expressed in degrees.*
+       *To rotate your layout around its center, expressed in degrees.*
      
      - Plane
      
-          - XZ plane
+        - XZ plane
           
            *Place your layout according to the XZ axis.*
           
