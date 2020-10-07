@@ -248,7 +248,7 @@
    
  3.6.3 Action
 
-   *With this button you automatically go to the edit actions menu, this is the same if you select your clip or scene in the timeline and use the right mouse button to go to edit actions. In the nemu of edit actions you can enter colors and movements, among other things.*
+  *With this button you automatically go to the edit actions menu, this is the same if you select your clip or scene in the timeline and use the right mouse button to go to edit actions. In the nemu of edit actions you can enter colors and movements, among other things.*
 
  3.6.4 Formation
  
@@ -270,36 +270,36 @@
        
      - 5 rows
      
-     *enter the number of rows.*
+      *enter the number of rows.*
      
      - 5 cols
      
-     *Enter the number of columns.*
+      *Enter the number of columns.*
   
      - Horizontal spacing
      
-     *Enter the horizontal space between 2 drones, expressed in meters.*
+      *Enter the horizontal space between 2 drones, expressed in meters.*
 
      - Vertical 
      
-     *Enter the vertical space between 2 drones, expressed in meters.*
+      *Enter the vertical space between 2 drones, expressed in meters.*
      
      - Rotation
      
-     *To rotate your layout around its center, expressed in degrees.*
+      *To rotate your layout around its center, expressed in degrees.*
      
      - Plane
      
           - XZ plane
           
-          *Place your layout according to the XZ axis.*
+           *Place your layout according to the XZ axis.*
           
           - XZ plane
           
-          *Place your layout according to the YZ axis.*
+           *Place your layout according to the YZ axis.*
           
           - YZ plane
           
-          *Place your layout according to the XY axis.*
+           *Place your layout according to the XY axis.*
           
           
