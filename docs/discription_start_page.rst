@@ -248,36 +248,58 @@
    
  3.6.3 Action
 
+   *With this button you automatically go to the edit actions menu, this is the same if you select your clip or scene in the timeline and use the right mouse button to go to edit actions. In the nemu of edit actions you can enter colors and movements, among other things.*
+
  3.6.4 Formation
  
  - Color
   
-   tekst
+   *Choose the color you want for your layout. Please note, this way you give a color to the entire layout of drones. If you want to give a single drone a color you have to go through "Edit figure". You can determine a color in different ways. The first option is to enter a # code (= web color). You can also choose the colors range, => click on the white box => you will get a colors range to choose from. A third way is the "custom color" at the bottom of the colors range, if you click on this you will get an extra window in which you can choose between HSB color, RGB color or a web color again.*
    
  - Mode
  
+   *In mode you will find pre-programmed figurations that you can automatically place as a clip on the timeline. This is actually the very first step you need to take to get started on your design.*
+ 
    - Single drone
   
-     Tekst
+     *Place a single drone.*
   
    - Grid
   
-     Tekst
+     *Place a grid of rows and colons.*
        
      - 5 rows
      
+     *enter the number of rows.*
+     
      - 5 cols
+     
+     *Enter the number of columns.*
   
      - Horizontal spacing
+     
+     *Enter the horizontal space between 2 drones, expressed in meters.*
 
-     - Vertical spacing
-
+     - Vertical 
+     
+     *Enter the vertical space between 2 drones, expressed in meters.*
+     
      - Rotation
-
+     
+     *To rotate your layout around its center, expressed in degrees.*
+     
      - Plane
      
           - XZ plane
           
+          *Place your layout according to the XZ axis.*
+          
           - XZ plane
           
+          *Place your layout according to the YZ axis.*
+          
           - YZ plane
+          
+          *Place your layout according to the XY axis.*
+          
+          
