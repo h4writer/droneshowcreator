@@ -7,7 +7,16 @@
 
 3.1.1 File
 
-The menu bar contains functions related to opening and saving files, project settings, undo edits, extra view options, upload and export options.
- 
+  - New
+  
+  tekst
+  
+  - Open
+  
+  tekst
+  
+  - Open recent
+  
+  tekst
 
 
