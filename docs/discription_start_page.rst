@@ -131,5 +131,29 @@
 
 3.3.1 Timeline
 
- Tekst
+Tekst
+ 
+3.3.2 Cursor needle
 
+Tekst
+ 
+3.3.3 Sequence
+
+Tekst
+ 
+3.3.4 Music icon
+
+Tekst
+ 
+3.3.5 Sequence icon
+
+Tekst
+ 
+3.3.6 Audio sequence icon
+
+Tekst
+ 
+3.3.7 Right mouse botton
+
+Tekst
+ 
