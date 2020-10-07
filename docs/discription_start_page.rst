@@ -33,7 +33,7 @@
     
 3.1.2 Edit
 
-  - Undo
+ - Undo
   
     tekst
     
