@@ -144,7 +144,7 @@
  
 3.2.2 Play buttons
 
-*The left button is used to automatically return the cursor needle to the beginning of the layout.
+ *The left button is used to automatically return the cursor needle to the beginning of the layout.
 The middle button is used to play the format. The right button is used to automatically move the cursor needle to the end of the markup, that is, at the end of the last block on the sequence line*
  
 3.2.2 Cadrage icon
