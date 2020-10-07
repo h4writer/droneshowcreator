@@ -35,11 +35,11 @@
 
  - Undo
   
-    tekst
+   tekst
     
   - Redo
   
-    tekst
+   tekst
     
 3.1.3 View
 
