@@ -35,19 +35,19 @@
     
     - Width
       
-      *expressed in meters*
+      *Expressed in meters*
       
     - Depth
       
-      *expressed in meters*
+      *Expressed in meters*
       
     - Height
       
-      *expressed in meters*
+      *Expressed in meters*
       
     - Above ground
     
-      *expressed in meters*
+      *Expressed in meters*
       
     - Background images
     
@@ -89,7 +89,7 @@
 
  - Upload
   
-   *function where an existing layout can be uploaded in your current layout.*
+   *Function where an existing layout can be uploaded in your current layout.*
     
  - Export indoor
   
@@ -203,32 +203,34 @@
 3.5 Movie preview
 ------------------
 
- Tekst
+ *xxxxxxxxxxxxxxxxxxxxx*
 
 3.6 Properties
 ------------------
 
+ *Enter parameters here at the beginning of your layout to obtain the desired result. Note, always select your posted clip or scene first to use the properties. If this is not selected, you cannot see anything in properties. When all parameters are entered as desired, the clip must be converted to a RAW clip => right mouse button => convert into raw => the last part of the properties window "formation" will then change to "RAW clip". The RAW clip can then be adjusted in width, depth and height.*
+ 
  3.6.1 General
  
  - Drones
   
-   tekst
+   *Displays the number of drones placed in the clip or scene.*
    
  - Start
   
-   tekst
+   *Displays the time when the clip or scene starts on the timeline, expressed in milliseconds. If you change this value, the clip or scene will jump in the timeline.*
    
  - Duration
   
-   tekst
+   *Displays the duration of the clip or scene on the timeline, expressed in milliseconds. If you change these values, the block of the clip or scene will become longer or shorter.*
    
  - Position X Y Z
   
-   tekst
+   *Here you can adjust the position of the placed drones in your clip or scene according to three axes. The X axis is left, right, the Y axis is forward, backward, and the Z axis is up and down.*
    
  - Remove
   
-   tekst
+   *With this button you delete the selected clip or scene in the timeline.*
  
  3.6.2 Transformation
  
