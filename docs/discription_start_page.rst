@@ -95,7 +95,7 @@
   
    *Function whereby a layout for outdoor drones can be exported to a layout for indoor light shows with specific settings.*
     
-3.1.4 Help
+3.1.5 Help
 
  - About
   
@@ -114,43 +114,43 @@
 
  *If you click on this, a clip will automatically appear on the timeline without a panel appearing. This clip automatically contains a grid, at the bottom right of the interface at properties you can adjust the grid to your liking in terms of design and number of drones. When the clip is created in the timeline => right mouse button => edit actions for more options*
  
-3.2.2 Text
+3.2.3 Text
 
  *When using the text icon, a clip will automatically appear in the timeline. Then go to "properties" => text => enter the desired text and parameters.*
  
-3.2.2 Image
+3.2.4 Image
 
  *For placing an image. Note the image must be in black / white (duotone) with a transparent background (PNG format). => click on the icon => a clip will appear => right colon => image none => click and place image.*
  
-3.2.2 Book icon
+3.2.5 Book icon
 
  *Library with existing scenes to choose from. Note, an existing layout to be placed in a new layout must first be saved in the "Library folder" before it is available for posting.*
  
-3.2.2 Music icon
+3.2.6 Music icon
 
  *For placing audio files. Note, you must first place a "music sequence" in the timeline before you can place the audio.*
  
-3.2.2 Camera icon
+3.2.7 Camera icon
 
  *xxxxxxxxxxxxxxxxxxxxxxxxx*
  
-3.2.2 Cube icon
+3.2.8 Cube icons
 
  *Three different perspectives are possible, front view, side view and top view. You can also use the directional arrows on your keyboard to freely define and rotate the perspective, which is very useful for complex structures. Method: first click with the mouse in the black part where the layout is visualized, then use the directional arrows.*
  
-3.2.2 Chrono time
+3.2.9 Chrono time
 
  *This time indication shows the position of the cursor needle in hours, minutes, seconds and milliseconds. If you move the cursor manually, the chrone will be adjusted automatically. The reverse way can also be used if you have to place the cursor very precisely, then enter the correct time indication to place the cursor very accurately.*
  
-3.2.2 Play buttons
+3.2.10 Play buttons
 
  *The left button is used to automatically return the cursor needle to the beginning of the layout. The middle button is used to play the format. The right button is used to automatically move the cursor needle to the end of the markup, that is, at the end of the last block on the sequence line*
  
-3.2.2 Cadrage icon
+3.2.11 Cadrage icon
 
  *Use this button if your layout is not fully visualized, the layout will be automatically resized until it fits in the visualization area. You can also use the three lines that frame the "View" area. Click with the mouse pointer on the lines and drag as desired.* 
  
-3.2.2 Preview procent
+3.2.12 Preview procent
 
  *You can also reduce, enlarge or fit the visualization of your layout by entering the desired percentages.*
  
@@ -236,15 +236,15 @@
  
  - Speed
   
-   tekst
+   *With this function you can speed up or slow down the selected clip or scene, depending on your choice, the block in the timeline will become longer or shorter.*
    
  - Rotation
   
-   tekst
+   *First click on the "add" button to activate this function. You can create an unlimited number of rotation buttons and combine them with each other. This function allows you to rotate a layout within a clip or scene in three different axes. The "front" axis: the layout will rotate frontally around its center. The "side" axis, the layout will rotate around its center through its side view. The "top" axis, the layout will rotate around its vertical center axis. The values ​​are expressed in degrees, which you can enter manually or use the arrows. If you press the red box with a cross next to the degrees, your setting will be deleted.*
    
- - Scale
+ - Scale X Y Z
   
-   tekst
+   *With this function you can enlarge or reduce your layout within a clip or scene. If the slider on the right is on, so it has a blue color, the scaling will be done proportionally according to the X, Y, Z axis. You can also choose to scale according to a single axis, then you have to turn off the slider. You can enter the values ​​numerically or use the arrows. When resizing, make sure that the drones do not get too close to each other, otherwise the layout cannot be performed for safety reasons. You can check this via the menu bar => view => drone closeness indicator.*
    
  3.6.3 Action
 
