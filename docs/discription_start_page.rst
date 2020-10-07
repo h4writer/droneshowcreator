@@ -125,4 +125,11 @@
 3.2.2 Preview procent
 
  Tekst
+ 
+3.3 Clips
+---------------
+
+3.3.1 Timeline
+
+ Tekst
 
