@@ -304,7 +304,7 @@
           
          *Place your layout according to the XY axis.*
          
-   - GCircle
+   - Circle
   
      *tekst*
        
@@ -319,5 +319,56 @@
      - Rotation
      
        *tekst*
+
+   - Rectangle
+  
+     *tekst*
+       
+     - 5 Rows
+     
+     *tekst*
+
+     - 5 RCols
+     
+     *tekst*
+
+     - Horizontal spacing
+     
+     *tekst*
+
+     - Vertical spacing
+     
+     *tekst*
+
+     - Radius
+     
+     *tekst*
+
+     - Plane
+     
+       - XZ plane
+          
+         *tekst*
+
+       - YZ plane
+          
+         *tekst*
+        
+       - XY plane
+          
+         *tekst*
+
+   - Sphere
+  
+     *tekst*
+       
+     - Drone count
+     
+     *tekst*
+    
+     - Radius
+     
+     *tekst*
+
           
           
