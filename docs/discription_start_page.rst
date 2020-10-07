@@ -282,7 +282,7 @@
      
        *Enter the horizontal space between 2 drones, expressed in meters.*
 
-     - Vertical 
+     - Vertical spacing
      
        *Enter the vertical space between 2 drones, expressed in meters.*
      
@@ -296,11 +296,11 @@
           
            *Place your layout according to the XZ axis.*
           
-          - XZ plane
+         - XZ plane
           
            *Place your layout according to the YZ axis.*
           
-          - YZ plane
+         - YZ plane
           
            *Place your layout according to the XY axis.*
           
