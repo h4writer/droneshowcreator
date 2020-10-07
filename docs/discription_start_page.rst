@@ -108,43 +108,44 @@
 
 3.2.1 Pen
 
- Tekst
+ *Used to manually draw and place drones. When activated, you get a new panel => first choose a color => then click on the plus sign in the left side => click in the field, a drone will appear.*
 
 3.2.2 Star
 
- Tekst
+ *If you click on this, a clip will automatically appear on the timeline without a panel appearing. This clip automatically contains a grid, at the bottom right of the interface at properties you can adjust the grid to your liking in terms of design and number of drones. When the clip is created in the timeline => right mouse button => edit actions for more options*
  
 3.2.2 Text
 
- Tekst
+ *When using the text icon, a clip will automatically appear in the timeline. Then go to "properties" => text => enter the desired text and parameters.*
  
 3.2.2 Image
 
- Tekst
+ *For placing an image. Note the image must be in black / white (duotone) with a transparent background (PNG format). => click on the icon => a clip will appear => right colon => image none => click and place image.*
  
 3.2.2 Book icon
 
- Tekst
+ *Library with existing scenes to choose from. Note, an existing layout to be placed in a new layout must first be saved in the "Library folder" before it is available for posting.*
  
 3.2.2 Music icon
 
- Tekst
+ *For placing audio files. Note, you must first place a "music sequence" in the timeline before you can place the audio.*
  
 3.2.2 Camera icon
 
- Tekst
+ *xxxxxxxxxxxxxxxxxxxxxxxxx*
  
 3.2.2 Cube icon
 
- Tekst
+ *Three different perspectives are possible, front view, side view and top view. You can also use the directional arrows on your keyboard to freely define and rotate the perspective, which is very useful for complex structures. Method: first click with the mouse in the black part where the layout is visualized, then use the directional arrows.*
  
 3.2.2 Chrono time
 
- Tekst
+ *This time indication shows the position of the cursor needle in hours, minutes, seconds and milliseconds. If you move the cursor manually, the chrone will be adjusted automatically. The reverse way can also be used if you have to place the cursor very precisely, then enter the correct time indication to place the cursor very accurately.*
  
 3.2.2 Play buttons
 
- Tekst
+ *The left button is used to automatically return the cursor needle to the beginning of the layout.
+The middle button is used to play the format. The right button is used to automatically move the cursor needle to the end of the markup, that is, at the end of the last block on the sequence line*
  
 3.2.2 Cadrage icon
 
