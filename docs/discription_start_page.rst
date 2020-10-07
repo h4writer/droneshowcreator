@@ -172,3 +172,13 @@
 
  Tekst
  
+3.5 Movie preview
+------------------
+
+ Tekst
+
+3.6 Properties
+------------------
+
+ 3.6.1 General
+ 
