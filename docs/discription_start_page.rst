@@ -43,34 +43,34 @@
     
 3.1.3 View
 
-  - Drone frames
+ - Drone frames
   
-    tekst
+   tekst
     
-  - Drone closseness indicator
+ - Drone closseness indicator
   
-    tekst
+   tekst
     
-  - Scale drone
+ - Scale drone
   
-    tekst
+   tekst
 
-  - Background images
+ - Background images
   
-    tekst
+   tekst
     
  3.1.4 Show
 
-  - Upload
+ - Upload
   
-    tekst
+   tekst
     
-  - Export indoor
+ - Export indoor
   
-    tekst
+   tekst
     
-  3.1.4 Help
+ 3.1.4 Help
 
-  - About
+ - About
   
-    tekst
+   tekst
