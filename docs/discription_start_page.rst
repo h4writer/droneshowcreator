@@ -59,7 +59,7 @@
   
    tekst
     
- 3.1.4 Show
+3.1.4 Show
 
  - Upload
   
@@ -69,7 +69,7 @@
   
    tekst
     
- 3.1.4 Help
+3.1.4 Help
 
  - About
   
