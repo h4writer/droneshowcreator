@@ -27,18 +27,50 @@
   
     tekst
     
-   - Settings
+  - Settings
   
     tekst
     
-3.1.1 Edit
+3.1.2 Edit
 
   - Undo
   
     tekst
     
-    
   - Redo
   
     tekst
+    
+3.1.3 View
 
+  - Drone frames
+  
+    tekst
+    
+  - Drone closseness indicator
+  
+    tekst
+    
+  - Scale drone
+  
+    tekst
+
+  - Background images
+  
+    tekst
+    
+ 3.1.4 Show
+
+  - Upload
+  
+    tekst
+    
+  - Export indoor
+  
+    tekst
+    
+  3.1.4 Help
+
+  - About
+  
+    tekst
