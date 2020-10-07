@@ -294,14 +294,14 @@
      
         - XZ plane
           
-           *Place your layout according to the XZ axis.*
+          *Place your layout according to the XZ axis.*
           
-         - XZ plane
+        - XZ plane
           
-           *Place your layout according to the YZ axis.*
+          *Place your layout according to the YZ axis.*
           
-         - YZ plane
+        - YZ plane
           
-           *Place your layout according to the XY axis.*
+          *Place your layout according to the XY axis.*
           
           
