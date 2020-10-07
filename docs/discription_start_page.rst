@@ -226,11 +226,11 @@
    
  - Mode
  
-  - Single drone
+   - Single drone
   
-   Tekst
+     Tekst
   
-  - Grid
+   - Grid
   
-    Tekst
+     Tekst
   
