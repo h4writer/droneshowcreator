@@ -248,7 +248,7 @@
    
  3.6.3 Action
  
-  - Edit action
+ - Edit action
 
   *With this button you automatically go to the edit actions menu, this is the same if you select your clip or scene in the timeline and use the right mouse button to go to edit actions. In the nemu of edit actions you can enter colors and movements, among other things.*
 
