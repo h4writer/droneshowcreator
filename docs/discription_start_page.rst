@@ -85,4 +85,44 @@
 3.2.2 Star
 
  Tekst
+ 
+3.2.2 Text
+
+ Tekst
+ 
+3.2.2 Image
+
+ Tekst
+ 
+3.2.2 Book icon
+
+ Tekst
+ 
+3.2.2 Music icon
+
+ Tekst
+ 
+3.2.2 Camera icon
+
+ Tekst
+ 
+3.2.2 Cube icon
+
+ Tekst
+ 
+3.2.2 Chrono time
+
+ Tekst
+ 
+3.2.2 Play buttons
+
+ Tekst
+ 
+3.2.2 Cadrage icon
+
+ Tekst
+ 
+3.2.2 Preview procent
+
+ Tekst
 
