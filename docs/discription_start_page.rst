@@ -303,5 +303,21 @@
        - YZ plane
           
          *Place your layout according to the XY axis.*
+         
+   - GCircle
+  
+     *tekst*
+       
+     - Drone count
+     
+       *tekst*
+
+     - Radius
+     
+       *tekst*
+
+     - Rotation
+     
+       *tekst*
           
           
