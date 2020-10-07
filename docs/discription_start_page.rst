@@ -224,6 +224,13 @@
   
    tekst
    
- - Color
+ - Mode
+ 
+  - Single drone
   
-   Mode
+   Tekst
+  
+  - Grid
+  
+    Tekst
+  
