@@ -98,7 +98,15 @@
 
   *tekst*
   
-      - Properties
+    - Properties
+
+    - Start
+
+    *tekst*
+
+    - Duration
+
+    *tekst*
 
  
 
