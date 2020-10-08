@@ -328,6 +328,124 @@
 
       *tekst*
 
+  5.2.2.4 Fade-in
+
+  *tekst*
+
+  - Properties
+
+    - Start
+
+      *tekst*
+
+    - Duration
+
+      *tekst*
+
+    - Drones
+
+      *tekst*
+
+    - Remove
+
+      *tekst*
+
+    - Blende mode
+
+      *tekst*
+
+    - Opacity
+
+      *tekst*
+
+    - Easing
+
+      *tekst*
+
+  5.2.2.5 Fade-out
+
+  *tekst*
+
+  - Properties
+
+    - Start
+
+      *tekst*
+
+    - Duration
+
+      *tekst*
+
+    - Drones
+
+      *tekst*
+
+    - Remove
+
+      *tekst*
+
+    - Blende mode
+
+      *tekst*
+
+    - Opacity
+
+      *tekst*
+
+    - Easing
+
+      *tekst*
+
+  5.2.2.6 Strobe
+
+  *tekst*
+
+  - Properties
+
+    - Start
+
+      *tekst*
+
+    - Duration
+
+      *tekst*
+
+    - Drones
+
+      *tekst*
+
+    - Remove
+
+      *tekst*
+
+    - Blende mode
+
+      *tekst*
+
+    - Opacity
+
+      *tekst*
+
+    - Start color
+
+      *tekst*
+
+    - Second color
+
+      *tekst*
+
+    - Strobe duration
+
+      *tekst*
+
+    _ Visible drones (%)
+
+      *tekst*
+
+    - Easing
+
+      *tekst*
+
 
 
     
