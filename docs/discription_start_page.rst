@@ -306,101 +306,101 @@
          
   - Circle
   
-    *tekst*
+    *For placing a circle.*
        
     - Drone count
      
-      *tekst*
+      *Enter the number of drones that form the circle.*
 
     - Radius
      
-      *tekst*
+      *The radius of the circle, determines the size of the circle.*
 
     - Rotation
      
-      *tekst*
+      *To rotate your layout around its center, expressed in degrees.*
 
   - Rectangle
   
-    *tekst*
+    *For placing a rectangle.*
        
     - 5 Rows
      
-      *tekst*
+      *Enter the number of rows.*
 
-    - 5 RCols
+    - 5 Cols
      
-      *tekst*
+      *Enter the number of columns.*
 
     - Horizontal spacing
      
-      *tekst*
+      *Enter the horizontal gap between 2 drones, expressed in meters.*
 
     - Vertical spacing
      
-      *tekst*
+      *Enter the horizontal gap between 2 drones, expressed in meters.*
 
     - Radius
      
-      *tekst*
+      *The radius of the rectangle, determines the size of the rectangle.*
 
     - Plane
      
       - XZ plane
           
-        *tekst*
+        *Place your layout according to the XZ axis.*
 
       - YZ plane
           
-        *tekst*
+        *Place your layout according to the YZ axis.*
         
       - XY plane
           
-        *tekst*
+        *Place your layout according to the XY axis.*
 
   - Sphere
   
-    *tekst*
+    *For placing a 3D sphere.*
        
     - Drone count
      
-      *tekst*
+      *The number of drones forming the sphere.*
     
     - Radius
      
-      *tekst*
+      *The radius of the sphere, determines the size of the sphere.*
 
   - Polygon
   
-    *tekst*
+    *For placing a polygon where you can determine the number of sides.*
        
     - Drone count
      
-      *tekst*
+      *The number of drones per side of the polygon.*
 
     - Radius
      
-      *tekst*
+      *The radius of the polygon, determines the size of the polygon.*
 
     - Side
      
-      *tekst*
+      *The number of sides that make up the polygon.*
 
   - Star
   
-    *tekst*
+    *To place a star-shaped figure, determine the number of sides yourself.*
        
     - Drone count
      
-      *tekst*
+      *The number of drones per side of the star.*
 
     - Radius
      
-      *tekst*
+      *The radius of the star, determines the size of the star.*
 
     - Side
      
-      *tekst*
+      *The number of sides that make up the star.*
 
           
           
