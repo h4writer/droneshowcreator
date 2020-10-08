@@ -50,9 +50,9 @@
 
     - Start
 
-    *Tekst*
+      *Tekst*
 
     - Duration
 
-    *Tekst*
+      *Tekst*
 
