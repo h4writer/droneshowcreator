@@ -272,7 +272,7 @@
        
     - 5 rows
      
-      *enter the number of rows.*
+      *Enter the number of rows.*
      
     - 5 cols
      
