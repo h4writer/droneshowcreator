@@ -438,7 +438,7 @@
 
       *tekst*
 
-    _ Visible drones (%)
+    - Visible drones (%)
 
       *tekst*
 
