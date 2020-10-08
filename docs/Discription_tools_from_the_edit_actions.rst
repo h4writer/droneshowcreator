@@ -1,5 +1,5 @@
 ===========================================
-4.3 Discription tools from the edit actions
+4.3 Tools edit actions
 ===========================================
 
 4.3.1 Menu bar
@@ -7,15 +7,16 @@
 
  4.3.1.1 File
 
-  Tekst
+  Includes the save and close function.
 
  4.3.1.2 Edit
 
-  Tekst
+  Contains the undo and redo functions.
 
  4.3.1.3 View
 
-  Tekst
+  Includes the function "drone frame" where you can choose whether or not you want to show the frame of the drones in the visualization and "Drone closeness indicator" which indicates with a red mark when the drones are placed too close to each other in the layout and this will cause problems in the effective output of the drone show.
+
 
 4.3.2 Buttonpane
 ----------------
@@ -24,100 +25,100 @@
 
   4.3.2.1.1 Bezier
 
-   Tekst
+   This is a parametric curve, defined by two points in a plane or space, connecting the first point to the last, starting in the direction of the second point. The drones or group of drones will follow the path of the drawn bezier. Note if you have a group of drones follow the path, the program will always take the center point of the group that will follow the path of the bezier. With this function you can make the drones move very dynamically. See chapter 4.3.4 "properties" for more information.
 
   4.3.2.1.2 Rotation
 
-   Tekst
+   You can rotate the layout around various axes. Via properties you can enter different details for the desired rotation. See chapter 4.3.4 "properties" for more information.
 
   4.3.2.1.3 Move
 
-   Tekst
+   Here you can move the layout from point A to point B in a rectilinear movement via properties you can enter various details for the desired move. See chapter 4.3.4 "properties" for more information. 
 
   4.3.2.1.4 Scale
 
-   Tekst
-
+   You can have the layout enlarged or reduced from a starting position, such as the effect of fireworks that burst open. Via properties you can enter various details for the desired move. 
+   
   4.3.2.1.5 Wave
 
-   Tekst
+   With this function you can automatically add a wave movement to your layout. For example, the effect of a waving flag. Via properties you can enter various details for the desired wave. See chapter 4.3.4 "properties" for more information. 
 
   4.3.2.1.6 Yaw
 
-   Tekst
+   Tekst xxxxxxxxxxxxxxxxxxxx
 
  4.3.2.2 Lights
 
   4.3.2.2.1 Colorize
 
-   Tekst
+   Giving a certain color to one or more drones. See chapter 4.3.4 "properties" for more information. 
 
   4.3.2.2.2 Fade
 
-   Tekst
+   Function where color A slowly fades and slowly changes into color B. See chapter 4.3.4 "properties" for more information. 
 
   4.3.2.2.3 Gradiënt
 
-   Tekst
+   Function in which there is a color change per unit of length. A color gradient occurs over the full length of a scene or clip. Color A fades slowly and transitions to color B, after which color B fades and transitions to color C ... See chapter 4.3.4 "properties" for more information. 
 
   4.3.2.2.4 Fade-in
 
-   Tekst
+   Function in which a color slowly emerges from black. See chapter 4.3.4 "properties" for more information. 
 
   4.3.2.2.5 Fade-out
 
-   Tekst
+   Function in which a color slowly fades to black. See chapter 4.3.4 "properties" for more information. 
 
   4.3.2.2.6 Strobe
 
-   Tekst
+   Function in which the LED turns on and off, causing flashes of light on a regular basis. The discharge time can be set manually via properties. See chapter 4.3.4 for more information.
 
   4.3.2.2.7 Sparkle
 
-   Tekst
+   Function in which the LEDs turn on and off very quickly and are randomly distributed among all drones in the complete layout.
 
   4.3.2.2.8 Roll over
 
-   Tekst
+   Function where color A will replace color B by rolling the color over the entire area of ​​the layout. See chapter 4.3.4 for more information.
 
   4.3.2.2.9 Spot
 
-   Tekst
+   This function ensures that you can place a color accent at a specific place within the layout, just like a light beam from a spotlight. See chapter 4.3.4 for more information.
 
   4.3.2.2.10 Image
 
-   Tekst
+   With this function it is possible to place an image over a grid of drones. See chapter 4.3.4 for more information.
 
   4.3.2.2.11 Rainbow
 
-   Tekst
+   With this function, a color gradient is automatically placed with the rainbow colors over the entire layout. The colors can be mutually adjusted. See chapter 4.3.4 for more information.
 
   4.3.2.2.12 Gamma correction
 
-   Tekest
+   This is a non-linear function to correct the light intensity, luminance or brightness of a color. The amount of gamma correction not only changes the brightness but also the ratio of red-green-blue. See chapter 4.3.4 for more information.
 
   4.3.2.2.13 Max light corrections
   
-   Tekst
+   xxxxxxxxxxxxxxxx
 
 4.3.3 Viewport
 --------------
 
  4.3.3.1 View cubus
 
-  Tekst
+  The program has 3 different preview perspectives, the front view (first cube), top view (second cube) and the side view (third cube). A fourth function uses the directional arrows on the keyboard to allow you to freely move the layout in all directions for the ideal perspective. The latter function can be very useful when formatting complex structures.
 
  4.3.3.2 Time indication
 
-  Tekst
+  This is the numerical representation of the cursor needle position in hours, minutes, seconds and milliseconds. If you adjust the numerical values ​​manually, the needle will automatically jump to the entered value.
 
- 4.3.3.3 play button, speed up, slow dawn
+ 4.3.3.3 play button, speed up.
 
-  Tekst
+  The double arrows to the left: If you click on this, the cursor needle automatically jumps to the beginning of the timeline.The play triangle: Clicking on this will cause the cursor needle to run from its position on the timeline. The double arrows to the right: If you click on this, the cursor needle will automatically move to the end of the layout. This means to the end position of the last block 1x: This is the acceleration function, if you enter a value of 10x the playback speed will be accelerated 10x. The 1 value is the normal speed.
 
  4.3.3.4 Vieuw zoom in and out
 
-  Tekst
+  The automatic framing icon ensures that your layout, regardless of size, is visualized in the available viewport frame. The percentage is automatically calculated for this. You can also manually determine the size of the visualization by entering a percentage yourself or by using the arrows. Manually determining the preview can be useful to enlarge details of complex structures for a clear interpretation.
 
 4.3.4 Properties
 -----------------
@@ -290,7 +291,7 @@
 
    Tekst
 
-  4.3.4.7.4 Remove
+  4.3.4.7.4 Remove 
 
    Tekst
 

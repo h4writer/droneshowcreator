@@ -26,7 +26,7 @@ Welcome to Andlights Dronecreator
    discription_tools_from_the_edit_figure
    discription_tools_from_the_edit_actions
    
-   .. toctree::
+.. toctree::
    :caption: Workflow
    :maxdepth: 2
    
