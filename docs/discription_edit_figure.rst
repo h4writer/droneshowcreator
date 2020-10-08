@@ -29,7 +29,7 @@ Tekst
 
 4.1.6 Color field
 
-*Tekst*
+  *Tekst*
 
   4.1.6.1 Color selector
 
