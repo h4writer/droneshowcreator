@@ -164,5 +164,77 @@
 
       *tekst*
 
+    - Remove
+
+      *tekst*
+
+    - Height
+
+      *tekst
+
+    - Time offset
+
+      *tekst*
+
+    - Angle
+
+      *tekst*
+
+    - Iterations
+
+      *tekst*
+
+  5.2.1.6 Yaw
+
+  *Tekst*
+
+  - Properties
+
+    - Start
+
+      *tekst*
+
+    - Duration
+
+      *tekst*
+
+    - Drones
+
+      *tekst*
+
+    - Remove
+
+      *tekst*
+
+    - Relative yaw
+
+      *tekst*
+
+5.2.2 Lights
+
+*tekst*
+
+  5.2.2.1 Colorize
+
+  *tekst*
+
+  - Properties
+
+    - Start
+
+      *tekst*
+
+    - Duration
+
+      *tekst
+
+    - Drones
+
+      *tekst
+
+    
+
+
+
  
 
