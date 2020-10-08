@@ -31,13 +31,13 @@ Tekst
 
   *Tekst*
 
-   4.1.6.1 Color selector
+    4.1.6.1 Color selector
 
-    *Tekst*
+      *Tekst*
 
-   4.1.6.2 Custom color
+    4.1.6.2 Custom color
 
-    *tekst*
+      *tekst*
 
 4.1.7 Cube icon
 
