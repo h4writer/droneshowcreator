@@ -1,19 +1,93 @@
 ===========================
-3.2 Edit figure
+4. Edit figure
 ===========================
 
-3.2.1 Viewport
+4.1 Viewport
 -------------
 
-In this room, the drones are placed, removed or modified by means of various layout tools. The layout is directly visualized. You can use different views, enlargements or reductions. TIP: You can turn the layout in a different perspective using the keyboard numeric arrows (nr 2, 4, 6, 8). => click with the cursor in the black area of ​​the layout => turn the arrows.
-
-3.2.2 Properties
-----------------
-
-THere you can add a number of basic settings to the layout, the most important is the "RAW clip". Here you can adjust the working field in which the drones are located.
-
-3.2.3 Drone list
-----------------
-
 Tekst
+
+4.1.1 Arrow
+  
+  *tekst*
+
+4.1.2 Four corners icon
+
+  *tekst*
+
+4.1.3 Plus icon
+
+  *tekst*
+
+4.1.4 Eraser icon
+
+  *tekst*
+
+4.1.5 Bucket
+
+  *tekst*
+
+4.1.6 Color field
+
+  *Tekst*
+
+    4.1.6.1 Color selector
+
+      *Tekst*
+
+    4.1.6.2 Custom color
+
+      *tekst*
+
+4.1.7 Cube icon
+
+  *tekst*
+
+4.1.8 Outlining icon
+
+  *Tekst*
+
+4.1.9 Visualisation in terms of percentage
+
+  *tekst*
+
+4.2 Properties
+
+  *tekst*
+
+4.2.1 Transformation
+
+  *tekst*
+
+  4.2.1.1 Speed
+
+    *Tekst*
+
+  4.2.1.2 Rotation
+
+    *tekst*
+
+  4.2.1.3 Scale
+
+    *tekst*
+
+4.2.2 Raw clip
+
+  *Tekst*
+
+  4.2.2.1 Width
+
+    *Tekst*
+
+  4.2.2.2 Depth
+
+    *tekst*
+
+  4.2.2.3 Height
+
+    *tekst*
+
+4.3 Drone list
+
+   
 
