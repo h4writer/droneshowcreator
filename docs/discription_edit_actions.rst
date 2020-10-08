@@ -47,11 +47,11 @@
 
   Properties:
 
-    Start
+    - Start
 
     *Tekst*
 
-    Duration
+   -  Duration
 
     *Tekst*
 
