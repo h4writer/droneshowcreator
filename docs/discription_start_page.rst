@@ -326,23 +326,23 @@
        
      - 5 Rows
      
-      *tekst*
+       *tekst*
 
      - 5 RCols
      
-      *tekst*
+       *tekst*
 
      - Horizontal spacing
      
-      *tekst*
+       *tekst*
 
      - Vertical spacing
      
-      *tekst*
+       *tekst*
 
      - Radius
      
-      *tekst*
+       *tekst*
 
      - Plane
      
