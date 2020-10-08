@@ -36,6 +36,7 @@
   *Tekst*
 
 5.2 Buttonpane
+----------------
 
 5.2.1 Movement
 
