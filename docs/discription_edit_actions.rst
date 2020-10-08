@@ -45,13 +45,13 @@
 
   *Tekst*
 
-    Properties:
+  Properties:
 
-      Start
+    Start
 
-      *Tekst*
+    *Tekst*
 
-      Duration
+    Duration
 
-      *Tekst*
+    *Tekst*
 
