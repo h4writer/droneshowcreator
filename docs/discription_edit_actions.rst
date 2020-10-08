@@ -94,5 +94,11 @@
 
       *Tekst*
 
+  5.2.1.3 Move
+
+  *tekst*
+  
+      - Properties
+
  
 
