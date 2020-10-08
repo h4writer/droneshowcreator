@@ -157,7 +157,7 @@
 3.3 Clips
 ---------------
 
- *A sequence is a horizontal space on the timeline where a markup block can be placed. You can create as many sequences vertically one below the other as needed for the intended end result. You can create a new sequence by clicking on the icon for new sequence to the left of the timeline or by dragging a format block down. A sequence is only intended for formatting and not for placing audio files.*
+*A sequence is a horizontal space on the timeline where a markup block can be placed. You can create as many sequences vertically one below the other as needed for the intended end result. You can create a new sequence by clicking on the icon for new sequence to the left of the timeline or by dragging a format block down. A sequence is only intended for formatting and not for placing audio files.*
 
 3.3.1 Timeline
 
@@ -272,11 +272,11 @@
        
     - 5 rows
      
-    *enter the number of rows.*
+      *enter the number of rows.*
      
     - 5 cols
      
-    *Enter the number of columns.*
+      *Enter the number of columns.*
   
      - Horizontal spacing
      
