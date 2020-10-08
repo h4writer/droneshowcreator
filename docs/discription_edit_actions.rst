@@ -114,6 +114,8 @@
 
     - Relative position X Y Z
 
+      *tekst*
+
   5.2.1.4 Scale
 
   *Tekst*
@@ -122,7 +124,7 @@
 
     - Start
 
-        *tekst*
+      *tekst*
 
     - Duration
 
