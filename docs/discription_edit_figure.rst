@@ -61,15 +61,15 @@ Tekst
 
   4.2.1.1 Speed
 
-    *Tekst*
+  *Tekst*
 
   4.2.1.2 Rotation
 
-    *tekst*
+  *tekst*
 
   4.2.1.3 Scale
 
-    *tekst*
+  *tekst*
 
 4.2.2 Raw clip
 
