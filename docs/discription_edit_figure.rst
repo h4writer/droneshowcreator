@@ -77,15 +77,15 @@ Tekst
 
   4.2.2.1 Width
 
-    *Tekst*
+  *Tekst*
 
   4.2.2.2 Depth
 
-    *tekst*
+  *tekst*
 
   4.2.2.3 Height
 
-    *tekst*
+  *tekst*
 
 4.3 Drone list
 
