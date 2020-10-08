@@ -278,129 +278,129 @@
      
       *Enter the number of columns.*
   
-     - Horizontal spacing
+    - Horizontal spacing
      
-       *Enter the horizontal space between 2 drones, expressed in meters.*
+      *Enter the horizontal space between 2 drones, expressed in meters.*
 
-     - Vertical spacing
+    - Vertical spacing
      
-       *Enter the vertical space between 2 drones, expressed in meters.*
+      *Enter the vertical space between 2 drones, expressed in meters.*
      
-     - Rotation
+    - Rotation
      
-       *To rotate your layout around its center, expressed in degrees.*
+      *To rotate your layout around its center, expressed in degrees.*
      
-     - Plane
+    - Plane
      
-       - XZ plane
+      - XZ plane
           
          *Place your layout according to the XZ axis.*
           
-       - XZ plane
+      - XZ plane
           
          *Place your layout according to the YZ axis.*
           
-       - YZ plane
+      - YZ plane
           
          *Place your layout according to the XY axis.*
          
-   - Circle
+  - Circle
   
-     *tekst*
+    *tekst*
        
-     - Drone count
+    - Drone count
      
-       *tekst*
+      *tekst*
 
-     - Radius
+    - Radius
      
-       *tekst*
+      *tekst*
 
-     - Rotation
+    - Rotation
      
-       *tekst*
+      *tekst*
 
-   - Rectangle
+  - Rectangle
   
-     *tekst*
+    *tekst*
        
-     - 5 Rows
+    - 5 Rows
      
-       *tekst*
+      *tekst*
 
-     - 5 RCols
+    - 5 RCols
      
-       *tekst*
+      *tekst*
 
-     - Horizontal spacing
+    - Horizontal spacing
      
-       *tekst*
+      *tekst*
 
-     - Vertical spacing
+    - Vertical spacing
      
-       *tekst*
+      *tekst*
 
-     - Radius
+    - Radius
      
-       *tekst*
+      *tekst*
 
-     - Plane
+    - Plane
      
-       - XZ plane
+      - XZ plane
           
          *tekst*
 
-       - YZ plane
+      - YZ plane
           
          *tekst*
         
-       - XY plane
+      - XY plane
           
          *tekst*
 
-   - Sphere
+  - Sphere
   
-     *tekst*
+    *tekst*
        
-     - Drone count
+    - Drone count
      
-       *tekst*
+      *tekst*
     
-     - Radius
+    - Radius
+     
+      *tekst*
+
+  - Polygon
+  
+    *tekst*
+       
+    - Drone count
      
        *tekst*
 
-   - Polygon
+    - Radius
+     
+       *tekst*
+
+    - Side
+     
+       *tekst*
+
+  - Star
   
-     *tekst*
+    *tekst*
        
-     - Drone count
+    - Drone count
      
-        *tekst*
+       *tekst*
 
-     - Radius
+    - Radius
      
-        *tekst*
+       *tekst*
 
-     - Side
+    - Side
      
-        *tekst*
-
-   - Star
-  
-     *tekst*
-       
-     - Drone count
-     
-        *tekst*
-
-     - Radius
-     
-        *tekst*
-
-     - Side
-     
-        *tekst*
+       *tekst*
 
           
           
