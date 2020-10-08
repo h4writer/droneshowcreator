@@ -364,11 +364,43 @@
        
      - Drone count
      
-      *tekst*
+       *tekst*
     
      - Radius
      
-      *tekst*
+       *tekst*
+
+   - Polygon
+  
+     *tekst*
+       
+     - Drone count
+     
+        *tekst*
+
+     - Radius
+     
+        *tekst*
+
+     - Side
+     
+        *tekst*
+
+   - Star
+  
+     *tekst*
+       
+     - Drone count
+     
+        *tekst*
+
+     - Radius
+     
+        *tekst*
+
+     - Side
+     
+        *tekst*
 
           
           
