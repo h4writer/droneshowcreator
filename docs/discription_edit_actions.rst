@@ -42,17 +42,17 @@
 
 *Tekst*
 
-  - 5.2.1.1 Bezier
+  5.2.1.1 Bezier
 
   *Tekst*
 
-  Properties:
+  - Properties:
 
-  - Start
+    - Start
 
-  *Tekst*
+    *Tekst*
 
-  - Duration
+    - Duration
 
-   *Tekst*
+    *Tekst*
 
