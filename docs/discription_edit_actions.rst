@@ -108,5 +108,41 @@
 
       *tekst*
 
+    - Drones
+
+      *Tekst*
+
+    - Relative position X Y Z
+
+  5.2.1.4 Scale
+
+  *Tekst*
+
+  - Properties
+
+    - Start
+
+        *tekst*
+
+    - Duration
+
+      *tekst*
+
+    - Drones
+
+      *tekst*
+
+    - Remove
+
+      *tekst*
+
+    - Scale X Y Z
+
+      *tekst*
+
+    - Scale point
+
+      *tekst*
+
  
 
