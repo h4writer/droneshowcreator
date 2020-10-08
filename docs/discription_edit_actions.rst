@@ -226,11 +226,61 @@
 
     - Duration
 
-      *tekst
+      *tekst*
 
     - Drones
 
-      *tekst
+      *tekst*
+
+    - Remove
+
+      *tekst*
+
+    - Blende mode
+
+      *tekst*
+
+    - Opacity
+
+      *tekst*
+
+    - Color
+    
+      *tekst*
+
+  5.2.2.2 Fade
+
+  *tekst*
+
+  - Properties
+
+    - Start
+
+      *tekst*
+
+    - Duration
+
+      *tekst*
+
+    - Drones
+
+      *tekst*
+
+    -Remove
+
+      *tekst*
+
+    - Blend mode
+
+      *tekst*
+
+    - Opacity
+
+      *tekst*
+
+    - Color
+
+      *tekst*
 
     
 
