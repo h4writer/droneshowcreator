@@ -146,5 +146,23 @@
 
       *tekst*
 
+  5.2.1.5 Wave
+
+  *tekst*
+
+  - Properties
+
+    - Start
+
+      *Tekst*
+
+    - Duration
+
+      *Tekst*
+
+    - Drones
+
+      *tekst*
+
  
 
