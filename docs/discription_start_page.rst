@@ -149,7 +149,7 @@
 3.2.11 Outlining icon
  *Use this button if your layout is not fully visualized, the layout will be automatically resized until it fits in the visualization area. You can also use the three lines that frame the "View" area. Click with the mouse pointer on the lines and drag as desired.* 
  
-3.2.12 PVisualisation in terms of percentage
+3.2.12 Visualisation in terms of percentage
 
  *You can also reduce, enlarge or fit the visualization of your layout by entering the desired percentages.*
  
