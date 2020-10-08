@@ -226,7 +226,7 @@
    
   - Position X Y Z
   
-    *Here you can adjust the position of the placed drones in your clip or scene according to three axes. The X axis is left, right, the Y axis is forward, backward, and the Z axis is up and down.*
+     *Here you can adjust the position of the placed drones in your clip or scene according to three axes. The X axis is left, right, the Y axis is forward, backward, and the Z axis is up and down.*
    
   - Remove
   
