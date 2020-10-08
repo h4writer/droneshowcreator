@@ -376,15 +376,15 @@
        
     - Drone count
      
-       *tekst*
+      *tekst*
 
     - Radius
      
-       *tekst*
+      *tekst*
 
     - Side
      
-       *tekst*
+      *tekst*
 
   - Star
   
@@ -392,15 +392,15 @@
        
     - Drone count
      
-       *tekst*
+      *tekst*
 
     - Radius
      
-       *tekst*
+      *tekst*
 
     - Side
      
-       *tekst*
+      *tekst*
 
           
           
