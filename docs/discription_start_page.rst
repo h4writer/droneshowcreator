@@ -272,11 +272,11 @@
        
     - 5 rows
      
-       *enter the number of rows.*
+    *enter the number of rows.*
      
-     - 5 cols
+    - 5 cols
      
-       *Enter the number of columns.*
+    *Enter the number of columns.*
   
      - Horizontal spacing
      
