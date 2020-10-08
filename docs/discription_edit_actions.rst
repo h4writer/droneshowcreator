@@ -56,3 +56,23 @@
 
       *Tekst*
 
+    - Drones
+
+      *Tekst*
+
+    - Remove
+
+      *Tekst*
+
+  5.2.1.2 Rotation
+
+  *tekst*
+
+  - Properties
+
+    - Start
+
+    *tekst*
+
+ 
+
