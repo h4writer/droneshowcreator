@@ -89,5 +89,7 @@ Tekst
 
 4.3 Drone list
 
+*tekst*
+
    
 
