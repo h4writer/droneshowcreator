@@ -294,15 +294,15 @@
      
       - XZ plane
           
-         *Place your layout according to the XZ axis.*
+        *Place your layout according to the XZ axis.*
           
       - XZ plane
           
-         *Place your layout according to the YZ axis.*
+        *Place your layout according to the YZ axis.*
           
       - YZ plane
           
-         *Place your layout according to the XY axis.*
+        *Place your layout according to the XY axis.*
          
   - Circle
   
@@ -348,15 +348,15 @@
      
       - XZ plane
           
-         *tekst*
+        *tekst*
 
       - YZ plane
           
-         *tekst*
+        *tekst*
         
       - XY plane
           
-         *tekst*
+        *tekst*
 
   - Sphere
   
