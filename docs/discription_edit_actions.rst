@@ -42,7 +42,7 @@
 
 *Tekst*
 
-  5.2.1.1 Bezier
+  - 5.2.1.1 Bezier
 
   *Tekst*
 
