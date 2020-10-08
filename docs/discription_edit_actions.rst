@@ -72,7 +72,23 @@
 
     - Start
 
-    *tekst*
+      *tekst*
+
+    - Duration
+
+      *Tekst*
+
+    - Drones
+
+      *tekst*
+
+    - Rotation
+
+      - Front: tekst
+
+      - Side: tekst
+
+      - Top: tekst
 
  
 
