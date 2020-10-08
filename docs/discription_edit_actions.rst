@@ -1,34 +1,27 @@
 ============================
-3.3 Edit actions
+5 Edit actions
 ============================
 
-3.3.1 Menu bar
+5.1 Menu bar
 --------------
 
-In the menu bar of the edit actions you will find functions related to saving, closing, undoing and view preferences.
+5.1.1 File
 
-3.3.2 Button pane
------------------
+  5.1.1.1 Save
 
-In this section you will find a list of all possible effects that you can apply to the drones. The effects are divided into 2 groups, a first group "movement" that applies to the movements of the drones and another group "lights" that applies to the lights. You can always use multiple effects in combination.
+  *Tekst*
 
-3.3.3 Viewport
---------------
+  5.1.1.2 Close
 
-TekstThis section provides visualization of the layout and allows you to instantly view the effects placed in the timeline in different perspectives.
-TIP you can place the cursor in a very accurate way in the desired place by entering the numerical value in the clock.
+  *Tekst*
 
-3.3.4 Properties
-----------------
+5.1.2 Edit
 
-This function displays the detail of the selected effect. If you have placed an effect in the timeline and click on it, you will get all possible settings that belong to this effect.
+  5.1.2.1 undo
 
-3.3.5 Action list
------------------
+  *Tekst*
 
-This is the timeline where the effects will be placed. The duration of the effect is automatically set to the duration of the sequence on which you want to place an effect. It is of course always possible to adjust the length of the effect by clicking and sliding it as desired at the ends of the bar. It is also possible to place different effects under each other, or to adjust the order by taking the blocks and dragging them to the desired place
+  5.1.2.2 Redo
 
-3.3.6 Drone list
-----------------
+  *Tekst*
 
-Tekst
