@@ -266,7 +266,7 @@
 
       *tekst*
 
-    -Remove
+    - Remove
 
       *tekst*
 
@@ -281,6 +281,54 @@
     - Color
 
       *tekst*
+
+  5.2.2.3 Gradiënt
+
+  *tekst*
+
+  - Properties
+
+    - Start
+
+      *tekst*
+
+    - Duration
+
+      *tekst*
+
+    - Drones
+
+      *tekst*
+
+    - Remove
+
+      *tekst*
+
+    - Blende mode
+
+      *tekst*
+
+    - Opacity
+
+      *tekst*
+
+    - Start color
+
+      *tekst*
+
+    - Second color
+
+      *tekst*
+
+    - Start position X Y Z
+    
+      *tekst*
+
+    - Stop position X Y Z
+
+      *tekst*
+
+
 
     
 
