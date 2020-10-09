@@ -62,7 +62,7 @@
 
     - Remove
 
-      *Tekst*
+      *With this button you delete the action that you have placed in the timeline.*
 
   5.2.1.2 Rotation
 
@@ -82,21 +82,17 @@
 
       *With drones you can make a choice to which the action is applies. You can apply the action to all drones, then choose "all drones" or you can apply the action to one or more selected drones and then choose edit => select the drone => use selected drone*
 
-    - Rotation
+    - Rotation front, side, top
 
-      - Front: tekst
-
-      - Side: tekst
-
-      - Top: tekst
+      *Here you can enter the number of degrees that the layout must be rotated according to 3 positions, front, side or top. The rotation point is automatically central to the layout.* 
 
     - Rotation point X Y Z
 
-      *Tekst*
+      *Here you can adjust the point where the rotation happens according to the X (= left, right), Y (= forward, backward) and Z (= top, bottom) axis. By default this point is placed in the middle point.*
 
   5.2.1.3 Move
 
-  *Here you can move the layout from point A to point B in a rectilinear movement via properties you can enter various details for the desired move. See chapter 4.3.4 "properties" for more information.*
+  *Here you can move the layout from point A to point B in a rectilinear movement via properties you can enter various details for the desired move.*
   
   - Properties
 
@@ -114,7 +110,7 @@
 
     - Relative position X Y Z
 
-      *tekst*
+      *Here you can determine the position according to the 3 axes to which the layout should move.*
 
   5.2.1.4 Scale
 
@@ -136,15 +132,15 @@
 
     - Remove
 
-      *tekst*
+      *With this button you delete the action that you have placed in the timeline.*
 
     - Scale X Y Z
 
-      *tekst*
+      *You have the option to scale the layout of a clip or scene to a different format according to an X, Y and Z axis. Increasing the numerical value is increasing the format, decreasing the values ​​is decreasing the format. Use the arrows left and right or click on the value to enter a new number. Next to the word "scale" you will find a slider, if this is on you can scale in proportion. If the slide switch is off, you can choose which X (= left, right), Y (= forward, backward) and Z (= top, bottom) axis you want to scale separately.*
 
     - Scale point
 
-      *tekst*
+      *Hier kan je het punt bepalen van waaruit de schaling gebeurd. U hebt de mogelijkheid om het schaalpunt te bepalen volgens de 3 assen (= left, right), Y (= forward, backward) and Z (= top, bottom)*
 
   5.2.1.5 Wave
 
@@ -166,7 +162,7 @@
 
     - Remove
 
-      *tekst*
+      *With this button you delete the action that you have placed in the timeline.*
 
     - Height
 
@@ -204,7 +200,7 @@
 
     - Remove
 
-      *tekst*
+      *With this button you delete the action that you have placed in the timeline.*
 
     - Relative yaw
 
@@ -234,7 +230,7 @@
 
     - Remove
 
-      *tekst*
+      *With this button you delete the action that you have placed in the timeline.*
 
     - Blende mode
 
@@ -268,7 +264,7 @@
 
     - Remove
 
-      *tekst*
+      *With this button you delete the action that you have placed in the timeline.*
 
     - Blend mode
 
@@ -302,7 +298,7 @@
 
     - Remove
 
-      *tekst*
+      *With this button you delete the action that you have placed in the timeline.*
 
     - Blende mode
 
@@ -348,7 +344,7 @@
 
     - Remove
 
-      *tekst*
+      *With this button you delete the action that you have placed in the timeline.*
 
     - Blende mode
 
@@ -382,7 +378,7 @@
 
     - Remove
 
-      *tekst*
+      *With this button you delete the action that you have placed in the timeline.*
 
     - Blende mode
 
@@ -416,7 +412,7 @@
 
     - Remove
 
-      *tekst*
+      *With this button you delete the action that you have placed in the timeline.*
 
     - Blende mode
 
@@ -466,7 +462,7 @@
 
     - Remove
 
-      *tekst*
+      *With this button you delete the action that you have placed in the timeline.*
 
     - Blende mode
 
@@ -516,7 +512,7 @@
 
     - Remove
 
-      *tekst*
+      *With this button you delete the action that you have placed in the timeline.*
 
     - Blende mode
 
@@ -562,7 +558,7 @@
 
     - Remove
 
-      *tekst*
+      *With this button you delete the action that you have placed in the timeline.*
 
     - Blende mode
 
@@ -620,7 +616,7 @@
 
     - Remove
 
-      *tekst*
+      *With this button you delete the action that you have placed in the timeline.*
 
     - Blende mode
 
@@ -674,7 +670,7 @@
 
     - Remove
 
-      *tekst*
+      *With this button you delete the action that you have placed in the timeline.*
 
     - Blende mode
 
@@ -708,7 +704,7 @@
 
     - Remove
 
-      *tekst*
+      *With this button you delete the action that you have placed in the timeline.*
 
     - Blende mode
 
@@ -742,7 +738,7 @@
 
     - Remove
 
-      *tekst*
+      *With this button you delete the action that you have placed in the timeline.*
 
     - Blende mode
 
