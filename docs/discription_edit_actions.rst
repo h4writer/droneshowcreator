@@ -50,7 +50,7 @@
 
     - Start
 
-      *Shows the time when a action starts. The unit is displayed in milliseconds. 3,000ms = 3 sec. You can always adjust the starting position numerically. *
+      *Shows the time when a action starts. The unit is displayed in milliseconds. 3,000ms = 3 sec. You can always adjust the starting position numerically.*
 
     - Duration
 
