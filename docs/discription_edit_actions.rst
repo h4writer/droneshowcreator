@@ -50,15 +50,15 @@
 
     - Start
 
-      *Shows the time when a action starts. The unit is displayed in milliseconds. 3,000ms = 3 sec. You can always adjust the starting position numerically.*
+      *Shows the time when a action bezier starts. The unit is displayed in milliseconds. 3,000ms = 3 sec. You can always adjust the starting position numerically.*
 
     - Duration
 
-      *Tekst*
+      *Specifies the duration of the action. The unit is displayed in milliseconds. 3,000ms = 3 sec. You can always numerically adjust the duration.*
 
     - Drones
 
-      *Tekst*
+      *With drones you can make a choice to which the action is applies. You can apply the action to all drones, then choose "all drones" or you can apply the action to one or more selected drones and then choose edit => select the drone => use selected drone*
 
     - Remove
 
@@ -72,15 +72,15 @@
 
     - Start
 
-      *tekst*
+      *Shows the time when a action rotation starts. The unit is displayed in milliseconds. 3,000ms = 3 sec. You can always adjust the starting position numerically.*
 
     - Duration
 
-      *Tekst*
+      *Specifies the duration of the action. The unit is displayed in milliseconds. 3,000ms = 3 sec. You can always numerically adjust the duration.*
 
     - Drones
 
-      *tekst*
+      *With drones you can make a choice to which the action is applies. You can apply the action to all drones, then choose "all drones" or you can apply the action to one or more selected drones and then choose edit => select the drone => use selected drone*
 
     - Rotation
 
@@ -102,15 +102,15 @@
 
     - Start
 
-      *tekst*
+      *Shows the time when a action move starts. The unit is displayed in milliseconds. 3,000ms = 3 sec. You can always adjust the starting position numerically.*
 
     - Duration
 
-      *tekst*
+      *Specifies the duration of the action. The unit is displayed in milliseconds. 3,000ms = 3 sec. You can always numerically adjust the duration.*
 
     - Drones
 
-      *Tekst*
+      *With drones you can make a choice to which the action is applies. You can apply the action to all drones, then choose "all drones" or you can apply the action to one or more selected drones and then choose edit => select the drone => use selected drone*
 
     - Relative position X Y Z
 
@@ -124,15 +124,15 @@
 
     - Start
 
-      *tekst*
+      *Shows the time when a action scale starts. The unit is displayed in milliseconds. 3,000ms = 3 sec. You can always adjust the starting position numerically.*
 
     - Duration
 
-      *tekst*
+      *Specifies the duration of the action. The unit is displayed in milliseconds. 3,000ms = 3 sec. You can always numerically adjust the duration.*
 
     - Drones
 
-      *tekst*
+      *With drones you can make a choice to which the action is applies. You can apply the action to all drones, then choose "all drones" or you can apply the action to one or more selected drones and then choose edit => select the drone => use selected drone*
 
     - Remove
 
@@ -154,15 +154,15 @@
 
     - Start
 
-      *Tekst*
+      *Shows the time when a action wave starts. The unit is displayed in milliseconds. 3,000ms = 3 sec. You can always adjust the starting position numerically.*
 
     - Duration
 
-      *Tekst*
+      *Specifies the duration of the action. The unit is displayed in milliseconds. 3,000ms = 3 sec. You can always numerically adjust the duration.*
 
     - Drones
 
-      *tekst*
+      *With drones you can make a choice to which the action is applies. You can apply the action to all drones, then choose "all drones" or you can apply the action to one or more selected drones and then choose edit => select the drone => use selected drone*
 
     - Remove
 
@@ -192,15 +192,15 @@
 
     - Start
 
-      *tekst*
+      *Shows the time when a action yaw starts. The unit is displayed in milliseconds. 3,000ms = 3 sec. You can always adjust the starting position numerically.*
 
     - Duration
 
-      *tekst*
+      *Specifies the duration of the action. The unit is displayed in milliseconds. 3,000ms = 3 sec. You can always numerically adjust the duration.*
 
     - Drones
 
-      *tekst*
+      *With drones you can make a choice to which the action is applies. You can apply the action to all drones, then choose "all drones" or you can apply the action to one or more selected drones and then choose edit => select the drone => use selected drone*
 
     - Remove
 
@@ -222,15 +222,15 @@
 
     - Start
 
-      *tekst*
+      *Shows the time when a actio colorizen starts. The unit is displayed in milliseconds. 3,000ms = 3 sec. You can always adjust the starting position numerically.*
 
     - Duration
 
-      *tekst*
+      *Specifies the duration of the action. The unit is displayed in milliseconds. 3,000ms = 3 sec. You can always numerically adjust the duration.*
 
     - Drones
 
-      *tekst*
+      *With drones you can make a choice to which the action is applies. You can apply the action to all drones, then choose "all drones" or you can apply the action to one or more selected drones and then choose edit => select the drone => use selected drone*
 
     - Remove
 
@@ -256,15 +256,15 @@
 
     - Start
 
-      *tekst*
+      *Shows the time when a action fade starts. The unit is displayed in milliseconds. 3,000ms = 3 sec. You can always adjust the starting position numerically.*
 
     - Duration
 
-      *tekst*
+     *Specifies the duration of the action. The unit is displayed in milliseconds. 3,000ms = 3 sec. You can always numerically adjust the duration.*
 
     - Drones
 
-      *tekst*
+      *With drones you can make a choice to which the action is applies. You can apply the action to all drones, then choose "all drones" or you can apply the action to one or more selected drones and then choose edit => select the drone => use selected drone*
 
     - Remove
 
@@ -290,15 +290,15 @@
 
     - Start
 
-      *tekst*
+      *Shows the time when a action gradiënt starts. The unit is displayed in milliseconds. 3,000ms = 3 sec. You can always adjust the starting position numerically.*
 
     - Duration
 
-      *tekst*
+      *Specifies the duration of the action. The unit is displayed in milliseconds. 3,000ms = 3 sec. You can always numerically adjust the duration.*
 
     - Drones
 
-      *tekst*
+      *With drones you can make a choice to which the action is applies. You can apply the action to all drones, then choose "all drones" or you can apply the action to one or more selected drones and then choose edit => select the drone => use selected drone*
 
     - Remove
 
@@ -336,15 +336,15 @@
 
     - Start
 
-      *tekst*
+      *Shows the time when a action fade-in starts. The unit is displayed in milliseconds. 3,000ms = 3 sec. You can always adjust the starting position numerically.*
 
     - Duration
 
-      *tekst*
+      *Specifies the duration of the action. The unit is displayed in milliseconds. 3,000ms = 3 sec. You can always numerically adjust the duration.*
 
     - Drones
 
-      *tekst*
+      *With drones you can make a choice to which the action is applies. You can apply the action to all drones, then choose "all drones" or you can apply the action to one or more selected drones and then choose edit => select the drone => use selected drone*
 
     - Remove
 
@@ -370,15 +370,15 @@
 
     - Start
 
-      *tekst*
+      *Shows the time when a action fade-out starts. The unit is displayed in milliseconds. 3,000ms = 3 sec. You can always adjust the starting position numerically.*
 
     - Duration
 
-      *tekst*
+      *Specifies the duration of the action. The unit is displayed in milliseconds. 3,000ms = 3 sec. You can always numerically adjust the duration.*
 
     - Drones
 
-      *tekst*
+      *With drones you can make a choice to which the action is applies. You can apply the action to all drones, then choose "all drones" or you can apply the action to one or more selected drones and then choose edit => select the drone => use selected drone*
 
     - Remove
 
@@ -404,15 +404,15 @@
 
     - Start
 
-      *tekst*
+      *Shows the time when a action strobe starts. The unit is displayed in milliseconds. 3,000ms = 3 sec. You can always adjust the starting position numerically.*
 
     - Duration
 
-      *tekst*
+      *Specifies the duration of the action. The unit is displayed in milliseconds. 3,000ms = 3 sec. You can always numerically adjust the duration.*
 
     - Drones
 
-      *tekst*
+      *With drones you can make a choice to which the action is applies. You can apply the action to all drones, then choose "all drones" or you can apply the action to one or more selected drones and then choose edit => select the drone => use selected drone*
 
     - Remove
 
@@ -454,15 +454,15 @@
 
     - Start
 
-      *tekst*
+      *Shows the time when a action sparkle starts. The unit is displayed in milliseconds. 3,000ms = 3 sec. You can always adjust the starting position numerically.*
 
     - Duration
 
-      *tekst*
+      *Specifies the duration of the action. The unit is displayed in milliseconds. 3,000ms = 3 sec. You can always numerically adjust the duration.*
 
     - Drones
 
-      *tekst*
+      *With drones you can make a choice to which the action is applies. You can apply the action to all drones, then choose "all drones" or you can apply the action to one or more selected drones and then choose edit => select the drone => use selected drone*
 
     - Remove
 
@@ -504,15 +504,15 @@
 
     - Start
 
-      *tekst*
+      *Shows the time when a action roll over starts. The unit is displayed in milliseconds. 3,000ms = 3 sec. You can always adjust the starting position numerically.*
 
     - Duration
 
-      *tekst*
+      *Specifies the duration of the action. The unit is displayed in milliseconds. 3,000ms = 3 sec. You can always numerically adjust the duration.*
 
     - Drones
 
-      *tekst*
+      *With drones you can make a choice to which the action is applies. You can apply the action to all drones, then choose "all drones" or you can apply the action to one or more selected drones and then choose edit => select the drone => use selected drone*
 
     - Remove
 
@@ -550,15 +550,15 @@
 
     - Start
 
-      *tekst*
+      *Shows the time when a action spot starts. The unit is displayed in milliseconds. 3,000ms = 3 sec. You can always adjust the starting position numerically.*
 
     - Duration
 
-      *tekst*
+      *Specifies the duration of the action. The unit is displayed in milliseconds. 3,000ms = 3 sec. You can always numerically adjust the duration.*
 
     - Drones
 
-      *tekst*
+      *With drones you can make a choice to which the action is applies. You can apply the action to all drones, then choose "all drones" or you can apply the action to one or more selected drones and then choose edit => select the drone => use selected drone*
 
     - Remove
 
@@ -608,15 +608,15 @@
 
     - Start
 
-      *tekst*
+      *Shows the time when a action image starts. The unit is displayed in milliseconds. 3,000ms = 3 sec. You can always adjust the starting position numerically.*
 
     - Duration
 
-      *tekst*
+      *Specifies the duration of the action. The unit is displayed in milliseconds. 3,000ms = 3 sec. You can always numerically adjust the duration.*
 
     - Drones
 
-      *tekst*
+      *With drones you can make a choice to which the action is applies. You can apply the action to all drones, then choose "all drones" or you can apply the action to one or more selected drones and then choose edit => select the drone => use selected drone*
 
     - Remove
 
@@ -662,15 +662,15 @@
 
     - Start
 
-      *tekst*
+      *Shows the time when a action rainbow starts. The unit is displayed in milliseconds. 3,000ms = 3 sec. You can always adjust the starting position numerically.*
 
     - Duration
 
-      *tekst*
+      *Specifies the duration of the action. The unit is displayed in milliseconds. 3,000ms = 3 sec. You can always numerically adjust the duration.*
 
     - Drones
 
-      *tekst*
+      *With drones you can make a choice to which the action is applies. You can apply the action to all drones, then choose "all drones" or you can apply the action to one or more selected drones and then choose edit => select the drone => use selected drone*
 
     - Remove
 
@@ -696,15 +696,15 @@
 
     - Start
 
-      *tekst*
+      *Shows the time when a action gamma correction starts. The unit is displayed in milliseconds. 3,000ms = 3 sec. You can always adjust the starting position numerically.*
 
     - Duration
 
-      *tekst*
+      *Specifies the duration of the action. The unit is displayed in milliseconds. 3,000ms = 3 sec. You can always numerically adjust the duration.*
 
     - Drones
 
-      *tekst*
+      *With drones you can make a choice to which the action is applies. You can apply the action to all drones, then choose "all drones" or you can apply the action to one or more selected drones and then choose edit => select the drone => use selected drone*
 
     - Remove
 
@@ -730,15 +730,15 @@
 
     - Start
 
-      *tekst*
+      *Shows the time when a action max light correction starts. The unit is displayed in milliseconds. 3,000ms = 3 sec. You can always adjust the starting position numerically.*
 
     - Duration
 
-      *tekst*
+      *Specifies the duration of the action. The unit is displayed in milliseconds. 3,000ms = 3 sec. You can always numerically adjust the duration.*
 
     - Drones
 
-      *tekst*
+      *With drones you can make a choice to which the action is applies. You can apply the action to all drones, then choose "all drones" or you can apply the action to one or more selected drones and then choose edit => select the drone => use selected drone*
 
     - Remove
 
