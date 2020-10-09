@@ -651,3 +651,105 @@
     - Blur
 
       *tekst*
+
+  5.2.2.11 Rainbow
+
+  *Tekst*
+
+  - Properties
+
+    - Start
+
+      *tekst*
+
+    - Duration
+
+      *tekst*
+
+    - Drones
+
+      *tekst*
+
+    - Remove
+
+      *tekst*
+
+    - Blende mode
+
+      *tekst*
+
+    - Opacity
+
+      *tekst*
+
+    - Color
+
+      *tekst*
+
+  5.2.2.12 Gamma correction
+
+  *Tekst*
+
+  - Properties
+
+    - Start
+
+      *tekst*
+
+    - Duration
+
+      *tekst*
+
+    - Drones
+
+      *tekst*
+
+    - Remove
+
+      *tekst*
+
+    - Blende mode
+
+      *tekst*
+
+    - Opacity
+
+      *tekst*
+
+    - Gamma
+
+      *tekst*
+
+  5.2.2.13 Max light correction
+
+  *Tekst*
+
+  - Properties
+
+    - Start
+
+      *tekst*
+
+    - Duration
+
+      *tekst*
+
+    - Drones
+
+      *tekst*
+
+    - Remove
+
+      *tekst*
+
+    - Blende mode
+
+      *tekst*
+
+    - Opacity
+
+      *tekst*
+
+    - Max light
+
+      *tekst*
