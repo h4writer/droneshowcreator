@@ -446,11 +446,208 @@
 
       *tekst*
 
+  5.2.2.7 Sparkle
 
+  *tekst*
 
-    
+  - Properties
 
+    - Start
 
+      *tekst*
 
- 
+    - Duration
 
+      *tekst*
+
+    - Drones
+
+      *tekst*
+
+    - Remove
+
+      *tekst*
+
+    - Blende mode
+
+      *tekst*
+
+    - Opacity
+
+      *tekst*
+
+    - Start color
+
+      *tekst*
+
+    - Second color
+
+      *tekst*
+
+    - Strobe duration
+
+      *tekst*
+
+    - Visible drones (%)
+
+      *tekst*
+
+    - Easing
+
+      *tekst*
+
+  5.2.2.8 Roll over
+
+  - Properties
+
+    - Start
+
+      *tekst*
+
+    - Duration
+
+      *tekst*
+
+    - Drones
+
+      *tekst*
+
+    - Remove
+
+      *tekst*
+
+    - Blende mode
+
+      *tekst*
+
+    - Opacity
+
+      *tekst*
+
+    - Start color
+
+      *tekst*
+
+    - Second color
+
+      *tekst*
+
+    - Start position X Y Z
+
+      *tekst*
+
+    - Stop position X Y Z
+
+      *tekst*
+
+  5.2.2.9 Spot
+
+  *Tekst*
+
+  - Properties
+
+    - Start
+
+      *tekst*
+
+    - Duration
+
+      *tekst*
+
+    - Drones
+
+      *tekst*
+
+    - Remove
+
+      *tekst*
+
+    - Blende mode
+
+      *tekst*
+
+    - Opacity
+
+      *tekst*
+
+    - Gradiënt type
+
+      *tekst*
+
+    - Start position
+
+      *tekst*
+
+    - End position
+
+      *tekst*
+
+    - Color
+
+      *tekst*
+
+    - Keyframe blend mode
+
+      *tekst*
+
+    - Cutt of after distance
+
+      *tekst*
+
+    - Gradiënt shift
+
+      *tekst*
+
+  5.2.2.10 Image
+
+  *Tekst*
+
+  - Properties
+
+    - Start
+
+      *tekst*
+
+    - Duration
+
+      *tekst*
+
+    - Drones
+
+      *tekst*
+
+    - Remove
+
+      *tekst*
+
+    - Blende mode
+
+      *tekst*
+
+    - Opacity
+
+      *tekst*
+
+    - Image
+
+      *tekst*
+
+    - Middle X Y Z
+
+      *tekst*
+
+    - Up X Y Z
+
+      *tekst*
+
+    - Right X Y Z
+
+      *tekst*
+
+    - Scale
+
+      *tekst*
+
+    - Blur
+
+      *tekst*
