@@ -64,6 +64,10 @@
 
       *With this button you delete the action that you have placed in the timeline.*
 
+    - Keyframes
+
+      *tekst*
+
   5.2.1.2 Rotation
 
   *You can rotate the layout around various axes. Via properties you can enter different details for the desired rotation. See chapter 4.3.4 "properties" for more information.*
@@ -90,6 +94,10 @@
 
       *Here you can adjust the point where the rotation happens according to the X (= left, right), Y (= forward, backward) and Z (= top, bottom) axis. By default this point is placed in the middle point.*
 
+    - Keyframes
+
+      *tekst*
+
   5.2.1.3 Move
 
   *Here you can move the layout from point A to point B in a rectilinear movement via properties you can enter various details for the desired move.*
@@ -111,6 +119,10 @@
     - Relative position X Y Z
 
       *Here you can determine the position according to the 3 axes to which the layout should move.*
+
+    - Keyframes
+
+      *tekst*
 
   5.2.1.4 Scale
 
@@ -142,6 +154,10 @@
 
       *Hier kan je het punt bepalen van waaruit de schaling gebeurd. U hebt de mogelijkheid om het schaalpunt te bepalen volgens de 3 assen (= left, right), Y (= forward, backward) and Z (= top, bottom)*
 
+    - Keyframes
+
+      *tekst*
+
   5.2.1.5 Wave
 
   *With this function you can automatically add a wave movement to your layout. For example, the effect of a waving flag. Via properties you can enter various details for the desired wave.*
@@ -166,17 +182,21 @@
 
     - Height
 
-      *tekst
+      *Here you determine the distance that the drone travels within its wave movement. The higher the number, the greater the wave movement.*
 
     - Time offset
 
-      *tekst*
+      *This determines the time the drone will take from point A to point B to make the wave movement.*
 
     - Angle
 
-      *tekst*
+      *This is the angle at which the wave will occur on the entire layout. If you place a grid and you take a wave of 0 ° it will move from left to right. At 90 ° the wave will move from back to front, and at 180 ° from right to left. Note, this function only works with the XV plane (=> this plane can be found in the start page => properties => plane).*
 
     - Iterations
+
+      *Here you can enter the number of wave movements that the layout will make during the duration. Example: With a duration of 3 seconds and an iteration of 5, the format will make 5 waves during those 3 seconds.*
+
+    - Keyframes
 
       *tekst*
 
@@ -204,15 +224,19 @@
 
     - Relative yaw
 
+      *xxxxxxxxxxxxxxxxxxxxxxxt*
+
+    - Keyframes
+
       *tekst*
 
 5.2.2 Lights
 
-*tekst*
+*Here you will find all light effects and color options that you can apply to your layout.*
 
   5.2.2.1 Colorize
 
-  *Giving a certain color to one or more drones. A color can be chosen from the color range or via custom color. See chapter 4.3.4 "properties" for more information. *
+  *Giving a certain color to one or more drones. A color can be chosen from the color range or via custom color.*
 
   - Properties
 
@@ -234,19 +258,23 @@
 
     - Blende mode
 
-      *tekst*
+      *With blende mode you have different options to mix colors, an extra color on top of the basic color that is given from the start page.*
 
     - Opacity
 
-      *tekst*
+      *The higher the number, the darker the color.*
 
     - Color
     
+      *Decide here which color you want to use. You can enter a webcolor code via a # number. You can use the colors range or choose "custom color" for HSB or RGB colors.*
+
+    - Keyframes
+
       *tekst*
 
   5.2.2.2 Fade
 
-  *Function where color A slowly fades and slowly changes into color B. See chapter 4.3.4 "properties" for more information. *
+  *Function where color A slowly fades and slowly changes into color B.*
 
   - Properties
 
@@ -268,19 +296,23 @@
 
     - Blend mode
 
-      *tekst*
+       *With blende mode you have different options to mix colors, an extra color on top of the basic color that is given from the start page.*
 
     - Opacity
 
-      *tekst*
+       *The higher the number, the darker the color.*
 
     - Color
+
+      *tekstDecide here which color you want to use. You can enter a webcolor code via a # number. You can use the colors range or choose "custom color" for HSB or RGB colors.*
+
+    - Keyframes
 
       *tekst*
 
   5.2.2.3 Gradiënt
 
-  *Function in which the LED turns on and off, causing flashes of light on a regular basis. The discharge time can be set manually via properties. See chapter 4.3.4 for more information.*
+  *Function in which the LED turns on and off, causing flashes of light on a regular basis. The discharge time can be set manually via properties.*
 
   - Properties
 
@@ -302,19 +334,31 @@
 
     - Blende mode
 
-      *tekst*
+      *With blende mode you have different options to mix colors, an extra color on top of the basic color that is given from the start page.*
 
     - Opacity
 
-      *tekst*
+       *The higher the number, the darker the color.*
 
     - Start color
 
-      *tekst*
+      *This is the color with which the gradient is started. you can choose from 3 options.*
+
+      - Inherit
+
+        *Inherit, here the program will always take the color that is just above the action in the timeline. Example row 1 = blue, row 2 = yellow and row 3 = gradient action => the gradient action on row 3 takes the color that is just above it, so from row 2 = yellow.*
+
+      - Color
+
+        *Here you choose a color yourself via the color fan, HSB color or RGB color.*
+
+      - Random
+
+        *The program will choose a color itself.*
 
     - Second color
 
-      *tekst*
+      *It is the color with which the gradient ends, here too you have the same options as at the beginning color.*
 
     - Start position X Y Z
     
@@ -324,9 +368,13 @@
 
       *tekst*
 
+    - Keyframes
+
+      *tekst*
+
   5.2.2.4 Fade-in
 
-  *Function in which a color slowly emerges from black. See chapter 4.3.4 "properties" for more information.*
+  *Function in which a color slowly emerges from black.*
 
   - Properties
 
@@ -348,19 +396,23 @@
 
     - Blende mode
 
-      *tekst*
+      *With blende mode you have different options to mix colors, an extra color on top of the basic color that is given from the start page.*
 
     - Opacity
 
-      *tekst*
+      *The higher the number, the darker the color.*
 
     - Easing
 
       *tekst*
 
+    - Keyframes
+
+      *tekst*
+
   5.2.2.5 Fade-out
 
-  *Function in which a color slowly fades to black. See chapter 4.3.4 "properties" for more information. *
+  *Function in which a color slowly fades to black.*
 
   - Properties
 
@@ -382,19 +434,23 @@
 
     - Blende mode
 
-      *tekst*
+      *With blende mode you have different options to mix colors, an extra color on top of the basic color that is given from the start page.*
 
     - Opacity
 
-      *tekst*
+      *The higher the number, the darker the color.*
 
     - Easing
 
       *tekst*
 
+    - Keyframes
+
+      *tekst*
+
   5.2.2.6 Strobe
 
-  *Function in which the LED turns on and off, causing flashes of light on a regular basis. The discharge time can be set manually via properties. See chapter 4.3.4 for more information.*
+  *Function in which the LED turns on and off, causing flashes of light on a regular basis. The discharge time can be set manually via properties.*
 
   - Properties
 
@@ -416,11 +472,11 @@
 
     - Blende mode
 
-      *tekst*
+      *With blende mode you have different options to mix colors, an extra color on top of the basic color that is given from the start page.*
 
     - Opacity
 
-      *tekst*
+      *The higher the number, the darker the color.*
 
     - Start color
 
@@ -442,9 +498,13 @@
 
       *tekst*
 
+    - Keyframes
+
+      *tekst*
+
   5.2.2.7 Sparkle
 
-  *Function in which the LEDs turn on and off very quickly and are randomly distributed among all drones in the complete layout. See chapter 4.3.4 for more information.*
+  *Function in which the LEDs turn on and off very quickly and are randomly distributed among all drones in the complete layout.*
 
   - Properties
 
@@ -466,11 +526,11 @@
 
     - Blende mode
 
-      *tekst*
+      *With blende mode you have different options to mix colors, an extra color on top of the basic color that is given from the start page.*
 
     - Opacity
 
-      *tekst*
+      *The higher the number, the darker the color.*
 
     - Start color
 
@@ -492,9 +552,13 @@
 
       *tekst*
 
+    - Keyframes
+
+      *tekst*
+
   5.2.2.8 Roll over
 
-  *Function where color A will replace color B by rolling the color over the entire area of ​​the layout. See chapter 4.3.4 for more information.*
+  *Function where color A will replace color B by rolling the color over the entire area of ​​the layout.*
 
   - Properties
 
@@ -516,11 +580,11 @@
 
     - Blende mode
 
-      *tekst*
+      *With blende mode you have different options to mix colors, an extra color on top of the basic color that is given from the start page.*
 
     - Opacity
 
-      *tekst*
+      *The higher the number, the darker the color.*
 
     - Start color
 
@@ -538,9 +602,13 @@
 
       *tekst*
 
+    - Keyframes
+
+      *tekst*
+
   5.2.2.9 Spot
 
-  *This function ensures that you can place a color accent at a specific place within the layout, just like a light beam from a spotlight. See chapter 4.3.4 for more information.*
+  *This function ensures that you can place a color accent at a specific place within the layout, just like a light beam from a spotlight.*
 
   - Properties
 
@@ -562,11 +630,11 @@
 
     - Blende mode
 
-      *tekst*
+      *With blende mode you have different options to mix colors, an extra color on top of the basic color that is given from the start page.*
 
     - Opacity
 
-      *tekst*
+      *The higher the number, the darker the color.*
 
     - Gradiënt type
 
@@ -582,7 +650,7 @@
 
     - Color
 
-      *tekst*
+      *Decide here which color you want to use. You can enter a webcolor code via a # number. You can use the colors range or choose "custom color" for HSB or RGB colors.*
 
     - Keyframe blend mode
 
@@ -596,9 +664,13 @@
 
       *tekst*
 
+    - Keyframes
+
+      *tekst*
+
   5.2.2.10 Image
 
-  *With this function it is possible to place an image over a grid of drones. See chapter 4.3.4 for more information.*
+  *With this function it is possible to place an image over a grid of drones.*
 
   - Properties
 
@@ -620,11 +692,11 @@
 
     - Blende mode
 
-      *tekst*
+      *With blende mode you have different options to mix colors, an extra color on top of the basic color that is given from the start page.*
 
     - Opacity
 
-      *tekst*
+      *The higher the number, the darker the color.*
 
     - Image
 
@@ -650,9 +722,13 @@
 
       *tekst*
 
+    - Keyframes
+
+      *tekst*
+
   5.2.2.11 Rainbow
 
-  *With this function, a color gradient is automatically placed with the rainbow colors over the entire layout. The colors can be mutually adjusted. See chapter 4.3.4 for more information.*
+  *With this function, a color gradient is automatically placed with the rainbow colors over the entire layout. The colors can be mutually adjusted.*
 
   - Properties
 
@@ -674,19 +750,23 @@
 
     - Blende mode
 
-      *tekst*
+      *With blende mode you have different options to mix colors, an extra color on top of the basic color that is given from the start page.*
 
     - Opacity
 
-      *tekst*
+      *The higher the number, the darker the color.*
 
     - Color
+
+      *Decide here which color you want to use. You can enter a webcolor code via a # number. You can use the colors range or choose "custom color" for HSB or RGB colors.*
+
+    - Keyframes
 
       *tekst*
 
   5.2.2.12 Gamma correction
 
-  *This is a non-linear function to correct the light intensity, luminance or brightness of a color. The amount of gamma correction not only changes the brightness but also the ratio of red-green-blue. See chapter 4.3.4 for more information.*
+  *This is a non-linear function to correct the light intensity, luminance or brightness of a color. The amount of gamma correction not only changes the brightness but also the ratio of red-green-blue.*
 
   - Properties
 
@@ -708,13 +788,17 @@
 
     - Blende mode
 
-      *tekst*
+      *With blende mode you have different options to mix colors, an extra color on top of the basic color that is given from the start page.*
 
     - Opacity
 
-      *tekst*
+      *The higher the number, the darker the color.*
 
     - Gamma
+
+      *tekst*
+
+    - Keyframes
 
       *tekst*
 
@@ -742,13 +826,17 @@
 
     - Blende mode
 
-      *tekst*
+      *With blende mode you have different options to mix colors, an extra color on top of the basic color that is given from the start page.*
 
     - Opacity
 
-      *tekst*
+      *The higher the number, the darker the color.*
 
     - Max light
+
+      *tekst*
+
+    - Keyframes
 
       *tekst*
 
