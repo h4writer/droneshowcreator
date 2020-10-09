@@ -145,12 +145,16 @@
 3.2.10 Play buttons
 
  *The left button is used to automatically return the cursor needle to the beginning of the layout. The middle button is used to play the format. The right button is used to automatically move the cursor needle to the end of the markup, that is, at the end of the last block on the sequence line*
+
+3.2.11 1x
+
+ *Dit is de versnellingsfunctie, normale snelheid is 1x, hoe hoger het getal hoe sneller op opmaak word afgespeeld.*
  
-3.2.11 Outlining icon
+3.2.12 Outlining icon
 
  *Use this button if your layout is not fully visualized, the layout will be automatically resized until it fits in the visualization area. You can also use the three lines that frame the "View" area. Click with the mouse pointer on the lines and drag as desired.* 
  
-3.2.12 Visualisation in terms of percentage
+3.2.13 Visualisation in terms of percentage
 
  *You can also reduce, enlarge or fit the visualization of your layout by entering the desired percentages.*
  
