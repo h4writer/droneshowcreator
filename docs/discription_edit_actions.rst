@@ -284,7 +284,7 @@
 
     - Duration
 
-     *Specifies the duration of the action. The unit is displayed in milliseconds. 3,000ms = 3 sec. You can always numerically adjust the duration.*
+      *Specifies the duration of the action. The unit is displayed in milliseconds. 3,000ms = 3 sec. You can always numerically adjust the duration.*
 
     - Drones
 
@@ -296,11 +296,11 @@
 
     - Blend mode
 
-       *With blende mode you have different options to mix colors, an extra color on top of the basic color that is given from the start page.*
+      *With blende mode you have different options to mix colors, an extra color on top of the basic color that is given from the start page.*
 
     - Opacity
 
-       *The higher the number, the darker the color.*
+      *The higher the number, the darker the color.*
 
     - Color
 
@@ -338,7 +338,7 @@
 
     - Opacity
 
-       *The higher the number, the darker the color.*
+      *The higher the number, the darker the color.*
 
     - Start color
 
