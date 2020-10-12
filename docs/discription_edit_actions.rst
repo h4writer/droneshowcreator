@@ -66,7 +66,7 @@
 
     - Keyframes
 
-      *tekst*
+      * With a keyframe you can add a movement or application to your layout. On the basis of a start and end point, you can place this application on the timeline of your clip or scene and move it as desired. Between these two points the action (bezier) will be active. *
 
   5.2.1.2 Rotation
 
@@ -96,7 +96,7 @@
 
     - Keyframes
 
-      *tekst*
+      * With a keyframe you can add a movement or application to your layout. On the basis of a start and end point, you can place this application on the timeline of your clip or scene and move it as desired. Between these two points the action (rotation) will be active. *
 
   5.2.1.3 Move
 
@@ -122,7 +122,7 @@
 
     - Keyframes
 
-      *tekst*
+      * With a keyframe you can add a movement or application to your layout. On the basis of a start and end point, you can place this application on the timeline of your clip or scene and move it as desired. Between these two points the action (move) will be active. *
 
   5.2.1.4 Scale
 
@@ -156,7 +156,7 @@
 
     - Keyframes
 
-      *tekst*
+      * With a keyframe you can add a movement or application to your layout. On the basis of a start and end point, you can place this application on the timeline of your clip or scene and move it as desired. Between these two points the action (scale) will be active. *
 
   5.2.1.5 Wave
 
@@ -198,7 +198,7 @@
 
     - Keyframes
 
-      *tekst*
+      * With a keyframe you can add a movement or application to your layout. On the basis of a start and end point, you can place this application on the timeline of your clip or scene and move it as desired. Between these two points the action (wave) will be active. *
 
   5.2.1.6 Yaw
 
@@ -228,7 +228,7 @@
 
     - Keyframes
 
-      *tekst*
+      * With a keyframe you can add a movement or application to your layout. On the basis of a start and end point, you can place this application on the timeline of your clip or scene and move it as desired. Between these two points the action (yaw) will be active. *
 
 5.2.2 Lights
 
@@ -270,7 +270,7 @@
 
     - Keyframes
 
-      *tekst*
+      * With a keyframe you can add a movement or application to your layout. On the basis of a start and end point, you can place this application on the timeline of your clip or scene and move it as desired. Between these two points the action (colorize) will be active. *
 
   5.2.2.2 Fade
 
@@ -308,7 +308,7 @@
 
     - Keyframes
 
-      *tekst*
+      * With a keyframe you can add a movement or application to your layout. On the basis of a start and end point, you can place this application on the timeline of your clip or scene and move it as desired. Between these two points the action (fade) will be active. *
 
   5.2.2.3 Gradiënt
 
@@ -370,7 +370,7 @@
 
     - Keyframes
 
-      *tekst*
+      * With a keyframe you can add a movement or application to your layout. On the basis of a start and end point, you can place this application on the timeline of your clip or scene and move it as desired. Between these two points the action (gradiënt) will be active. *
 
   5.2.2.4 Fade-in
 
@@ -408,7 +408,7 @@
 
     - Keyframes
 
-      *tekst*
+      * With a keyframe you can add a movement or application to your layout. On the basis of a start and end point, you can place this application on the timeline of your clip or scene and move it as desired. Between these two points the action (fade in) will be active. *
 
   5.2.2.5 Fade-out
 
@@ -446,7 +446,7 @@
 
     - Keyframes
 
-      *tekst*
+      ** With a keyframe you can add a movement or application to your layout. On the basis of a start and end point, you can place this application on the timeline of your clip or scene and move it as desired. Between these two points the action (fade out) will be active. *
 
   5.2.2.6 Strobe
 
@@ -500,7 +500,7 @@
 
     - Keyframes
 
-      *tekst*
+      * With a keyframe you can add a movement or application to your layout. On the basis of a start and end point, you can place this application on the timeline of your clip or scene and move it as desired. Between these two points the action (strobe) will be active. **tekst*
 
   5.2.2.7 Sparkle
 
@@ -554,7 +554,7 @@
 
     - Keyframes
 
-      *tekst*
+      * With a keyframe you can add a movement or application to your layout. On the basis of a start and end point, you can place this application on the timeline of your clip or scene and move it as desired. Between these two points the action (sparkle) will be active. *
 
   5.2.2.8 Roll over
 
@@ -604,7 +604,7 @@
 
     - Keyframes
 
-      *tekst*
+      * With a keyframe you can add a movement or application to your layout. On the basis of a start and end point, you can place this application on the timeline of your clip or scene and move it as desired. Between these two points the action (roll over) will be active. *
 
   5.2.2.9 Spot
 
@@ -666,7 +666,7 @@
 
     - Keyframes
 
-      *tekst*
+      * With a keyframe you can add a movement or application to your layout. On the basis of a start and end point, you can place this application on the timeline of your clip or scene and move it as desired. Between these two points the action (spot) will be active. *
 
   5.2.2.10 Image
 
@@ -724,7 +724,7 @@
 
     - Keyframes
 
-      *tekst*
+      * With a keyframe you can add a movement or application to your layout. On the basis of a start and end point, you can place this application on the timeline of your clip or scene and move it as desired. Between these two points the action (image) will be active. *
 
   5.2.2.11 Rainbow
 
@@ -762,7 +762,7 @@
 
     - Keyframes
 
-      *tekst*
+      * With a keyframe you can add a movement or application to your layout. On the basis of a start and end point, you can place this application on the timeline of your clip or scene and move it as desired. Between these two points the action (rainbow) will be active. *
 
   5.2.2.12 Gamma correction
 
@@ -796,11 +796,11 @@
 
     - Gamma
 
-      *tekst*
+      *xxxxxxxxxxxxxxxxxx*
 
     - Keyframes
 
-      *tekst*
+      * With a keyframe you can add a movement or application to your layout. On the basis of a start and end point, you can place this application on the timeline of your clip or scene and move it as desired. Between these two points the action (gamma corection) will be active. *
 
   5.2.2.13 Max light correction
 
@@ -834,11 +834,11 @@
 
     - Max light
 
-      *tekst*
+      *xxxxxxxxxxxxxxxxxxxxxxx*
 
     - Keyframes
 
-      *tekst*
+      * With a keyframe you can add a movement or application to your layout. On the basis of a start and end point, you can place this application on the timeline of your clip or scene and move it as desired. Between these two points the action (max light correction) will be active. *
 
 5.3 Viewport
 --------------
@@ -880,6 +880,6 @@ The double arrows to the right: If you click on this, the cursor needle will aut
 5.6 Drone list
 ----------------
 
-*tekst*
+*xxxxxxxxxxxxxxxxxx*
 
 
