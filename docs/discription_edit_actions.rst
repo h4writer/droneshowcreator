@@ -362,11 +362,11 @@
 
     - Start position X Y Z
     
-      *tekst*
+      *Determine the starting position where the gradient should start from the XYZ axis.*
 
     - Stop position X Y Z
 
-      *tekst*
+      *Determine the starting position where the gradient should stop from the XYZ axis.*
 
     - Keyframes
 
@@ -404,7 +404,7 @@
 
     - Easing
 
-      *tekst*
+      *xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx*
 
     - Keyframes
 
@@ -442,7 +442,7 @@
 
     - Easing
 
-      *tekst*
+      *xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx*
 
     - Keyframes
 
@@ -480,23 +480,44 @@
 
     - Start color
 
-      *tekst*
+      - Inherit
+
+        *Inherit, here the program will always take the color that is just above the action in the timeline. Example row 1 = blue, row 2 = yellow and row 3 = gradient action => the gradient action on row 3 takes the color that is just above it, so from row 2 = yellow.*
+
+      - Color
+
+        *Here you choose a color yourself via the color fan, HSB color or RGB color.*
+
+      - Random
+
+        *The program will choose a color itself.*
 
     - Second color
 
-      *tekst*
+      - Inherit
+
+        *Inherit, here the program will always take the color that is just above the action in the timeline. Example row 1 = blue, row 2 = yellow and row 3 = gradient action => the gradient action on row 3 takes the color that is just above it, so from row 2 = yellow.*
+
+      - Color
+
+        *Here you choose a color yourself via the color fan, HSB color or RGB color.*
+
+      - Random
+
+        *The program will choose a color itself.*
+
 
     - Strobe duration
 
-      *tekst*
+      *Here you determine how long the strobe's flash lasts. Expressed in milliseconds.*
 
     - Visible drones (%)
 
-      *tekst*
+      *Here you can determine the number of drones that will flash simultaneously during the strobo action.*
 
     - Easing
 
-      *tekst*
+      *xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx*
 
     - Keyframes
 
@@ -534,23 +555,43 @@
 
     - Start color
 
-      *tekst*
+      - Inherit
+
+        *Inherit, here the program will always take the color that is just above the action in the timeline. Example row 1 = blue, row 2 = yellow and row 3 = gradient action => the gradient action on row 3 takes the color that is just above it, so from row 2 = yellow.*
+
+      - Color
+
+        *Here you choose a color yourself via the color fan, HSB color or RGB color.*
+
+      - Random
+
+        *The program will choose a color itself.*
 
     - Second color
 
-      *tekst*
+      - Inherit
+
+        *Inherit, here the program will always take the color that is just above the action in the timeline. Example row 1 = blue, row 2 = yellow and row 3 = gradient action => the gradient action on row 3 takes the color that is just above it, so from row 2 = yellow.*
+
+      - Color
+
+        *Here you choose a color yourself via the color fan, HSB color or RGB color.*
+
+      - Random
+
+        *The program will choose a color itself.*
 
     - Strobe duration
 
-      *tekst*
+      *Enter the duration for how long a light flash burns, expressed in milliseconds.*
 
     - Visible drones (%)
 
-      *tekst*
+      *Here you can determine the number of drones that will flash simultaneously during the strobo action.*
 
     - Easing
 
-      *tekst*
+      *xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx*
 
     - Keyframes
 
@@ -558,7 +599,7 @@
 
   5.2.2.8 Roll over
 
-  *Function where color A will replace color B by rolling the color over the entire area of ​​the layout.*
+  *Function where color A will replace color B by rolling the color over the entire area of the layout.*
 
   - Properties
 
@@ -588,7 +629,17 @@
 
     - Start color
 
-      *tekst*
+      - Inherit
+
+        *Inherit, here the program will always take the color that is just above the action in the timeline. Example row 1 = blue, row 2 = yellow and row 3 = gradient action => the gradient action on row 3 takes the color that is just above it, so from row 2 = yellow.*
+
+      - Color
+
+        *Here you choose a color yourself via the color fan, HSB color or RGB color.*
+
+      - Random
+
+        *The program will choose a color itself.*
 
     - Second color
 
@@ -596,11 +647,11 @@
 
     - Start position X Y Z
 
-      *tekst*
+      *Determine the start position of the roll over via the XYZ axis.*
 
     - Stop position X Y Z
 
-      *tekst*
+      *Determine the stop position of the roll over via the XYZ axis.*
 
     - Keyframes
 
@@ -638,15 +689,21 @@
 
     - Gradiënt type
 
-      *tekst*
+      - Linear
+
+        * De spot loopt van de ene uithoek naar een andere uithoek.*
+
+      - Radial
+
+        * De spot loopt vanuit het centrum van de opmaak naar buiten toe.
 
     - Start position
 
-      *tekst*
+      *Determine the starting position of the spot along the XYZ axis.*
 
     - End position
 
-      *tekst*
+      *Determine the stop position of the spot along the XYZ axis.*
 
     - Color
 
@@ -654,15 +711,21 @@
 
     - Keyframe blend mode
 
-      *tekst*
+        - Fade between gradiënts
+          
+          *xxxxxxxxxxxxxxxxxxxxxxxxxxxx*
+
+        - Match and adapt time offsets
+          
+          *xxxxxxxxxxxxxxxxxxxxxxxxxxxx*
 
     - Cutt of after distance
 
-      *tekst*
+      *xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx*
 
     - Gradiënt shift
 
-      *tekst*
+      *xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx*
 
     - Keyframes
 
@@ -700,27 +763,27 @@
 
     - Image
 
-      *tekst*
+      * click on "none" to select a photo from the brouser and place it in the layout *
 
     - Middle X Y Z
 
-      *tekst*
+      *xxxxxxxxxxxxxxxxxxxxxxxxxxxxx*
 
     - Up X Y Z
 
-      *tekst*
+      *xxxxxxxxxxxxxxxxxxxxxxxxxxxxx*
 
     - Right X Y Z
 
-      *tekst*
+      *xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx*
 
     - Scale
 
-      *tekst*
+      *xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx*
 
     - Blur
 
-      *tekst*
+      *xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx*
 
     - Keyframes
 
