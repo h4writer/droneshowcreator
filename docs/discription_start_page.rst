@@ -11,8 +11,6 @@
 
 3.1.1 File
 
-  .. image:: images/file.jpg
-
   - New: 
   
     *Create a new document for the editing layout of a light show.*
@@ -63,8 +61,6 @@
 
 3.1.2 Edit
 
-.. image:: images/edit.jpg
-
  - Undo
   
    *Undo an action or operation.*
@@ -74,8 +70,6 @@
    *Redo an action or operation*
     
 3.1.3 View
-
-.. image:: images/view.jpg
 
  - Drone frames
   
