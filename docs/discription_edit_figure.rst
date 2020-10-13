@@ -77,6 +77,8 @@
 
   *In this panel you can enter limited presets.*
 
+  .. image:: images/properties_figure.jpg
+
 4.2.1 Transformation
 
   4.2.1.1 Speed
