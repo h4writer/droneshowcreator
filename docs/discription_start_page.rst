@@ -59,7 +59,7 @@
     
       *xxxxxxxxxxxxxxxxxx*
       
-.. image:: images/file.jpg
+  .. image:: images/file.jpg
     
 3.1.2 Edit
 
