@@ -126,7 +126,7 @@
 
  *Used to manually draw and place drones. When activated, you get a new panel (edit figure) => first choose a color => then click on the plus sign in the left side => click in the field, a drone will appear.*
  
-.. image:: images/Pen.jpg
+.. image:: images/Pen_tool.jpg
 
 3.2.2 Star
 
