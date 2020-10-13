@@ -125,6 +125,8 @@
 3.2.1 Pen
 
  *Used to manually draw and place drones. When activated, you get a new panel (edit figure) => first choose a color => then click on the plus sign in the left side => click in the field, a drone will appear.*
+ 
+.. image:: images/Pen.jpg
 
 3.2.2 Star
 
