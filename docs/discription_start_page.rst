@@ -184,9 +184,9 @@
 
 3.2.11 1x
 
- .. image:: images/Play_buttons.jpg
-
  *This is the acceleration function, normal speed is 1x, the higher the number, the faster format is played.*
+
+ .. image:: images/Play_buttons.jpg
  
 3.2.12 Outlining icon
 
