@@ -65,8 +65,6 @@
     
 3.1.2 Edit
 
-.. image:: images/Edit.jpg
-
  - Undo
   
    *Undo an action or operation.*
@@ -74,6 +72,8 @@
  - Redo
   
    *Redo an action or operation*
+
+.. image:: images/Edit.jpg
     
 3.1.3 View
 
