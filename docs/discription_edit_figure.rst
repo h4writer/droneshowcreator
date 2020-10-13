@@ -113,7 +113,6 @@
 
   *xxxxxxxxxxxxxxxxxxxxxxxx*
 
-  .. image:: images/dronelistfigure.jpg
+  .. image:: images/Dronelistfigure.jpg
   
-   
 
