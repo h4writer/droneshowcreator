@@ -65,7 +65,7 @@
     
 3.1.2 Edit
 
-  .. image:: images/edit.jpg
+.. image:: images/edit.jpg
 
  - Undo
   
