@@ -248,9 +248,13 @@
 
 *A collection of different clips on a timeline that is saved as a separate block is called a scene. At "scene list" all created scenes are listed.*
 
+ .. image:: images/scene.jpg
+
 3.4.1 Main
 
  *When starting a new layout (= new document), the program will always automatically place a "main scene" in the "scene list". This is a blank scene in which the clips are automatically placed. The main scene can always be copied, exported or deleted. Use the right mouse button for this. The intention of the main scene, however, is that all other scenes come together here and serve as the main scene. It is best to create a new scene at the start of your edit, give it a name, place your clips in it and then import them into the "main scene". A scene containing clips can therefore be imported into another scene where it can be combined with other clips and scenes ... so these can be used interchangeably.*
+
+ .. image:: images/scene_list.jpg
  
 3.4.2 New
 
