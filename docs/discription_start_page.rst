@@ -36,6 +36,7 @@
   - Settings
 
     *This function is used to determine the flight zone in which the drones must travel. the width, dept, height and above ground are displayed in meters.*
+    .. image:: images/setting.jpg
 
     - Width
       
@@ -60,8 +61,6 @@
     - Default drone size
     
       *xxxxxxxxxxxxxxxxxx*
-
-.. image:: images/setting.jpg
 
 3.1.2 Edit
 
