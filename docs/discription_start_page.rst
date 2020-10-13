@@ -7,7 +7,7 @@
 
 *The menu bar contains functions related to opening and saving files, project settings, undo edits, extra view options, upload and export options.*
 
-  .. image:: images/menubalk.jpg
+.. image:: images/menubalk.jpg
 
 3.1.1 File
 
@@ -34,10 +34,10 @@
     *Brings up a prompt to save your work as a file with a different name.*
     
   - Settings
-  
-    *This function is used to determine the flight zone in which the drones must travel. the width, dept, height and above ground are displayed in meters.*
 
 .. image:: images/Settings.jpg
+  
+    *This function is used to determine the flight zone in which the drones must travel. the width, dept, height and above ground are displayed in meters.*
 
     - Width
       
