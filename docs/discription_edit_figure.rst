@@ -13,9 +13,13 @@
   
   *With the arrow you can select one or more drones, use the shift key to select multiple drones separately.*
 
+  .. image:: images/pijl.jpg
+
 4.1.2 Four corners icon
 
   *First select with the arrow all the drones you want to edit => then click on the quadrilateral icon => a frame will appear around the outer drones of your selection. These drones are connected by a dotted line. On the four outer corners are anchor points that can be dragged. You can rotate, enlarge or reduce the frame.*
+
+  .. image:: images/Vier hoeken.jpg
 
 4.1.3 Plus icon
 
