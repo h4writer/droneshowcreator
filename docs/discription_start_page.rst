@@ -150,7 +150,7 @@
 
  *Library with existing scenes to choose from. Note, an existing layout to be placed in a new layout must first be saved in the "Library folder" before it is available for posting.*
  
-.. image:: images/book_icon.jpg
+  .. image:: images/book_icon.jpg
  
 3.2.6 Music icon
 
