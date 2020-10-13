@@ -126,19 +126,25 @@
 
  *Used to manually draw and place drones. When activated, you get a new panel (edit figure) => first choose a color => then click on the plus sign in the left side => click in the field, a drone will appear.*
  
-.. image:: images/Pen_tool.jpg
+  .. image:: images/Pen_tool.jpg
 
 3.2.2 Star
 
  *If you click on this, a clip will automatically appear on the timeline without a panel appearing. This clip automatically contains a grid, at the bottom right of the interface at properties you can adjust the grid to your liking in terms of design and number of drones. When the clip is created in the timeline => right mouse button => edit actions for more options*
+
+  .. image:: images/star_tool.jpg
  
 3.2.3 Text
 
- *When using the text icon, a clip will automatically appear in the timeline. Then go to "properties" => text => enter the desired text and parameters.*
+ *When using the text icon, a clip will automatically appear in the timeline. Then go to "properties" => text => enter the desired text and parameters.
+
+  .. image:: images/text_tool.jpg
  
 3.2.4 Image
 
  *For placing an image. Note the image must be in black / white (duotone) with a transparent background (PNG format). => click on the icon => a clip will appear => right colon => image none => click and place image.*
+ 
+   .. image:: images/image_tool.jpg
  
 3.2.5 Book icon
 
