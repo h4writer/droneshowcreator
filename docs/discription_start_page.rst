@@ -65,6 +65,8 @@
     
 3.1.2 Edit
 
+  .. image:: images/edit.jpg
+
  - Undo
   
    *Undo an action or operation.*
