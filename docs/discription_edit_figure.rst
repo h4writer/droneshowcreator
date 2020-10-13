@@ -112,5 +112,8 @@
 4.3 Drone list
 
   *xxxxxxxxxxxxxxxxxxxxxxxx*
+
+  .. image:: images/dronelistfigure.jpg
+  
    
 
