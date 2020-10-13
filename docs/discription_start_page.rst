@@ -63,7 +63,7 @@
 
 3.1.2 Edit
 
-.. image:: images/menubalk.jpg
+  .. image:: images/menubalk.jpg
 
  - Undo
   
