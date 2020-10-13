@@ -36,7 +36,7 @@
   - Settings
 
 
-  .. image:: images/Settings.jpg
+.. image:: images/Settings.jpg
 
   
     *This function is used to determine the flight zone in which the drones must travel. the width, dept, height and above ground are displayed in meters.*
