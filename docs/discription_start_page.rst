@@ -2,6 +2,8 @@
 3 Start page
 ==========================
 
+[foto 001 - menubalk.jpg]
+
 3.1 Menu bar
 ---------------
 
