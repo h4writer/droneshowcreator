@@ -205,13 +205,13 @@
 
 *A sequence is a horizontal space on the timeline where a markup block can be placed. You can create as many sequences vertically one below the other as needed for the intended end result. You can create a new sequence by clicking on the icon for new sequence to the left of the timeline or by dragging a format block down. A sequence is only intended for formatting and not for placing audio files.*
 
- .. image:: images/clips.jpg
+ .. image:: images/view.jpg
 
 3.3.1 Timeline
 
  *This is the area where clips and scenes are placed on the sequence tracks and the audio files on the audio sequence. The timeline is therefore a collection of clips and scenes that together form a layout. You can also zoom in and out on the sequence timeline to make the blocks bigger or smaller => place the cursor on the numerical indication and roll the mouse wheel to enlarge or reduce.*
 
- .. image:: images/tijdsbalk.jpg
+ .. image:: images/tijdbalk.jpg
  
 3.3.2 Cursor needle
 
