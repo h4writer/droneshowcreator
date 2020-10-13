@@ -156,23 +156,31 @@
 
  *For placing audio files. Note, you must first place a "music sequence" in the timeline before you can place the audio.*
  
-  .. image:: images/Audio_icon.jpg
+ .. image:: images/Audio_icon.jpg
  
 3.2.7 Camera icon
 
  *xxxxxxxxxxxxxxxxxxxxxxxxx*
+
+ .. image:: images/movie_icon.jpg
  
 3.2.8 Cube icons
 
  *Three different perspectives are possible, front view, side view and top view. You can also use the directional arrows on your keyboard to freely define and rotate the perspective, which is very useful for complex structures. Method: first click with the mouse in the black part where the layout is visualized, then use the directional arrows.*
+
+ .. image:: images/mcube_icon.jpg
  
 3.2.9 Chrono time
 
  *This time indication shows the position of the cursor needle in hours, minutes, seconds and milliseconds. If you move the cursor manually, the chrone will be adjusted automatically. The reverse way can also be used if you have to place the cursor very precisely, then enter the correct time indication to place the cursor very accurately.*
+
+ .. image:: images/chrono_time.jpg
  
 3.2.10 Play buttons
 
  *The left button is used to automatically return the cursor needle to the beginning of the layout. The middle button is used to play the format. The right button is used to automatically move the cursor needle to the end of the markup, that is, at the end of the last block on the sequence line*
+
+ .. image:: images/play_buttons.jpg
 
 3.2.11 1x
 
@@ -181,6 +189,8 @@
 3.2.12 Outlining icon
 
  *Use this button if your layout is not fully visualized, the layout will be automatically resized until it fits in the visualization area. You can also use the three lines that frame the "View" area. Click with the mouse pointer on the lines and drag as desired.* 
+
+ .. image:: images/outlining_icon.jpg
  
 3.2.13 Visualisation in terms of percentage
 
