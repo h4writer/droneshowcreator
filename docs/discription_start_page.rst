@@ -75,6 +75,8 @@
     
 3.1.3 View
 
+ .. image:: images/view.jpg
+
  - Drone frames
   
    *You can choose whether or not the frame of the drone is shown in the visualization.*
@@ -93,6 +95,8 @@
     
 3.1.4 Show
 
+ .. image:: images/show.jpg
+
  - Upload
   
    *Function where an existing layout can be uploaded in your current layout.*
@@ -102,6 +106,8 @@
    *Function whereby a layout for outdoor drones can be exported to a layout for indoor light shows with specific settings.*
     
 3.1.5 Help
+
+   .. image:: images/help.jpg
 
  - About
   
