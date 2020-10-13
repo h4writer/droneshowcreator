@@ -211,7 +211,7 @@
 
  *This is the area where clips and scenes are placed on the sequence tracks and the audio files on the audio sequence. The timeline is therefore a collection of clips and scenes that together form a layout. You can also zoom in and out on the sequence timeline to make the blocks bigger or smaller => place the cursor on the numerical indication and roll the mouse wheel to enlarge or reduce.*
 
- .. image:: images/timeline.jpg
+ .. image:: images/tijdsbalk.jpg
  
 3.3.2 Cursor needle
 
