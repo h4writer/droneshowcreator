@@ -265,7 +265,7 @@
 
  *xxxxxxxxxxxxxxxxxxxxx*
  
-  .. image:: images/moviepreview.jpg
+  .. image:: images/Moviepreview.jpg
 
 3.6 Properties
 ------------------
