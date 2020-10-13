@@ -14,8 +14,6 @@
   - New: 
   
     *Create a new document for the editing layout of a light show.*
-    
-    .. image:: images/file.jpg
   
   - Open
   
@@ -60,6 +58,8 @@
     - Default drone size
     
       *xxxxxxxxxxxxxxxxxx*
+      
+.. image:: images/file.jpg
     
 3.1.2 Edit
 
