@@ -19,27 +19,41 @@
 
   *First select with the arrow all the drones you want to edit => then click on the quadrilateral icon => a frame will appear around the outer drones of your selection. These drones are connected by a dotted line. On the four outer corners are anchor points that can be dragged. You can rotate, enlarge or reduce the frame.*
 
-  .. image:: images/Vier hoeken.jpg
+  .. image:: images/Vier_hoeken.jpg
 
 4.1.3 Plus icon
 
   *With this tool you can add extra drones to your formation layout. First select the desired color in the color area, this is set to black by default and will therefore not be visible. Then click on the plus icon => click in the black field to place additional drones. Use the visualization cube pads to place drones in the depth.*
 
+  .. image:: images/plusteken.jpg
+
 4.1.4 Eraser icon
 
   *Select one or more drones (shift key) you want to remove => click on the eraser icon => the selection will be removed.*
+
+  .. image:: images/gom.jpg
 
 4.1.5 Bucket
 
   *Is used to give one or more drones a specific color => select one or more drones => choose the desired color => click on the bucket => the color of the selected drones will be adjusted automatically.*
 
+  .. image:: images/emmer.jpg
+
 4.1.6 Color area
 
   *THere you can choose a desired color from a suggested color range, or you can create a color yourself via the link.*
 
+  .. image:: images/Color1.jpg
+
   4.1.6.1 Custom color
 
   *Here you have the option to compose a color yourself according to the RGB color code or the web color code, hue, saturation, brightness and opacity can also be adjusted here.*
+
+  .. image:: images/Color2.jpg
+
+  .. image:: images/Color3.jpg
+
+  .. image:: images/Color4.jpg
 
 4.1.7 Cube icon
 
