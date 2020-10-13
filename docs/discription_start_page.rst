@@ -144,7 +144,7 @@
 
  *For placing an image. Note the image must be in black / white (duotone) with a transparent background (PNG format). => click on the icon => a clip will appear => right colon => image none => click and place image.*
  
-   .. image:: images/Image_tool.jpg
+  .. image:: images/Image_tool.jpg
  
 3.2.5 Book icon
 
