@@ -2,7 +2,7 @@
 3 Start page
 ==========================
 
-.. image:: images/dronelist.jpg
+.. image:: images/menubalk.jpg
 
 3.1 Menu bar
 ---------------
