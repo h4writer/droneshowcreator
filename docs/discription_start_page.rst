@@ -186,17 +186,19 @@
 
  *This is the acceleration function, normal speed is 1x, the higher the number, the faster format is played.*
 
- .. image:: images/Play_buttons.jpg
+ .. image:: images/versnellen.jpg
  
 3.2.12 Outlining icon
 
  *Use this button if your layout is not fully visualized, the layout will be automatically resized until it fits in the visualization area. You can also use the three lines that frame the "View" area. Click with the mouse pointer on the lines and drag as desired.* 
 
- .. image:: images/Outlining_icons.jpg
+ .. image:: images/kadrage.jpg
  
 3.2.13 Visualisation in terms of percentage
 
  *You can also reduce, enlarge or fit the visualization of your layout by entering the desired percentages.*
+
+ .. image:: images/kpercentage.jpg
  
 3.3 Clips
 ---------------
