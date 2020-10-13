@@ -126,7 +126,7 @@
 
  *Used to manually draw and place drones. When activated, you get a new panel (edit figure) => first choose a color => then click on the plus sign in the left side => click in the field, a drone will appear.*
  
-  .. image:: images/Pen_tool.jpg
+ .. image:: images/Pen_tool.jpg
 
 3.2.2 Star
 
@@ -150,9 +150,13 @@
 
  *Library with existing scenes to choose from. Note, an existing layout to be placed in a new layout must first be saved in the "Library folder" before it is available for posting.*
  
+.. image:: images/book_icon.jpg
+ 
 3.2.6 Music icon
 
  *For placing audio files. Note, you must first place a "music sequence" in the timeline before you can place the audio.*
+ 
+  .. image:: images/Music_tool.jpg
  
 3.2.7 Camera icon
 
