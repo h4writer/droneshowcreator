@@ -274,6 +274,7 @@
 
  .. image:: images/Properties.jpg
 
+
  .. image:: images/properties_details.jpg
  
 3.6.1 General
