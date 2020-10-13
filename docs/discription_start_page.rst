@@ -156,7 +156,7 @@
 
  *For placing audio files. Note, you must first place a "music sequence" in the timeline before you can place the audio.*
  
-  .. image:: images/Music_icon.jpg
+  .. image:: images/Audio_icon.jpg
  
 3.2.7 Camera icon
 
