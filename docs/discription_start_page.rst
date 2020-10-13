@@ -198,7 +198,7 @@
 
  *You can also reduce, enlarge or fit the visualization of your layout by entering the desired percentages.*
 
- .. image:: images/Mpercent.jpg
+ .. image:: images/percent.jpg
  
 3.3 Clips
 ---------------
