@@ -273,11 +273,11 @@
 *Enter parameters here at the beginning of your layout to obtain the desired result. Note, always select your posted clip or scene first to use the properties. If this is not selected, you cannot see anything in properties. When all parameters are entered as desired, the clip must be converted to a RAW clip => right mouse button => convert into raw => the last part of the properties window "formation" will then change to "RAW clip". The RAW clip can then be adjusted in width, depth and height.*
 
  .. image:: images/Properties.jpg
-
- .. image:: images/properties_details.jpg
  
 3.6.1 General
  
+ .. image:: images/properties_details.jpg
+
   - Drones
   
     *Displays the number of drones placed in the clip or scene.*
