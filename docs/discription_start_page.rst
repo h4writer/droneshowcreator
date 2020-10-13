@@ -7,7 +7,7 @@
 
 *The menu bar contains functions related to opening and saving files, project settings, undo edits, extra view options, upload and export options.*
 
-.. image:: images/menubalk.jpg
+  .. image:: images/menubalk.jpg
 
 3.1.1 File
 
