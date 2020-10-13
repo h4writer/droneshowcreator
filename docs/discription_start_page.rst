@@ -61,7 +61,7 @@
     
       *xxxxxxxxxxxxxxxxxx*
 
-.. image:: images/Settings.jpg
+  .. image:: images/Settings.jpg
     
 3.1.2 Edit
 
