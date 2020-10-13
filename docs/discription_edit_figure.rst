@@ -41,7 +41,7 @@
 
 4.1.6 Color area
 
-  *THere you can choose a desired color from a suggested color range, or you can create a color yourself via the link.*
+  *Here you can choose a desired color from a suggested color range, or you can create a color yourself via the link.*
 
   .. image:: images/Color1.jpg
 
@@ -59,13 +59,19 @@
 
   *Three different perspectives are possible, front view, side view and top view. You can also use the directional arrows on your keyboard to freely define and rotate the perspective, which is very useful for complex structures. Method: first click with the mouse in the black part where the layout is visualized, then use the directional arrows.*
 
+  .. image:: images/cubus.jpg
+
 4.1.8 Outlining icon
 
   *Use this button if your layout is not fully visualized, the layout will be automatically resized until it fits in the visualization area. You can also use the three lines that frame the "View" area. Click with the mouse pointer on the lines and drag as desired.*
 
+  .. image:: images/kadrage.jpg
+
 4.1.9 Visualisation in terms of percentage
 
   *You can also reduce, enlarge or fit the visualization of your layout by entering the desired percentages.*
+
+  .. image:: images/percent.jpg
 
 4.2 Properties
 
