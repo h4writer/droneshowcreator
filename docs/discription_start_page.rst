@@ -241,6 +241,8 @@
 
  *A clip is a block that you place on the sequence track via the pen or star tool and contains x number of drones in a formation that are bound to a certain time duration. You cannot edit a newly placed clip directly with "edit figure", it must first be converted (via right mouse button) to a raw file (convert into raw). Other options such as edit actions, take a snapshot or delete are available via the right mouse button without converting the clip to raw. A collection of different clips on the timeline can be saved as a scene. For more information see below at scene list.*
 
+ .. image:: images/clip_and_scene_cubes.jpg
+
 3.4 Scene list
 ---------------
 
