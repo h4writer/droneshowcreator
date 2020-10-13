@@ -184,7 +184,9 @@
 
 3.2.11 1x
 
- *Dit is de versnellingsfunctie, normale snelheid is 1x, hoe hoger het getal hoe sneller op opmaak word afgespeeld.*
+ .. image:: images/Play_buttons.jpg
+
+ *This is the acceleration function, normal speed is 1x, the higher the number, the faster format is played.*
  
 3.2.12 Outlining icon
 
