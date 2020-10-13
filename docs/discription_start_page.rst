@@ -61,11 +61,9 @@
     
       *xxxxxxxxxxxxxxxxxx*
 
-  .. image:: images/Settings.jpg
-    
 3.1.2 Edit
 
- .. image:: images/Edit.jpg
+.. image:: images/edit.jpg
 
  - Undo
   
@@ -76,6 +74,8 @@
    *Redo an action or operation*
     
 3.1.3 View
+
+.. image:: images/view.jpg
 
  - Drone frames
   
