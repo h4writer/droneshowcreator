@@ -63,6 +63,8 @@
 
 3.1.2 Edit
 
+.. image:: images/menubalk.jpg
+
  - Undo
   
    *Undo an action or operation.*
