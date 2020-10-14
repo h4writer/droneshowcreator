@@ -7,7 +7,7 @@
 
 5.1.1 File
 
-  .. image:: images/file_a.jpg
+.. image:: images/file_a.jpg
 
   5.1.1.1 Save
 
