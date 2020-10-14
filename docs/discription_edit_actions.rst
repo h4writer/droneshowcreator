@@ -7,7 +7,7 @@
 
 5.1.1 File
 
-.. image:: images/Vfile.jpg
+  .. image:: images/file.jpg
 
   5.1.1.1 Save
 
