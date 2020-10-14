@@ -13,9 +13,6 @@
 
   .. image:: images/edit_actions_file.jpg
 
-
-
-
   5.1.1.1 Save
 
   *To save your layout.*
