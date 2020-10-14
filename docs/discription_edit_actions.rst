@@ -5,11 +5,11 @@
 5.1 Menu bar
 --------------
 
+  .. image:: images/bezier.jpg
+
 5.1.1 File
 
   5.1.1.1 Save
-
-  .. image:: images/bezier.jpg
 
   *To save your layout.*
 
