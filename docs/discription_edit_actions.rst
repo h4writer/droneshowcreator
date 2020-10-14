@@ -80,6 +80,8 @@
 
   *You can rotate the layout around various axes. Via properties you can enter different details for the desired rotation. See chapter 4.3.4 "properties" for more information.*
 
+  .. image:: images/rotation.jpg
+
   - Properties
 
     - Start
@@ -109,6 +111,8 @@
   5.2.1.3 Move
 
   *Here you can move the layout from point A to point B in a rectilinear movement via properties you can enter various details for the desired move.*
+
+  .. image:: images/move.jpg
   
   - Properties
 
@@ -135,6 +139,8 @@
   5.2.1.4 Scale
 
   *You can have the layout enlarged or reduced from a starting position, such as the effect of fireworks that burst open. Via properties you can enter various details for the desired move.*
+
+  .. image:: images/scale.jpg
 
   - Properties
 
@@ -169,6 +175,8 @@
   5.2.1.5 Wave
 
   *With this function you can automatically add a wave movement to your layout. For example, the effect of a waving flag. Via properties you can enter various details for the desired wave.*
+
+  .. image:: images/wave.jpg
 
   - Properties
 
@@ -212,6 +220,8 @@
 
   *xxxxxxxxxxxxxxxxxxxxxxxx*
 
+  .. image:: images/yaw.jpg
+
   - Properties
 
     - Start
@@ -245,6 +255,8 @@
   5.2.2.1 Colorize
 
   *Giving a certain color to one or more drones. A color can be chosen from the color range or via custom color.*
+
+  .. image:: images/colorize.jpg
 
   - Properties
 
@@ -284,6 +296,8 @@
 
   *Function where color A slowly fades and slowly changes into color B.*
 
+  .. image:: images/fade.jpg
+
   - Properties
 
     - Start
@@ -321,6 +335,8 @@
   5.2.2.3 Gradiënt
 
   *Function in which the LED turns on and off, causing flashes of light on a regular basis. The discharge time can be set manually via properties.*
+
+  .. image:: images/gradiënt.jpg
 
   - Properties
 
@@ -384,6 +400,8 @@
 
   *Function in which a color slowly emerges from black.*
 
+  .. image:: images/fade_in.jpg
+
   - Properties
 
     - Start
@@ -422,6 +440,8 @@
 
   *Function in which a color slowly fades to black.*
 
+  .. image:: images/fade_out.jpg
+
   - Properties
 
     - Start
@@ -459,6 +479,8 @@
   5.2.2.6 Strobe
 
   *Function in which the LED turns on and off, causing flashes of light on a regular basis. The discharge time can be set manually via properties.*
+
+  .. image:: images/strobe.jpg
 
   - Properties
 
@@ -535,6 +557,8 @@
 
   *Function in which the LEDs turn on and off very quickly and are randomly distributed among all drones in the complete layout.*
 
+  .. image:: images/sparkle.jpg
+
   - Properties
 
     - Start
@@ -609,6 +633,8 @@
 
   *Function where color A will replace color B by rolling the color over the entire area of the layout.*
 
+  .. image:: images/roll_over.jpg
+
   - Properties
 
     - Start
@@ -668,6 +694,8 @@
   5.2.2.9 Spot
 
   *This function ensures that you can place a color accent at a specific place within the layout, just like a light beam from a spotlight.*
+
+  .. image:: images/spot.jpg
 
   - Properties
 
@@ -743,6 +771,8 @@
 
   *With this function it is possible to place an image over a grid of drones.*
 
+  .. image:: images/image.jpg
+
   - Properties
 
     - Start
@@ -801,6 +831,8 @@
 
   *With this function, a color gradient is automatically placed with the rainbow colors over the entire layout. The colors can be mutually adjusted.*
 
+  .. image:: images/rainbow.jpg
+
   - Properties
 
     - Start
@@ -839,6 +871,8 @@
 
   *This is a non-linear function to correct the light intensity, luminance or brightness of a color. The amount of gamma correction not only changes the brightness but also the ratio of red-green-blue.*
 
+  .. image:: images/gamma_correction.jpg
+
   - Properties
 
     - Start
@@ -876,6 +910,8 @@
   5.2.2.13 Max light correction
 
   *xxxxxxxxxxxxxxxxxxxx*
+
+  .. image:: images/max_light_correction.jpg
 
   - Properties
 
