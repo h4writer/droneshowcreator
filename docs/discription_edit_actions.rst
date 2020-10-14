@@ -878,7 +878,7 @@
 
   *This is a non-linear function to correct the light intensity, luminance or brightness of a color. The amount of gamma correction not only changes the brightness but also the ratio of red-green-blue.*
 
-  .. image:: images/gamma_correction.jpg
+  .. image:: images/gamma_corection.jpg
 
   - Properties
 
