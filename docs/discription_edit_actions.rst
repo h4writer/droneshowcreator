@@ -1013,6 +1013,12 @@ The double arrows to the right: If you click on this, the cursor needle will aut
 
   .. image:: images/action_list001.jpg
 
+5.5.1 Row1, 2, 3...
+
+5.5.2 Eye icon
+
+5.5.2 Crossed out eye icon
+
 5.6 Drone list
 ----------------
 
