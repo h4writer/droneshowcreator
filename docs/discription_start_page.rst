@@ -209,7 +209,7 @@
 
 *A sequence is a horizontal space on the timeline where a markup block can be placed. You can create as many sequences vertically one below the other as needed for the intended end result. You can create a new sequence by clicking on the icon for new sequence to the left of the timeline or by dragging a format block down. A sequence is only intended for formatting and not for placing audio files.*
 
- .. image:: images/view.jpg
+ .. image:: images/clips.jpg
 
 3.3.1 Timeline
 
