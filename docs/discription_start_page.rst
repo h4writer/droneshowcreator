@@ -15,7 +15,7 @@
 
 3.1.1 File
 
-  .. image:: images/file.jpg
+
 
   - New: 
   
