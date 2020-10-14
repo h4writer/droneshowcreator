@@ -81,7 +81,7 @@
     
 3.1.3 View
 
-
+ .. image:: images/view.jpg
 
  - Drone frames
   
