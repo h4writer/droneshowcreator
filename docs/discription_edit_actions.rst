@@ -962,7 +962,7 @@
 5.3 Viewport
 --------------
 
-*In this section you will find the tools to place and select drones within a layout. The placed drones can be visualized in different positions in a simulation using an in and out zoom function. It is also possible to follow the timeline numerically and possibly to slow down or speed up the time.*
+*This viewport allows you to visualize your layout on 3 different perspectives, use a numerical time indication and speed up the time. You can also frame the layout automatically or as a percentage and move the cursor needle to the beginning or end of the layout.*
 
   .. image:: images/viewport001.jpg
 
