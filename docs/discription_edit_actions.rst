@@ -2,6 +2,8 @@
 5 Edit actions
 ============================
 
+*In this submenu you have the options to add motion functions and color effects to your layout. First, on the home page, select the clip you want to edit => right mouse button => edit actions.*
+
   .. image:: images/edit_actions.jpg
 
 5.1 Menu bar
