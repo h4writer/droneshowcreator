@@ -2,10 +2,12 @@
 4. Edit figure
 ===========================
 
+*In this section you will find tools to edit, modify or remove the previously placed drones from the start page.*
+
 4.1 Viewport
 -------------
 
-*In this section you will find tools to edit, modify or remove the previously placed drones from the start page. The difference with the viewport of the start page is that here you have the option to select and edit a single drone within a formation.*
+*The difference with the viewport of the start page is that here you have the option to select and edit a single drone within a formation.*
 
 .. image:: images/Vieuwport.jpg
 
