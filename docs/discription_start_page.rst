@@ -113,7 +113,7 @@
     
 3.1.5 Help
 
-
+ .. image:: images/help.jpg
 
  - About
   
