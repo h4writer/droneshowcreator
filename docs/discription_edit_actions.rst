@@ -21,6 +21,8 @@
 
 5.1.2 Edit
 
+  .. image:: images/edit_actions_file.jpg
+
   5.1.2.1 undo
 
   *Undo an action or operation*
