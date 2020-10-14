@@ -2,6 +2,10 @@
 3 Start page
 ==========================
 
+*This is the main part of the program where the editing of clips and scenes are done. The drones are initially placed here for further processing in the sub pages. You will always start from the home page to develop an idea.*
+
+.. image:: images/home_page.jpg
+
 3.1 Menu bar
 ---------------
 
