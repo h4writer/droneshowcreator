@@ -9,7 +9,7 @@
 5.1 Menu bar
 --------------
 
-*tekst*
+*The menu bar contains functions related to saving and closing files, undo operations and security settings.*
 
   .. image:: images/menubalk001.jpg
 
