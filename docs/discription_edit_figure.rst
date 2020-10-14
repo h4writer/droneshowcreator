@@ -107,7 +107,7 @@
 
   4.2.2.3 Height
 
-  *Here you adjust the height, expressed in meters.
+  *Here you adjust the height, expressed in meters.*
 
 4.3 Drone list
 
