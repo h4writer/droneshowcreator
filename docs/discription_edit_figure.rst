@@ -2,7 +2,7 @@
 4. Edit figure
 ===========================
 
-*In this section you will find tools to edit, modify or remove the previously placed drones from the start page.*
+*In this submenu you will find tools to edit, modify or remove the previously placed drones from the start page. First, on the home page, select the clip you want to edit => right mouse button => convert into raw => right mouse button => edit figure.*
 
 4.1 Viewport
 -------------
