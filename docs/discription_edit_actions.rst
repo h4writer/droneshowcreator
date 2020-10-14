@@ -2,6 +2,8 @@
 5 Edit actions
 ============================
 
+age:: images/edit_actions.jpg
+
 5.1 Menu bar
 --------------
 
