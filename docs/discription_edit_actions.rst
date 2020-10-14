@@ -5,8 +5,6 @@
 5.1 Menu bar
 --------------
 
-.. image:: images/menubar_edit_actions.jpg
-
 5.1.1 File
 
   .. image:: images/edit_actions_file.jpg
