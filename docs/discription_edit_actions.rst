@@ -9,7 +9,7 @@
 
 5.1.1 File
 
-  .. image:: images/medit_actions_file.jpg
+  .. image:: images/edit_actions_file.jpg
 
   5.1.1.1 Save
 
