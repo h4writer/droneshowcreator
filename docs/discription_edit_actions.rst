@@ -21,7 +21,7 @@
 
 5.1.2 Edit
 
-  .. image:: images/edit_actions_edit.jpg
+  .. image:: images/edit-actions-edit.jpg
 
   5.1.2.1 undo
 
