@@ -5,7 +5,7 @@
 5.1 Menu bar
 --------------
 
-  .. image:: images/bezier.jpg
+.. image:: images/bezier.jpg
 
 5.1.1 File
 
