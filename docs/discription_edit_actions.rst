@@ -992,21 +992,16 @@ The double arrows to the right: If you click on this, the cursor needle will aut
 5.4 Properties
 --------------
 
-*tekst*
-
-  .. image:: images/properties001.jpg
-
 *See chapter 5.2 "Buttonpane*
 
+  .. image:: images/properties001.jpg
 
 5.5 Action list
 ----------------
 
-*tekst*
+*Each action, both movement and lights, is automatically placed in rows one below the other on the timeline when you click the + sign, next to the word row1, 2, 3 ... there is an eye icon. If you click on this icon, the eye will be crossed out, which means that the action is no longer applicable. Click on the eye again to reactivate the action. Place your mouse cursor on the timeline and roll the mouse wheel to zoom in or out on the timeline, this will enlarge or reduce the action blocks. You can also move the action blocks vertically for a different order if you wish, you will notice that when you drag a block down, new rows are added.*
 
   .. image:: images/action_list001.jpg
-
-*Each action, both movement and lights, is automatically placed in rows one below the other on the timeline when you click the + sign, next to the word row1, 2, 3 ... there is an eye icon. If you click on this icon, the eye will be crossed out, which means that the action is no longer applicable. Click on the eye again to reactivate the action. Place your mouse cursor on the timeline and roll the mouse wheel to zoom in or out on the timeline, this will enlarge or reduce the action blocks. You can also move the action blocks vertically for a different order if you wish, you will notice that when you drag a block down, new rows are added.*
 
 5.6 Drone list
 ----------------
