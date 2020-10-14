@@ -472,5 +472,21 @@
      
       *The number of sides that make up the star.*
 
+3.6.5 Raw clip
+
+  - Width
+  
+    *xxxxxxxxxxxxxxxxxxxxxxxx*
+
+  - Depth
+  
+    *xxxxxxxxxxxxxxxxxxxxxxxx*
+
+  - Height
+  
+    *xxxxxxxxxxxxxxxxxxxxxxxx*
+
+
+
           
           
