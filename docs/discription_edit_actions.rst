@@ -9,7 +9,7 @@
 
 5.1.1 File
 
-.. image:: images/edit_actions_file.jpg
+  .. image:: images/edit_actions_file.jpg
 
   5.1.1.1 Save
 
@@ -21,7 +21,7 @@
 
 5.1.2 Edit
 
-.. image:: images/edit-actions-edit.jpg
+  .. image:: images/edit-actions-edit.jpg
 
   5.1.2.1 undo
 
@@ -33,7 +33,7 @@
 
 5.1.3 View
 
-.. image:: images/edit_actions_view.jpg
+  .. image:: images/edit_actions_view.jpg
 
   5.1.3.1 Drone frames
 
