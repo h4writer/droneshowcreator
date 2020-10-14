@@ -33,6 +33,8 @@
 
 5.1.3 View
 
+  .. image:: images/edit_actions_view.jpg
+
   5.1.3.1 Drone frames
 
   *You can choose whether or not the frame of the drone is shown in the visualization.*
