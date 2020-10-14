@@ -52,7 +52,7 @@
 5.2 Buttonpane
 ----------------
 
-*tekst*
+*In this place you will find all possible effects that you can apply to your layout.*
 
   .. image:: images/buttonpane001.jpg
 
