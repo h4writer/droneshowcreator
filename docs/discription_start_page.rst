@@ -101,7 +101,7 @@
     
 3.1.4 Show
 
-
+ .. image:: images/show.jpg
 
  - Upload
   
