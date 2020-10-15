@@ -39,13 +39,9 @@
     
   - Settings
 
-    *This function is used to determine the flight zone in which the drones must travel. the width, dept, height and above ground are displayed in meters.*
+    *This function is used to determine the flight zone in which the drones should move. The width, depth, height and above ground are displayed in meters. This zone is visualized with a solid white line and should not be confused with the "raw clip" dotted line that you can find at the bottom of 3.5.5 properties.*
     
     .. image:: images/setting.jpg
-    
-    
-    
-    
 
     .. image:: images/rawclip.jpg
 
