@@ -252,7 +252,7 @@
 
 3.4.1 Main
 
- *When starting a new layout (= new document), the program will always automatically place a "main scene" in the "scene list". This is a blank scene in which the clips are automatically placed. The main scene can always be copied, exported or deleted. Use the right mouse button for this. The intention of the main scene, however, is that all other scenes come together here and serve as the main scene. It is best to create a new scene at the start of your edit, give it a name, place your clips in it and then import them into the "main scene". A scene containing clips can therefore be imported into another scene where it can be combined with other clips and scenes ... so these can be used interchangeably.*
+ * When starting a new light show (= new document), the program will always automatically place a "main scene" in the "scene list". This is an empty scene where the clips will be automatically placed. The main scene can always be copied, exported or deleted. Use the right mouse button for this. The purpose of the main scene, however, is that all other scenes come together here and this is used as the main scene. It's best to create a new scene at the start of your edit, name it, place your clips in it, then import them into the "main scene". A scene with clips can therefore be imported into another scene, where it can be combined with other clips and scenes ... so that they can be used interchangeably. *
 
  .. image:: images/scene_list.jpg
  
