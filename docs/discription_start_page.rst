@@ -47,19 +47,19 @@
 
     - Width
       
-      *Expressed in meters*
+      *Enter the desired width of the flight zone, expressed in meters.*
       
     - Depth
       
-      *Expressed in meters*
+      *Enter the desired depth of the flight zone, expressed in meters.*
       
     - Height
       
-      *Expressed in meters*
+      *Enter the desired height of the flight zone, expressed in meters.*
       
     - Above ground
     
-      *Expressed in meters*
+      *Enter the desired height above ground of the flight zone, expressed in meters.*
       
     - Background images
     
