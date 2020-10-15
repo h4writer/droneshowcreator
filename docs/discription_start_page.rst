@@ -142,7 +142,7 @@
  
 3.2.3 Text
 
- *When using the text icon, a clip will automatically appear in the timeline. Then go to "properties" => text => enter the desired text and parameters.
+ *When using the text icon, a clip will automatically appear in the timeline. Then go to "properties" => text => enter the desired text and parameters.*
 
  .. image:: images/Text_tool.jpg
  
