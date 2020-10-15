@@ -97,7 +97,7 @@
 
  - Background images
   
-   *xxxxxxxxxxxxxxxxxxxxxx*
+   *It is possible to switch the image you placed earlier on and off (Fille => settings => background image) while developing the layout.*
     
 3.1.4 Show
 
@@ -162,43 +162,37 @@
  
  .. image:: images/Audio_icon.jpg
  
-3.2.7 Camera icon
-
- *xxxxxxxxxxxxxxxxxxxxxxxxx*
-
- .. image:: images/Movie_icon.jpg
- 
-3.2.8 Cube icons
+3.2.7 Cube icons
 
  *Three different perspectives are possible, front view, side view and top view. You can also use the directional arrows on your keyboard to freely define and rotate the perspective, which is very useful for complex structures. Method: first click with the mouse in the black part where the layout is visualized, then use the directional arrows.*
 
  .. image:: images/cubus.jpg
  
-3.2.9 Chrono time
+3.2.8 Chrono time
 
  *This time indication shows the position of the cursor needle in hours, minutes, seconds and milliseconds. If you move the cursor manually, the chrone will be adjusted automatically. The reverse way can also be used if you have to place the cursor very precisely, then enter the correct time indication to place the cursor very accurately.*
 
  .. image:: images/chrono.jpg
  
-3.2.10 Play buttons
+3.2.9 Play buttons
 
  *The left button is used to automatically return the cursor needle to the beginning of the layout. The middle button is used to play the format. The right button is used to automatically move the cursor needle to the end of the markup, that is, at the end of the last block on the sequence line*
 
  .. image:: images/play.jpg
 
-3.2.11 1x
+3.2.10 1x
 
  *This is the acceleration function, normal speed is 1x, the higher the number, the faster format is played.*
 
  .. image:: images/vergroot.jpg
  
-3.2.12 Outlining icon
+3.2.11 Outlining icon
 
  *Use this button if your layout is not fully visualized, the layout will be automatically resized until it fits in the visualization area. You can also use the three lines that frame the "View" area. Click with the mouse pointer on the lines and drag as desired.* 
 
  .. image:: images/kadrage.jpg
  
-3.2.13 Visualisation in terms of percentage
+3.2.12 Visualisation in terms of percentage
 
  *You can also reduce, enlarge or fit the visualization of your layout by entering the desired percentages.*
 
