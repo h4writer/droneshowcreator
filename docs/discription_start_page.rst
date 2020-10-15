@@ -142,7 +142,7 @@
  
 3.2.3 Text
 
- *When using the text icon, a clip will automatically appear in the timeline. Then go to "properties" => text => enter the desired text and parameters.*
+ *When you use the text icon, a clip automatically appears in the timeline. Then go to "properties" => text. Here you have the option to give the desired color to the text at "color". This can be done in various ways, by a webcolor with "#", by a color range or by custom color. You can also remove the color by clicking on the waste bin icon. You can enter the text next to "text". And at "present" you can choose the text size. 4 x 5 = 4 drones in the width and 5 drones in the length. 5 x 7 = 5 drones in the width and 7 drones in the length.*
 
  .. image:: images/Text_tool.jpg
  
