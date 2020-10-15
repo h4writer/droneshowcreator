@@ -65,7 +65,7 @@
       
     - Default drone size
     
-      *xxxxxxxxxxxxxxxxxx*
+      *Here the size of the drone is entered and expressed in meters. Example 0.4 = a drone of 40 cm in size is used. It is important that this parameter is entered correctly to obtain a reliable ratio in the simulation.*
 
 3.1.2 Edit
 
