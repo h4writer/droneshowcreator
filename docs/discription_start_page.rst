@@ -2,7 +2,7 @@
 3 Home screen
 ==========================
 
-*When opening the program you will automatically be taken to the start page. This is the main part of the program where the editing of clips and scenes are done. The drones are initially placed here for further processing in the sub pages. You will always start from the home page to develop an idea..*
+*When opening the program you will automatically be taken to the home screen. This is the main part of the program where the editing of clips and scenes are done. The drones are initially placed here for further processing in the sub pages. You will always start from the home page to develop an idea..*
 
 .. image:: images/home_page.jpg
 
