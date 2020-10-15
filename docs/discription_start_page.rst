@@ -107,11 +107,11 @@
 
  - Upload
   
-   *Function where an existing layout can be uploaded in your current layout.*
+   *Function where an existing lightshow can be uploaded in your current lightshow.*
     
  - Export indoor
   
-   *Function whereby a layout for outdoor drones can be exported to a layout for indoor light shows with specific settings.*
+   *Function whereby a lightshow for outdoor drones can be exported to a lightshow for indoor shows with specific settings.*
     
 3.1.5 Help
 
