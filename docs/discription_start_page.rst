@@ -237,7 +237,7 @@
 
  .. image:: images/iconB.jpg
  
-3.3.7 Clip and scene cubes
+3.3.7 Clip and scene
 
  *A clip is a block that you place on the sequence track by the pen or star tool and contains x number of drones in a formation that are bound to a certain time duration. You cannot edit a newly placed clip directly with "edit figure", it must first be converted (by right mouse button) to a raw file (convert into raw). Other options such as edit actions, take a snapshot or delete are available via the right mouse button without converting the clip to raw. A collection of different clips on the timeline can be saved as a scene. For more information see below at scene list.*
 
@@ -263,7 +263,7 @@
 3.5 Properties
 ------------------
 
-*Enter parameters here at the beginning of your layout to obtain the desired result. Note, always select your posted clip or scene first to use the properties. If this is not selected, you cannot see anything in properties. When all parameters are entered as desired, the clip must be converted to a RAW clip => right mouse button => convert into raw => the last part of the properties window "formation" will then change to "RAW clip". The RAW clip can then be adjusted in width, depth and height.*
+*Enter parameters here at the beginning of your design to obtain the desired result. Note, always select your posted clip or scene first to use the properties. If this is not selected, you cannot see anything in properties. When all parameters are entered as desired, the clip must be converted to a RAW clip => right mouse button => convert into raw => the last part of the properties window "formation" will then change to "RAW clip". The RAW clip can then be adjusted in width, depth and height.*
 
  .. image:: images/propertiesA.jpg
 
