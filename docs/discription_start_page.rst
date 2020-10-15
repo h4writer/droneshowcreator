@@ -257,15 +257,8 @@
 3.4.2 New
 
  *To create a new scene => select the new scene from the list => go to properties to change the name. At "used drones" you can see how many drones are present in your scene. Note this number can be divided over several clips.*
- 
-3.5 Movie preview
-------------------
 
- *xxxxxxxxxxxxxxxxxxxxx*
- 
- .. image:: images/Moviepreview.jpg
-
-3.6 Properties
+3.5 Properties
 ------------------
 
 *Enter parameters here at the beginning of your layout to obtain the desired result. Note, always select your posted clip or scene first to use the properties. If this is not selected, you cannot see anything in properties. When all parameters are entered as desired, the clip must be converted to a RAW clip => right mouse button => convert into raw => the last part of the properties window "formation" will then change to "RAW clip". The RAW clip can then be adjusted in width, depth and height.*
@@ -274,7 +267,7 @@
 
  .. image:: images/propertiesB.jpg
 
-3.6.1 General
+3.5.1 General
 
   - Drones
   
@@ -296,7 +289,7 @@
   
     *With this button you delete the selected clip or scene in the timeline.*
  
-3.6.2 Transformation
+3.5.2 Transformation
  
   - Speed
   
@@ -310,13 +303,13 @@
   
     *With this function you can enlarge or reduce your layout within a clip or scene. If the slider on the right is on, so it has a blue color, the scaling will be done proportionally according to the X, Y, Z axis. You can also choose to scale according to a single axis, then you have to turn off the slider. You can enter the values numerically or use the arrows. When resizing, make sure that the drones do not get too close to each other, otherwise the layout cannot be performed for safety reasons. You can check this via the menu bar => view => drone closeness indicator.*
    
-3.6.3 Action
+3.5.3 Action
  
   - Edit action
 
     *With this button you automatically go to the edit actions menu, this is the same if you select your clip or scene in the timeline and use the right mouse button to go to edit actions. In the nemu of edit actions you can enter colors and movements, among other things.*
 
-3.6.4 Formation
+3.5.4 Formation
  
   - Color
   
@@ -466,7 +459,7 @@
      
       *The number of sides that make up the star.*
 
-3.6.5 Raw clip
+3.5.5 Raw clip
 
   - Width
   
