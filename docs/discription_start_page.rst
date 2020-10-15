@@ -299,11 +299,11 @@
    
   - Rotation
   
-    *First click on the "add" button to activate this function. You can create an unlimited number of rotation buttons and combine them with each other. This function allows you to rotate a layout within a clip or scene in three different axes. The "front" axis: the layout will rotate frontally around its center. The "side" axis, the layout will rotate around its center through its side view. The "top" axis, the layout will rotate around its vertical center axis. The values ​​are expressed in degrees, which you can enter manually or use the arrows. If you press the red box with a cross next to the degrees, your setting will be deleted.*
+    *First click on the "add" button to activate this function. You can create an unlimited number of rotation buttons and combine them with each other. This function allows you to rotate a design within a clip or scene in three different axes. The "front" axis: the layout will rotate frontally around its center. The "side" axis, the layout will rotate around its center through its side view. The "top" axis, the layout will rotate around its vertical center axis. The values are expressed in degrees, which you can enter manually or use the arrows. If you press the red box with a cross next to the degrees, your setting will be deleted.*
    
   - Scale X Y Z
   
-    *With this function you can enlarge or reduce your layout within a clip or scene. If the slider on the right is on, so it has a blue color, the scaling will be done proportionally according to the X, Y, Z axis. You can also choose to scale according to a single axis, then you have to turn off the slider. You can enter the values numerically or use the arrows. When resizing, make sure that the drones do not get too close to each other, otherwise the layout cannot be performed for safety reasons. You can check this via the menu bar => view => drone closeness indicator.*
+    *With this function you can enlarge or reduce your design within a clip or scene. If the slider on the right is on, so it has a blue color, the scaling will be done proportionally according to the X, Y, Z axis. You can also choose to scale according to a single axis, then you have to turn off the slider. You can enter the values numerically or use the arrows. When resizing, make sure that the drones do not get too close to each other, otherwise the layout cannot be performed for safety reasons. You can check this via the menu bar => view => drone closeness indicator.*
    
 3.5.3 Action
  
@@ -315,7 +315,7 @@
  
   - Color
   
-    *Choose the color you want for your layout. Please note, this way you give a color to the entire layout of drones. If you want to give a single drone a color you have to go through "Edit figure". You can determine a color in different ways. The first option is to enter a # code (= web color). You can also choose the colors range, => click on the white box => you will get a colors range to choose from. A third way is the "custom color" at the bottom of the colors range, if you click on this you will get an extra window in which you can choose between HSB color, RGB color or a web color again.*
+    *Choose the color you want for your design. Please note, this way you give a color to the entire design of drones. If you want to give a single drone a color you have to go through "Edit figure". You can determine a color in different ways. The first option is to enter a # code (= web color). You can also choose the colors range, => click on the white box => you will get a colors range to choose from. A third way is the "custom color" at the bottom of the colors range, if you click on this you will get an extra window in which you can choose between HSB color, RGB color or a web color again.*
    
   - Mode
  
