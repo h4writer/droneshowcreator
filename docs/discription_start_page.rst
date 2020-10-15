@@ -61,7 +61,7 @@
       
     - Background images
     
-      *xxxxxxxxxxxxxxxxx*
+      *You can use this function in 2 different ways. A first way is as a simulation, post a photo of the skyline where the drone show is to be performed. Place your layout on the photo and get an idea of what your show will look like on site. Ideal for convincing potential customers of your designs. As a second way you can use this function to redraw a certain figuration. For example, place a photo of a logo, place your drones on this logo to draw it perfectly in this way.*
       
     - Default drone size
     
