@@ -263,7 +263,7 @@
 3.5 Properties
 ------------------
 
-*Enter parameters here at the beginning of your design to obtain the desired result. Note, always select your posted clip or scene first to use the properties. If this is not selected, you cannot see anything in properties. When all parameters are entered as desired, the clip must be converted to a RAW clip => right mouse button => convert into raw => the last part of the properties window "formation" will then change to "RAW clip". The RAW clip can then be adjusted in width, depth and height.*
+*Enter parameters here at the beginning of your design to obtain the desired result. Note, always select your posted clip or scene first to use the properties. If this is not selected, you cannot see anything in properties. When all parameters are entered as desired, the clip must be converted to a RAW clip => right mouse button => convert into raw => the last part of the properties window "formation" will then change to "RAW clip". The RAW clip can then be adjusted in width, depth and height. The raw clip is always outlined by a white dashed line.*
 
  .. image:: images/propertiesA.jpg
 
