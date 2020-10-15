@@ -23,19 +23,19 @@
   
   - Open
   
-    *To open an existing layout.*
+    *To open an existing lightshow.*
   
   - Open recent
   
-    *List of your 20 most recently saved formatting documents.*
+    *List of your 20 most recently saved lightshows.*
     
   - Save
   
-    *To save your layout.*
+    *To save your lightshow.*
     
   - Save as
   
-    *Brings up a prompt to save your work as a file with a different name.*
+    *Bring up a window to save your work as a file with a different name*
     
   - Settings
 
