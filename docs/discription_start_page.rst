@@ -178,7 +178,7 @@
  
 3.2.9 Play buttons
 
- *The left button is used to automatically return the cursor needle to the beginning of the layout. The middle button is used to play the format. The right button is used to automatically move the cursor needle to the end of the markup, that is, at the end of the last block on the sequence line*
+ *The left button is used to automatically return the cursor needle to the beginning of the timeline. The middle button is used to play the format. The right button is used to automatically move the cursor needle to the end of the markup, that is, at the end of the last block on the sequence line*
 
  .. image:: images/play.jpg
 
@@ -190,13 +190,13 @@
  
 3.2.11 Outlining icon
 
- *Use this button if your layout is not fully visualized, the layout will be automatically resized until it fits in the visualization area. You can also use the three lines that frame the "View" area. Click with the mouse pointer on the lines and drag as desired.* 
+ *Use this button if the lightshow is not fully visualized, the layout will be automatically reduced to fit the visualization area. You can also use the three lines that frame the "Display" area. Mouse-click the lines and drag as desired.* 
 
  .. image:: images/kadrage.jpg
  
 3.2.12 Visualisation in terms of percentage
 
- *You can also reduce, enlarge or fit the visualization of your layout by entering the desired percentages.*
+ *You can also reduce, enlarge or fit the visualization of your lightshowt by entering the desired percentages.*
 
  .. image:: images/percent.jpg
  
@@ -215,11 +215,11 @@
  
 3.3.2 Cursor needle
 
- *The blue cursor needle always indicates the position of the visualization in the layout timeline. The needle can always be moved manually, but it is also magnetic, which means that if you drag a markup block to a different position, the needle will move along and move magnetically and take up position at the right end of that block. You can also adjust the position of the cursor needle in the clock in the viewport, by adjusting the values ​​the needle will take the position, this can be useful if you have to work in milliseconds. When placing a new markup block, the block will always be placed where the cursor needle is located. Note, it may be that there is not enough space next to the needle to place a new block because it has, for example, a very long time zone. in that case select a new sequence line that is still free to place the block.*
+*The blue cursor needle always indicates the position of the visualization in the timeline. The needle can always be moved by hand, but it is also magnetic, which means that if you drag a clip to a different position, the needle moves with it and magnetically moves to the right side of that clip. You can also adjust the position of the cursor needle by the clock of the viewport, by adjusting the values the needle will take the position, this can be useful if you have to work in milliseconds. When placing a new clip, it will always be placed where the cursor needle is. Note, there may not be enough space next to the needle to place a new clip because it has a very long time zone, for example. In that case, select a new sequece that is still free to place the clip.*
  
 3.3.3 Sequence
 
- *A sequence is a horizontal space on the timeline where a markup block can be placed. You can create as many sequences vertically one below the other as needed for the intended end result. You can create a new sequence by clicking on the icon for new sequence to the left of the timeline or by dragging a format block down. A sequence is only intended for formatting and not for placing audio files. With the right mouse button you can change the name of the sequence.*
+ *A sequence is a horizontal space on the timeline where a clip can be placed. You can create as many sequences vertically one below the other as needed for the intended end result. You can create a new sequence by clicking on the icon for new sequence to the left of the timeline or by dragging a format block down. A sequence is only intended for formatting and not for placing audio files. With the right mouse button you can change the name of the sequence.*
  
 3.3.4 Audio sequence
 
@@ -239,7 +239,7 @@
  
 3.3.7 Clip and scene cubes
 
- *A clip is a block that you place on the sequence track via the pen or star tool and contains x number of drones in a formation that are bound to a certain time duration. You cannot edit a newly placed clip directly with "edit figure", it must first be converted (via right mouse button) to a raw file (convert into raw). Other options such as edit actions, take a snapshot or delete are available via the right mouse button without converting the clip to raw. A collection of different clips on the timeline can be saved as a scene. For more information see below at scene list.*
+ *A clip is a block that you place on the sequence track by the pen or star tool and contains x number of drones in a formation that are bound to a certain time duration. You cannot edit a newly placed clip directly with "edit figure", it must first be converted (by right mouse button) to a raw file (convert into raw). Other options such as edit actions, take a snapshot or delete are available via the right mouse button without converting the clip to raw. A collection of different clips on the timeline can be saved as a scene. For more information see below at scene list.*
 
  .. image:: images/clip_and_scene_cubes.jpg
 
