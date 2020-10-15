@@ -17,6 +17,8 @@
 
   .. image:: images/file.jpg
 
+  .. image:: images/rawclip.jpg
+
   - New: 
   
     *Create a new document for the editing layout of a light show.*
