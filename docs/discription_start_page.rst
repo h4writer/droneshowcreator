@@ -463,7 +463,7 @@
 
 *This is the area in which all drones are located, this is the size of the clip. This is visualized by a dotted line. This is not the same as the dimensions of the project in which you enter the size of the flying area. The raw clip (dotted line) is always located inside the flying area (full line) that you enter via Project settings.*
 
- .. image:: images/scene_list.jpg
+ .. image:: images/rawclip.jpg
 
   - Width
   
