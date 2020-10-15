@@ -148,7 +148,7 @@
  
 3.2.4 Image
 
- *For placing an image. Note the image must be in black / white (duotone) with a transparent background (PNG format). => click on the icon => a clip will appear => right colon => image none => click and place image.*
+ *Make sure the cursor needle is free on the timeline. Click on the photo icon to project a photo on a grid of drones. Go to properties for further details.*
  
  .. image:: images/Image_tool.jpg
  
