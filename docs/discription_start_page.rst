@@ -91,11 +91,11 @@
     
  - Drone closseness indicator
   
-   *Function that indicates with a red block above the drone when the drones are placed too close to each other,and this cannot be performed in reality.*
+   *Function that indicates when drones are too close together and therefore in reality cause safety problems during the flight. This is indicated by a red block above the drone.*
     
  - Scale drone
   
-   *xxxxxxxxxxxxxxxxxxxx*
+   *If you use the function of "scale drones", the drones will be visually more visible than when the function is turned off. This function is related to the "percentage zoom function". In other words, the drones will increase or decrease proportionally and will always remain visible when you zoom them out strongly. If you turn off the function you will get a more truthful visualization of the drones, if you zoom out the drones will also become less visible.*
 
  - Background images
   
