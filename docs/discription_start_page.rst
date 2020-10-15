@@ -17,8 +17,6 @@
 
   .. image:: images/file.jpg
 
-  .. image:: images/rawclip.jpg
-
   - New: 
   
     *Create a new document for the editing layout of a light show.*
@@ -44,6 +42,8 @@
     *This function is used to determine the flight zone in which the drones must travel. the width, dept, height and above ground are displayed in meters.*
     
     .. image:: images/setting.jpg
+
+    .. image:: images/rawclip.jpg
 
     - Width
       
