@@ -386,7 +386,7 @@
 
       - Color
 
-        *Here you choose a color yourself via the color fan, HSB color or RGB color.*
+        *Here you choose a color yourself via the colors range, HSB color or RGB color.*
 
       - Random
 
@@ -446,23 +446,23 @@
 
       - Linear
 
-        *tekst*
+        *The fade-in without any smoothing, the values increase in equal amounts.*
 
       - Ease in
 
-        *tekst*
+        *The fade-in starts slowly and accelerates towards the end.*
 
       - Ease out
 
-        *tekst*
+        *The fade-in starts quickly and slows down towards the end.*
 
       - Ease in-out
 
-        *tekst*
+        *The fade-in starts slow, accelerates towards the center and slows back towards the end.*
 
       - none
 
-        *tekst*
+        *Fade-in without easing function.*
 
     - Keyframes
 
@@ -502,7 +502,27 @@
 
     - Easing
 
-      *xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx*
+      *Nothing in nature moves linearly from one point to another. In reality, things tend to speed up or slow down as they move. Our brains are wired to expect these types of movements, so if you are animating you should use this to your advantage. Natural movement makes your users feel more comfortable with your design, which in turn leads to a better overall experience.*
+
+      - Linear
+
+        *The fade-out without any smoothing, the values increase in equal amounts.*
+
+      - Ease in
+
+        *The fade-out starts slowly and accelerates towards the end.*
+
+      - Ease out
+
+        *The fade-out starts quickly and slows down towards the end.*
+
+      - Ease in-out
+
+        *The fade-out starts slow, accelerates towards the center and slows back towards the end.*
+
+      - none
+
+        *Fade-out without easing function.*
 
     - Keyframes
 
@@ -562,7 +582,7 @@
 
       - Color
 
-        *Here you choose a color yourself via the color fan, HSB color or RGB color.*
+        *Here you choose a color yourself via the colors range, HSB color or RGB color.*
 
       - Random
 
@@ -579,7 +599,27 @@
 
     - Easing
 
-      *xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx*
+      *Nothing in nature moves linearly from one point to another. In reality, things tend to speed up or slow down as they move. Our brains are wired to expect these types of movements, so if you are animating you should use this to your advantage. Natural movement makes your users feel more comfortable with your design, which in turn leads to a better overall experience.*
+
+      - Linear
+
+        *Strobe without any smoothing, the values increase in equal amounts.*
+
+      - Ease in
+
+        *Strobe starts slowly and accelerates towards the end.*
+
+      - Ease out
+
+        *Strobe starts quickly and slows down towards the end.*
+
+      - Ease in-out
+
+        *Strobe starts slow, accelerates towards the center and slows back towards the end.*
+
+      - none
+
+        *Strobe without easing function.*
 
     - Keyframes
 
@@ -587,7 +627,7 @@
 
   5.2.2.7 Sparkle
 
-  *Function in which the LEDs turn on and off very quickly and are randomly distributed among all drones in the complete layout.*
+  *Function in which the LEDs turn on and off very quickly and are randomly distributed among all drones in the complete design.*
 
   .. image:: images/sparkle.jpg
 
@@ -639,7 +679,7 @@
 
       - Color
 
-        *Here you choose a color yourself via the color fan, HSB color or RGB color.*
+        *Here you choose a color yourself via the colors range, HSB color or RGB color.*
 
       - Random
 
@@ -653,9 +693,29 @@
 
       *Here you can determine the number of drones that will flash simultaneously during the strobo action.*
 
-    - Easing
+- Easing
 
-      *xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx*
+      *Nothing in nature moves linearly from one point to another. In reality, things tend to speed up or slow down as they move. Our brains are wired to expect these types of movements, so if you are animating you should use this to your advantage. Natural movement makes your users feel more comfortable with your design, which in turn leads to a better overall experience.*
+
+      - Linear
+
+        *SSparkle without any smoothing, the values increase in equal amounts.*
+
+      - Ease in
+
+        *Sparkle starts slowly and accelerates towards the end.*
+
+      - Ease out
+
+        *Sparkle starts quickly and slows down towards the end.*
+
+      - Ease in-out
+
+        *Sparkle starts slow, accelerates towards the center and slows back towards the end.*
+
+      - none
+
+        *SSparkle without easing function.*
 
     - Keyframes
 
@@ -701,7 +761,7 @@
 
       - Color
 
-        *Here you choose a color yourself via the color fan, HSB color or RGB color.*
+        *Here you choose a color yourself via the colors range, HSB color or RGB color.*
 
       - Random
 
@@ -759,11 +819,11 @@
 
       - Linear
 
-        * De spot loopt van de ene uithoek naar een andere uithoek.*
+        *The spot runs from one corner to another corner.*
 
       - Radial
 
-        * De spot loopt vanuit het centrum van de opmaak naar buiten toe.
+        *The spot runs outward from the center of the layout.*
 
     - Start position
 
@@ -781,7 +841,7 @@
 
         - Fade between gradiënts
           
-          *xxxxxxxxxxxxxxxxxxxxxxxxxxxx*
+          *xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx*
 
         - Match and adapt time offsets
           
@@ -824,7 +884,7 @@
       *With this button you delete the action that you have placed in the timeline.*
 
     - Blende mode
-
+Scale and position the photo relative to the drone grid.
       *With blende mode you have different options to mix colors, an extra color on top of the basic color that is given from the start page.*
 
     - Opacity
@@ -833,27 +893,27 @@
 
     - Image
 
-      * click on "none" to select a photo from the brouser and place it in the layout *
+      * click on "none" to select a photo from the brouser and place it in the layout, the photo will be projected on the number of drones.*
 
     - Middle X Y Z
 
-      *xxxxxxxxxxxxxxxxxxxxxxxxxxxxx*
+      *Position the photo relative to the drone grid via the center point on the XY and Z axis.*
 
     - Up X Y Z
 
-      *xxxxxxxxxxxxxxxxxxxxxxxxxxxxx*
+      *Position the photo relative to the drone grid via the top point on the XY and Z axis.*
 
     - Right X Y Z
 
-      *xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx*
+      *Position the photo relative to the drone grid on the right side on the XY and Z axis.*
 
     - Scale
 
-      *xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx*
+      *Schaal en positioneer de foto ten opzichte van het droneraster*
 
     - Blur
 
-      *xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx*
+      *Blur the photo on the drone grid will reduce the detail of the photo making it clearer.*
 
     - Keyframes
 
@@ -861,7 +921,7 @@
 
   5.2.2.11 Rainbow
 
-  *With this function, a color gradient is automatically placed with the rainbow colors over the entire layout. The colors can be mutually adjusted.*
+  *With this function, a color gradient is automatically placed with the rainbow colors over the entire design. The colors can be mutually adjusted.*
 
   .. image:: images/rainbow.jpg
 
@@ -901,7 +961,7 @@
 
   5.2.2.12 Gamma correction
 
-  *This is a non-linear function to correct the light intensity, luminance or brightness of a color. The amount of gamma correction not only changes the brightness but also the ratio of red-green-blue.*
+  *This is a non-linear function to correct the light intensity, luminance or brightness of a color.*
 
   .. image:: images/gamma_corection.jpg
 
@@ -933,7 +993,7 @@
 
     - Gamma
 
-      *xxxxxxxxxxxxxxxxxx*
+      *Here you can enter the values ​​of the correction.*
 
     - Keyframes
 
