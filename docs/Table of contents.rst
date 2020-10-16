@@ -78,9 +78,9 @@ Table of contents
 
    4.5.1 General
     
-    4.5.1.1 Drones
+   - 4.5.1.1 Drones
 
-    4.5.1.2 Start
+   - 4.5.1.2 Start
     
 
 
