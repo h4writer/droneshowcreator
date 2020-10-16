@@ -51,3 +51,25 @@ Table of contents
    4.2.11 Outlining icon
 
    4.2.12 Visualisation in terms of percentage
+
+4.3 Clips
+
+   4.3.1 Timeline
+
+   4.3.2 Cursor needle
+
+   4.3.3 Sequence
+
+   4.3.4 Audio sequence
+
+   4.3.5 Sequence icon
+
+   4.3.6 Audio sequence icon
+
+   4.3.7 Clip and scene
+
+4.4 Scene list
+
+   4.4.1 Main
+
+   4.4.1 New
