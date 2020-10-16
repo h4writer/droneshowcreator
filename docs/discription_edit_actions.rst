@@ -861,7 +861,7 @@
 
   5.2.2.10 Image
 
-*With this function it is possible to place an image over a grid of drones.*
+  *With this function it is possible to place an image over a grid of drones.*
 
   .. image:: images/image.jpg
 
