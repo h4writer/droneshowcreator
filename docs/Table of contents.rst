@@ -2,6 +2,15 @@
 Table of contents
 ------------------
 
+1. Table of contents
+--------------------
+
+2. Introduction
+---------------
+
+3. Installation
+---------------
+
 4. Home screen
 ---------------
 
