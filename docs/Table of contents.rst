@@ -121,19 +121,48 @@ Table of contents
    - 4.5.4.9 Star
 
    4.5.5 Raw clip
-    
-
-
-
-
-
-
 
 5. Edit figure
 ---------------
 
 5.1 Viewport
 
-   5.1.1 File
+   5.1.1 Arrow
 
-   5.1.2 
+   5.1.2 Four corners icon
+
+   5.1.3 Plus icon
+
+   5.1.4 Eraser icon
+
+   5.1.5 Bucket
+
+   5.1.6 Color area
+
+   5.1.7 Cube icon
+
+   5.1.8 Outlining icon
+
+   5.1.9 Visualisation in terms of percentage
+
+5.2 Properties
+
+   5.2.1 Transformation
+
+   - 5.2.1.1 Speed
+
+   - 5.2.1.2 Rotation
+
+   - 5.2.1.3 Scale X Y Z
+
+   5.2.2 Raw clip
+
+   - 5.2.2.1 Width
+
+   - 5.2.2.2 Depth
+
+   - 5.2.2.3 Height
+
+
+
+
