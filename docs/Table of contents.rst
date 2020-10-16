@@ -74,11 +74,26 @@ Table of contents
 
    4.4.2 New
 
+4.5 Properties
+
+   4.5.1 General
+    
+    4.5.1.1 Drones
+
+    4.5.1.2 Start
+    
+
+
+
+
+
+
+
 5. Edit figure
 ---------------
 
 5.1 Viewport
 
-   4.1.1 File
+   5.1.1 File
 
-   4.4.1 New
+   5.1.2 
