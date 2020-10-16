@@ -3,6 +3,10 @@ Welcome to Andlights Dronecreator
 =================================
 
 .. toctree::
+   :caption: Table of contents
+   :maxdepth: 2
+
+.. toctree::
    :caption: Introduction
    :maxdepth: 2
 
@@ -14,9 +18,9 @@ Welcome to Andlights Dronecreator
    :caption: Description interface
    :maxdepth: 2
    
-   discription_start_page
-   discription_edit_figure
-   discription_edit-actions
+   Home_screen
+   Edit_figure
+   Edit-actions
   
 .. toctree::
    :caption: Workflow
