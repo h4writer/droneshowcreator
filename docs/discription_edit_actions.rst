@@ -916,7 +916,7 @@
 
     - Keyframes
 
-      * With a keyframe you can add a movement or application to your layout. On the basis of a start and end point, you can place this application on the timeline of your clip or scene and move it as desired. Between these two points the action (image) will be active.*
+      *With a keyframe you can add a movement or application to your layout. On the basis of a start and end point, you can place this application on the timeline of your clip or scene and move it as desired. Between these two points the action (image) will be active.*
 
   5.2.2.11 Rainbow
 
