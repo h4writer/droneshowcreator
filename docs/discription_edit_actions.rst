@@ -884,7 +884,6 @@
       *With this button you delete the action that you have placed in the timeline.*
 
     - Blende mode
-Scale and position the photo relative to the drone grid.
       *With blende mode you have different options to mix colors, an extra color on top of the basic color that is given from the start page.*
 
     - Opacity
