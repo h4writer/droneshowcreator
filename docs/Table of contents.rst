@@ -72,4 +72,13 @@ Table of contents
 
    4.4.1 Main
 
+   4.4.2 New
+
+5. Edit figure
+---------------
+
+5.1 Viewport
+
+   4.1.1 File
+
    4.4.1 New
