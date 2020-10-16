@@ -2,7 +2,7 @@
 5 Edit actions
 ============================
 
-*In this submenu you have the options to add motion functions and color effects to your layout. First, on the home page, select the clip you want to edit => right mouse button => edit actions.*
+*In this submenu you have the options to add motion functions and color effects to your design. First, on the home page, select the clip you want to edit => right mouse button => edit actions.*
 
   .. image:: images/edit_actions.jpg
 
@@ -47,7 +47,7 @@
 
   5.1.3.2 Drone closeness indicator
 
-  *Function that indicates with a red block above the drone when the drones are placed too close to each other,and this cannot be performed in reality*
+  *Function that indicates with a red block above the drone when the drones are placed too close to each other, and this cannot be performed in reality*
 
 5.2 Buttonpane
 ----------------
@@ -58,11 +58,11 @@
 
 5.2.1 Movement
 
-*Here you will find all movement options that you can apply to your layout.*
+*Here you will find all movement options that you can apply to your design.*
 
   5.2.1.1 Bezier
 
-  *A bezier is a parametric curve that consists of a connection between a starting point and an end point with anchor point. Used to draw straight lines, turns and curves that the drones take as their flight path. Be careful with a formation of drones, the center of the formation will always follow the curve. A layout can of course consist of a concatenation of several points, each intermediate point gets 2 anchor points to adjust the curve. Use the three cube icons front view, side view and top view to easily draw your path in depth and all dimensions.*
+  *A bezier is a parametric curve that consists of a connection between a starting point and an end point with anchor point. Used to draw straight lines, turns and curves that the drones take as their flight path. Be careful with a formation of drones, the center of the formation will always follow the curve. A design can of course consist of a concatenation of several points, each intermediate point gets 2 anchor points to adjust the curve. Use the three cube icons front view, side view and top view to easily draw your path in depth and all dimensions.*
 
   .. image:: images/bezier.jpg
 
@@ -86,11 +86,11 @@
 
     - Keyframes
 
-      * With a keyframe you can add a movement or application to your layout. On the basis of a start and end point, you can place this application on the timeline of your clip or scene and move it as desired. Between these two points the action (bezier) will be active. *
+      * With a keyframe you can add a movement or application to your design. On the basis of a start and end point, you can place this application on the timeline of your clip or scene and move it as desired. Between these two points the action (bezier) will be active. *
 
   5.2.1.2 Rotation
 
-  *You can rotate the layout around various axes. Via properties you can enter different details for the desired rotation. See chapter 4.3.4 "properties" for more information.*
+  *You can rotate the design around various axes. Via properties you can enter different details for the desired rotation. See chapter 4.3.4 "properties" for more information.*
 
   .. image:: images/rotation.jpg
 
@@ -110,7 +110,7 @@
 
     - Rotation front, side, top
 
-      *Here you can enter the number of degrees that the layout must be rotated according to 3 positions, front, side or top. The rotation point is automatically central to the layout.* 
+      *Here you can enter the number of degrees that the layout must be rotated according to 3 positions, front, side or top. The rotation point is automatically central to the design.* 
 
     - Rotation point X Y Z
 
@@ -118,11 +118,11 @@
 
     - Keyframes
 
-      * With a keyframe you can add a movement or application to your layout. On the basis of a start and end point, you can place this application on the timeline of your clip or scene and move it as desired. Between these two points the action (rotation) will be active. *
+      * With a keyframe you can add a movement or application to your layout. On the basis of a start and end point, you can place this application on the timeline of your clip or scene and move it as desired. Between these two points the action (rotation) will be active.*
 
   5.2.1.3 Move
 
-  *Here you can move the layout from point A to point B in a rectilinear movement via properties you can enter various details for the desired move.*
+  *Here you can move the design from point A to point B in a rectilinear movement via properties you can enter various details for the desired move.*
 
   .. image:: images/move.jpg
   
@@ -174,19 +174,19 @@
 
     - Scale X Y Z
 
-      *You have the option to scale the layout of a clip or scene to a different format according to an X, Y and Z axis. Increasing the numerical value is increasing the format, decreasing the values ​​is decreasing the format. Use the arrows left and right or click on the value to enter a new number. Next to the word "scale" you will find a slider, if this is on you can scale in proportion. If the slide switch is off, you can choose which X (= left, right), Y (= forward, backward) and Z (= top, bottom) axis you want to scale separately.*
+      *You have the option to scale the design of a clip or scene to a different format according to an X, Y and Z axis. Increasing the numerical value is increasing the format, decreasing the values is decreasing the format. Use the arrows left and right or click on the value to enter a new number. Next to the word "scale" you will find a slider, if this is on you can scale in proportion. If the slide switch is off, you can choose which X (= left, right), Y (= forward, backward) and Z (= top, bottom) axis you want to scale separately.*
 
     - Scale point
 
-      *Hier kan je het punt bepalen van waaruit de schaling gebeurd. U hebt de mogelijkheid om het schaalpunt te bepalen volgens de 3 assen (= left, right), Y (= forward, backward) and Z (= top, bottom)*
+      *Here you can determine the point from which the scaling takes place. You have the option to determine the scale point according to the 3 axes (= left, right), Y (= forward, backward) and Z (= top, bottom).*
 
     - Keyframes
 
-      * With a keyframe you can add a movement or application to your layout. On the basis of a start and end point, you can place this application on the timeline of your clip or scene and move it as desired. Between these two points the action (scale) will be active. *
+      * With a keyframe you can add a movement or application to your design. On the basis of a start and end point, you can place this application on the timeline of your clip or scene and move it as desired. Between these two points the action (scale) will be active. *
 
   5.2.1.5 Wave
 
-  *With this function you can automatically add a wave movement to your layout. For example, the effect of a waving flag. Via properties you can enter various details for the desired wave.*
+  *With this function you can automatically add a wave movement to your design. For example, the effect of a waving flag. Via properties you can enter various details for the desired wave.*
 
   .. image:: images/wave.jpg
 
@@ -218,7 +218,7 @@
 
     - Angle
 
-      *This is the angle at which the wave will occur on the entire layout. If you place a grid and you take a wave of 0 ° it will move from left to right. At 90 ° the wave will move from back to front, and at 180 ° from right to left. Note, this function only works with the XV plane (=> this plane can be found in the start page => properties => plane).*
+      *This is the angle at which the wave will occur on the entire design. If you place a grid and you take a wave of 0 ° it will move from left to right. At 90 ° the wave will move from back to front, and at 180 ° from right to left. Note, this function only works with the XV plane (=> this plane can be found in the start page => properties => plane).*
 
     - Iterations
 
@@ -226,11 +226,11 @@
 
     - Keyframes
 
-      * With a keyframe you can add a movement or application to your layout. On the basis of a start and end point, you can place this application on the timeline of your clip or scene and move it as desired. Between these two points the action (wave) will be active. *
+      * With a keyframe you can add a movement or application to your design. On the basis of a start and end point, you can place this application on the timeline of your clip or scene and move it as desired. Between these two points the action (wave) will be active. *
 
   5.2.1.6 Yaw
 
-  *xxxxxxxxxxxxxxxxxxxxxxxx*
+  *With this function you can rotate a drone around its axis. Note, if the drones are in a formation, each drone will rotate around its axis and not the formation itself. If your drone is only equipped with a light source at the bottom of the drone, this function will have little or no effect. Rather, this capability is intended for special drones with side light sources or for special drone creations.*
 
   .. image:: images/yaw.jpg
 
@@ -254,15 +254,15 @@
 
     - Relative yaw
 
-      *xxxxxxxxxxxxxxxxxxxxxxxt*
+      *With relative yaw you can enter the number of degrees by which the drones rotate around their axis. With the slider you can turn this function on or off.*
 
     - Keyframes
 
-      * With a keyframe you can add a movement or application to your layout. On the basis of a start and end point, you can place this application on the timeline of your clip or scene and move it as desired. Between these two points the action (yaw) will be active. *
+      * With a keyframe you can add a movement or application to your design. On the basis of a start and end point, you can place this application on the timeline of your clip or scene and move it as desired. Between these two points the action (yaw) will be active. *
 
 5.2.2 Lights
 
-*Here you will find all light effects and color options that you can apply to your layout.*
+*Here you will find all light effects and color options that you can apply to your design.*
 
   5.2.2.1 Colorize
 
@@ -302,7 +302,7 @@
 
     - Keyframes
 
-      * With a keyframe you can add a movement or application to your layout. On the basis of a start and end point, you can place this application on the timeline of your clip or scene and move it as desired. Between these two points the action (colorize) will be active. *
+      * With a keyframe you can add a movement or application to your design. On the basis of a start and end point, you can place this application on the timeline of your clip or scene and move it as desired. Between these two points the action (colorize) will be active. *
 
   5.2.2.2 Fade
 
@@ -342,7 +342,7 @@
 
     - Keyframes
 
-      * With a keyframe you can add a movement or application to your layout. On the basis of a start and end point, you can place this application on the timeline of your clip or scene and move it as desired. Between these two points the action (fade) will be active. *
+      * With a keyframe you can add a movement or application to your design. On the basis of a start and end point, you can place this application on the timeline of your clip or scene and move it as desired. Between these two points the action (fade) will be active. *
 
   5.2.2.3 Gradiënt
 
@@ -406,7 +406,7 @@
 
     - Keyframes
 
-      * With a keyframe you can add a movement or application to your layout. On the basis of a start and end point, you can place this application on the timeline of your clip or scene and move it as desired. Between these two points the action (gradiënt) will be active. *
+      * With a keyframe you can add a movement or application to your design. On the basis of a start and end point, you can place this application on the timeline of your clip or scene and move it as desired. Between these two points the action (gradiënt) will be active. *
 
   5.2.2.4 Fade-in
 
@@ -442,7 +442,27 @@
 
     - Easing
 
-      *xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx*
+      *Nothing in nature moves linearly from one point to another. In reality, things tend to speed up or slow down as they move. Our brains are wired to expect these types of movements, so if you are animating you should use this to your advantage. Natural movement makes your users feel more comfortable with your design, which in turn leads to a better overall experience.*
+
+      - Linear
+
+        *tekst*
+
+      - Ease in
+
+        *tekst*
+
+      - Ease out
+
+        *tekst*
+
+      - Ease in-out
+
+        *tekst*
+
+      - none
+
+        *tekst*
 
     - Keyframes
 
