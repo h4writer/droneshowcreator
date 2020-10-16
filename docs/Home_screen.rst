@@ -182,7 +182,7 @@
 
  .. image:: images/play.jpg
 
-4.2.10 1x
+4.2.10 Speed up
 
  *This is the acceleration function, normal speed is 1x, the higher the number, the faster format is played.*
 
