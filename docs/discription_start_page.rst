@@ -347,21 +347,21 @@
      
     - Rotation
      
-      *To rotate your layout around its center, expressed in degrees.*
+      *To rotate your design around its center, expressed in degrees.*
      
     - Plane
      
       - XZ plane
           
-        *Place your layout according to the XZ axis.*
+        *Place your design according to the XZ axis.*
           
       - XZ plane
           
-        *Place your layout according to the YZ axis.*
+        *Place your design according to the YZ axis.*
           
       - YZ plane
           
-        *Place your layout according to the XY axis.*
+        *Place your design according to the XY axis.*
          
   - Circle
   
@@ -377,7 +377,7 @@
 
     - Rotation
      
-      *To rotate your layout around its center, expressed in degrees.*
+      *To rotate your design around its center, expressed in degrees.*
 
   - Rectangle
   
@@ -407,15 +407,15 @@
      
       - XZ plane
           
-        *Place your layout according to the XZ axis.*
+        *Place your design according to the XZ axis.*
 
       - YZ plane
           
-        *Place your layout according to the YZ axis.*
+        *Place your design according to the YZ axis.*
         
       - XY plane
           
-        *Place your layout according to the XY axis.*
+        *Place your design according to the XY axis.*
 
   - Sphere
   
