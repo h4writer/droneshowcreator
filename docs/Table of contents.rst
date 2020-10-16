@@ -81,6 +81,46 @@ Table of contents
    - 4.5.1.1 Drones
 
    - 4.5.1.2 Start
+
+   - 4.5.1.3 Duration
+
+   - 4.5.1.4 Position X Y Z
+
+   - 4.5.1.5 Remove
+
+   4.5.2 Transformation
+    
+   - 4.5.2.1 Speed
+
+   - 4.5.2.2 Rotation
+
+   - 4.5.2.3 Scale X Y Z
+
+   4.5.3 Action
+    
+   - 4.5.3.1 Edit action
+
+   4.5.4 Formation
+    
+   - 4.5.4.1 Color
+
+   - 4.5.4.2 Mode
+
+   - 4.5.4.3 Single drone
+
+   - 4.5.4.4 Grid
+
+   - 4.5.4.5 Circle
+
+   - 4.5.4.6 Rectangle
+
+   - 4.5.4.7 Sphere
+
+   - 4.5.4.8 Polygon
+
+   - 4.5.4.9 Star
+
+   4.5.5 Raw clip
     
 
 
