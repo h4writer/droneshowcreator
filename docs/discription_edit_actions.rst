@@ -1,66 +1,66 @@
 ============================
-5 Edit actions
+6 Edit actions
 ============================
 
 *In this submenu you have the options to add motion functions and color effects to your design. First, on the home page, select the clip you want to edit => right mouse button => edit actions.*
 
   .. image:: images/edit_actions.jpg
 
-5.1 Menu bar
+6.1 Menu bar
 --------------
 
 *The menu bar contains functions related to saving and closing files, undo operations and security settings.*
 
   .. image:: images/menubalk001.jpg
 
-5.1.1 File
+6.1.1 File
 
   .. image:: images/edit_actions_file.jpg
 
-  5.1.1.1 Save
+  6.1.1.1 Save
 
   *To save your layout.*
 
-  5.1.1.2 Close
+  6.1.1.2 Close
 
   *To close the edit actions submenu*
 
-5.1.2 Edit
+6.1.2 Edit
 
   .. image:: images/edit-actions-edit.jpg
 
-  5.1.2.1 undo
+  6.1.2.1 undo
 
   *Undo an action or operation*
 
-  5.1.2.2 Redo
+  6.1.2.2 Redo
 
   *Redo an action or operation*
 
-5.1.3 View
+6.1.3 View
 
   .. image:: images/edit_actions_view.jpg
 
-  5.1.3.1 Drone frames
+  6.1.3.1 Drone frames
 
   *You can choose whether or not the frame of the drone is shown in the visualization.*
 
-  5.1.3.2 Drone closeness indicator
+  6.1.3.2 Drone closeness indicator
 
   *Function that indicates with a red block above the drone when the drones are placed too close to each other, and this cannot be performed in reality*
 
-5.2 Buttonpane
+6.2 Buttonpane
 ----------------
 
 *In this place you will find all possible effects that you can apply to your layout.*
 
   .. image:: images/buttonpane001.jpg
 
-5.2.1 Movement
+6.2.1 Movement
 
 *Here you will find all movement options that you can apply to your design.*
 
-  5.2.1.1 Bezier
+  6.2.1.1 Bezier
 
   *A bezier is a parametric curve that consists of a connection between a starting point and an end point with anchor point. Used to draw straight lines, turns and curves that the drones take as their flight path. Be careful with a formation of drones, the center of the formation will always follow the curve. A design can of course consist of a concatenation of several points, each intermediate point gets 2 anchor points to adjust the curve. Use the three cube icons front view, side view and top view to easily draw your path in depth and all dimensions.*
 
@@ -88,7 +88,7 @@
 
       * With a keyframe you can add a movement or application to your design. On the basis of a start and end point, you can place this application on the timeline of your clip or scene and move it as desired. Between these two points the action (bezier) will be active. *
 
-  5.2.1.2 Rotation
+  6.2.1.2 Rotation
 
   *You can rotate the design around various axes. Via properties you can enter different details for the desired rotation. See chapter 4.3.4 "properties" for more information.*
 
@@ -120,7 +120,7 @@
 
       * With a keyframe you can add a movement or application to your layout. On the basis of a start and end point, you can place this application on the timeline of your clip or scene and move it as desired. Between these two points the action (rotation) will be active.*
 
-  5.2.1.3 Move
+  6.2.1.3 Move
 
   *Here you can move the design from point A to point B in a rectilinear movement via properties you can enter various details for the desired move.*
 
@@ -148,7 +148,7 @@
 
       * With a keyframe you can add a movement or application to your layout. On the basis of a start and end point, you can place this application on the timeline of your clip or scene and move it as desired. Between these two points the action (move) will be active. *
 
-  5.2.1.4 Scale
+  6.2.1.4 Scale
 
   *You can have the layout enlarged or reduced from a starting position, such as the effect of fireworks that burst open. Via properties you can enter various details for the desired move.*
 
@@ -184,7 +184,7 @@
 
       * With a keyframe you can add a movement or application to your design. On the basis of a start and end point, you can place this application on the timeline of your clip or scene and move it as desired. Between these two points the action (scale) will be active. *
 
-  5.2.1.5 Wave
+  6.2.1.5 Wave
 
   *With this function you can automatically add a wave movement to your design. For example, the effect of a waving flag. Via properties you can enter various details for the desired wave.*
 
@@ -228,7 +228,7 @@
 
       * With a keyframe you can add a movement or application to your design. On the basis of a start and end point, you can place this application on the timeline of your clip or scene and move it as desired. Between these two points the action (wave) will be active. *
 
-  5.2.1.6 Yaw
+  6.2.1.6 Yaw
 
   *With this function you can rotate a drone around its axis. Note, if the drones are in a formation, each drone will rotate around its axis and not the formation itself. If your drone is only equipped with a light source at the bottom of the drone, this function will have little or no effect. Rather, this capability is intended for special drones with side light sources or for special drone creations.*
 
@@ -260,11 +260,11 @@
 
       * With a keyframe you can add a movement or application to your design. On the basis of a start and end point, you can place this application on the timeline of your clip or scene and move it as desired. Between these two points the action (yaw) will be active. *
 
-5.2.2 Lights
+6.2.2 Lights
 
 *Here you will find all light effects and color options that you can apply to your design.*
 
-  5.2.2.1 Colorize
+  6.2.2.1 Colorize
 
   *Giving a certain color to one or more drones. A color can be chosen from the color range or via custom color.*
 
@@ -304,7 +304,7 @@
 
       * With a keyframe you can add a movement or application to your design. On the basis of a start and end point, you can place this application on the timeline of your clip or scene and move it as desired. Between these two points the action (colorize) will be active. *
 
-  5.2.2.2 Fade
+  6.2.2.2 Fade
 
   *Function where color A slowly fades and slowly changes into color B.*
 
@@ -344,7 +344,7 @@
 
       * With a keyframe you can add a movement or application to your design. On the basis of a start and end point, you can place this application on the timeline of your clip or scene and move it as desired. Between these two points the action (fade) will be active. *
 
-  5.2.2.3 Gradiënt
+  6.2.2.3 Gradiënt
 
   *Function in which the LED turns on and off, causing flashes of light on a regular basis. The discharge time can be set manually via properties.*
 
@@ -408,7 +408,7 @@
 
       * With a keyframe you can add a movement or application to your design. On the basis of a start and end point, you can place this application on the timeline of your clip or scene and move it as desired. Between these two points the action (gradiënt) will be active. *
 
-  5.2.2.4 Fade-in
+  6.2.2.4 Fade-in
 
   *Function in which a color slowly emerges from black.*
 
@@ -468,7 +468,7 @@
 
       * With a keyframe you can add a movement or application to your layout. On the basis of a start and end point, you can place this application on the timeline of your clip or scene and move it as desired. Between these two points the action (fade in) will be active. *
 
-  5.2.2.5 Fade-out
+  6.2.2.5 Fade-out
 
   *Function in which a color slowly fades to black.*
 
@@ -528,7 +528,7 @@
 
       * With a keyframe you can add a movement or application to your layout. On the basis of a start and end point, you can place this application on the timeline of your clip or scene and move it as desired. Between these two points the action (fade out) will be active. *
 
-  5.2.2.6 Strobe
+  6.2.2.6 Strobe
 
   *Function in which the LED turns on and off, causing flashes of light on a regular basis. The discharge time can be set manually via properties.*
 
@@ -625,7 +625,7 @@
 
       * With a keyframe you can add a movement or application to your layout. On the basis of a start and end point, you can place this application on the timeline of your clip or scene and move it as desired. Between these two points the action (strobe) will be active. **tekst*
 
-  5.2.2.7 Sparkle
+  6.2.2.7 Sparkle
 
   *Function in which the LEDs turn on and off very quickly and are randomly distributed among all drones in the complete design.*
 
@@ -721,7 +721,7 @@
 
       * With a keyframe you can add a movement or application to your layout. On the basis of a start and end point, you can place this application on the timeline of your clip or scene and move it as desired. Between these two points the action (sparkle) will be active. *
 
-  5.2.2.8 Roll over
+  6.2.2.8 Roll over
 
   *Function where color A will replace color B by rolling the color over the entire area of the layout.*
 
@@ -783,7 +783,7 @@
 
       * With a keyframe you can add a movement or application to your layout. On the basis of a start and end point, you can place this application on the timeline of your clip or scene and move it as desired. Between these two points the action (roll over) will be active. *
 
-  5.2.2.9 Spot
+  6.2.2.9 Spot
 
   *This function ensures that you can place a color accent at a specific place within the layout, just like a light beam from a spotlight.*
 
@@ -859,7 +859,7 @@
 
       * With a keyframe you can add a movement or application to your layout. On the basis of a start and end point, you can place this application on the timeline of your clip or scene and move it as desired. Between these two points the action (spot) will be active. *
 
-  5.2.2.10 Image
+  6.2.2.10 Image
 
   *With this function it is possible to place an image over a grid of drones.*
 
@@ -918,7 +918,7 @@
 
       *With a keyframe you can add a movement or application to your layout. On the basis of a start and end point, you can place this application on the timeline of your clip or scene and move it as desired. Between these two points the action (image) will be active.*
 
-  5.2.2.11 Rainbow
+  6.2.2.11 Rainbow
 
   *With this function, a color gradient is automatically placed with the rainbow colors over the entire design. The colors can be mutually adjusted.*
 
@@ -958,7 +958,7 @@
 
       *With a keyframe you can add a movement or application to your layout. On the basis of a start and end point, you can place this application on the timeline of your clip or scene and move it as desired. Between these two points the action (rainbow) will be active. *
 
-  5.2.2.12 Gamma correction
+  6.2.2.12 Gamma correction
 
   *This is a non-linear function to correct the light intensity, luminance or brightness of a color.*
 
@@ -998,7 +998,7 @@
 
       *With a keyframe you can add a movement or application to your layout. On the basis of a start and end point, you can place this application on the timeline of your clip or scene and move it as desired. Between these two points the action (gamma corection) will be active. *
 
-  5.2.2.13 Max light correction
+  6.2.2.13 Max light correction
 
   *xxxxxxxxxxxxxxxxxxxx*
 
@@ -1038,26 +1038,26 @@
 
       *With a keyframe you can add a movement or application to your layout. On the basis of a start and end point, you can place this application on the timeline of your clip or scene and move it as desired. Between these two points the action (max light correction) will be active. *
 
-5.3 Viewport
+6.3 Viewport
 --------------
 
 *This viewport allows you to visualize your layout on 3 different perspectives, use a numerical time indication and speed up the time. You can also frame the layout automatically or as a percentage and move the cursor needle to the beginning or end of the layout.*
 
   .. image:: images/viewport001.jpg
 
-5.3.1 Cube icons
+6.3.1 Cube icons
 
 *The program has 3 different preview perspectives, the front view (first cube), top view (second cube) and the side view (third cube). A fourth function uses the directional arrows on the keyboard to allow you to freely move the layout in all directions for the ideal perspective. The latter function can be very useful when formatting complex structures.*
 
   .. image:: images/Cube_icons.jpg
 
-5.3.2 Chrono time
+6.3.2 Chrono time
 
 *This is the numerical representation of the cursor needle position in hours, minutes, seconds and milliseconds. If you adjust the numerical values ​​manually, the needle will automatically jump to the entered value.*
 
   .. image:: images/Chrono_time.jpg
 
-5.3.3 Play buttons
+6.3.3 Play buttons
 
 *The double arrows to the left: If you click on this, the cursor needle automatically jumps to the beginning of the timeline.
 The play triangle: Clicking on this will cause the cursor needle to run from its position on the timeline.
@@ -1066,41 +1066,41 @@ The double arrows to the right: If you click on this, the cursor needle will aut
 
   .. image:: images/play.jpg
 
-5.3.4 Outlining icon
+6.3.4 Outlining icon
 
 *The automatic framing icon ensures that your layout, regardless of size, is visualized in the available viewport frame. The percentage is automatically calculated for this.*
 
   .. image:: images/kadrage.jpg
 
-5.3.5 Visualisation in terms of percentage
+6.3.5 Visualisation in terms of percentage
 
 *You can also manually determine the size of the visualization by entering a percentage yourself or by using the arrows. Manually determining the preview can be useful to enlarge details of complex structures for a clear interpretation.*
 
   .. image:: images/percentage.jpg
 
-5.4 Properties
+6.4 Properties
 --------------
 
 *See chapter 5.2 "Buttonpane*
 
   .. image:: images/properties001.jpg
 
-5.5 Action list
+6.5 Action list
 ----------------
 
 *Each action, both movement and lights, is automatically placed in rows one below the other on the timeline when you click the + sign, next to the word row1, 2, 3 ... there is an eye icon. If you click on this icon, the eye will be crossed out, which means that the action is no longer applicable. Click on the eye again to reactivate the action. Place your mouse cursor on the timeline and roll the mouse wheel to zoom in or out on the timeline, this will enlarge or reduce the action blocks. You can also move the action blocks vertically for a different order if you wish, you will notice that when you drag a block down, new rows are added.*
 
   .. image:: images/action_list001.jpg
 
-  5.5.1 Row1, 2, 3...
+  6.5.1 Row1, 2, 3...
 
   *This can be compared to the sequence jobs on the timeline of the home screen, but only intended for actions from the buttonpane of the edit actions.*
 
-  5.5.2 Eye icon
+  6.5.2 Eye icon
 
   *This eye icon indicates that the action is visible and active on the timeline.*
 
-  5.5.2 Crossed out eye icon
+  6.5.2 Crossed out eye icon
 
   *This icon of an eye that is crossed out indicates that the action is not visible and is no longer active on the timeline.*
 
