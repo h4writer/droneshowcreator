@@ -1094,17 +1094,14 @@ The double arrows to the right: If you click on this, the cursor needle will aut
 
   5.5.1 Row1, 2, 3...
 
+    *This can be compared to the sequence jobs on the timeline of the home screen, but only intended for actions from the buttonpane of the edit actions.*
+
   5.5.2 Eye icon
+
+    *This eye icon indicates that the action is visible and active on the timeline.*
 
   5.5.2 Crossed out eye icon
 
-5.6 Drone list
-----------------
-
-*tekst*
-
-  .. image:: images/Drone_list001.jpg
-
-*xxxxxxxxxxxxxxxxxx*
+    *This icon of an eye that is crossed out indicates that the action is not visible and is no longer active on the timeline.*
 
 
