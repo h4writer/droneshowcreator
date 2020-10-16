@@ -3,6 +3,7 @@ Table of contents
 ------------------
 
 4. Home screen
+---------------
 
 4.1 Menu bar
 
