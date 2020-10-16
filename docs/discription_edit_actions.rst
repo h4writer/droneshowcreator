@@ -956,7 +956,7 @@
 
     - Keyframes
 
-      * With a keyframe you can add a movement or application to your layout. On the basis of a start and end point, you can place this application on the timeline of your clip or scene and move it as desired. Between these two points the action (rainbow) will be active. *
+      *With a keyframe you can add a movement or application to your layout. On the basis of a start and end point, you can place this application on the timeline of your clip or scene and move it as desired. Between these two points the action (rainbow) will be active. *
 
   5.2.2.12 Gamma correction
 
@@ -996,7 +996,7 @@
 
     - Keyframes
 
-      * With a keyframe you can add a movement or application to your layout. On the basis of a start and end point, you can place this application on the timeline of your clip or scene and move it as desired. Between these two points the action (gamma corection) will be active. *
+      *With a keyframe you can add a movement or application to your layout. On the basis of a start and end point, you can place this application on the timeline of your clip or scene and move it as desired. Between these two points the action (gamma corection) will be active. *
 
   5.2.2.13 Max light correction
 
@@ -1036,7 +1036,7 @@
 
     - Keyframes
 
-      * With a keyframe you can add a movement or application to your layout. On the basis of a start and end point, you can place this application on the timeline of your clip or scene and move it as desired. Between these two points the action (max light correction) will be active. *
+      *With a keyframe you can add a movement or application to your layout. On the basis of a start and end point, you can place this application on the timeline of your clip or scene and move it as desired. Between these two points the action (max light correction) will be active. *
 
 5.3 Viewport
 --------------
