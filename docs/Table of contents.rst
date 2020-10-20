@@ -204,7 +204,6 @@ Table of contents
 
        - Keyframe
 
-
    - 6.2.1.2 Rotation
 
      - Properties
