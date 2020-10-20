@@ -194,7 +194,61 @@ Table of contents
 
      - Properties
 
-       Properties
+       Start
+
+       Duration
+
+       Drones
+
+       Remove
+
+       Keyframe
+
+   - 6.2.1.2 Rotation
+
+     - Properties
+
+       Start
+
+       Duration
+
+       Drones
+
+       Rotation front, side, top
+
+       Rotation point X Y Z
+
+       Keyframes
+
+   - 6.2.1.3 Move
+
+     - Properties
+
+       Start
+
+       Duration
+
+       Drones
+
+       Relative position X Y Z
+
+       Keyframes
+
+ - 6.2.1.3 x
+
+     - x
+
+       x
+
+       x
+
+       x
+
+       x
+
+       x
+
+
 
 
 
