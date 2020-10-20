@@ -426,6 +426,182 @@ Table of contents
 
        Keyframes
 
+- 6.2.2.7 Sparkle
+
+     - Properties:
+
+       Start
+
+       Duration
+
+       Drones 
+
+       Remove
+
+       Blende mode
+
+       Opacity
+
+       Start color
+
+       Second color
+       
+       Strobe duration
+
+       Visible drones
+
+       Easing
+
+       Keyframes
+
+- 6.2.2.8 Roll over
+
+     - Properties:
+
+       Start
+
+       Duration
+
+       Drones
+
+       Remove
+
+       Blende mode
+
+       Opacity
+
+       Start color
+
+       Second color
+
+       Start position X Y Z
+
+       Stop position X Y Z
+       
+       Keyframe
+
+- 6.2.2.9 Spot
+
+     - Properties:
+
+       Start
+
+       Duration
+
+       Drones
+
+       Remove
+
+       Blend mode
+
+       Opacity
+
+       Gradiënt type
+
+       Start position
+
+       End position
+
+       Color
+
+       Key frame blend mode
+
+       Cut of after distance
+
+       Gradiënt shift
+
+       Keyframe
+       
+- 6.2.2.10 Image
+
+     - Properties:
+
+       Start
+ 
+       Duration
+
+       Drones 
+
+       Remove
+
+       Blend mode
+
+       Opacity
+
+       Image
+
+       Middle X Y Z
+
+       Up X Y Z
+       
+       Right X Y Z
+       
+       Scale
+       
+       Keyframes
+
+- 6.2.2.11 Rainbow
+
+     - Properties:
+
+       Start
+
+       Duration
+
+       Drones
+ 
+       Remove
+
+       Blend mode
+
+       Opacity
+
+       Color
+
+- 6.2.2.12  Gamma correction
+
+     - Properties:
+
+       Start
+
+       Duration
+
+       Drones
+
+       Remove
+
+       Blend mode
+
+       Opacity
+
+       Gamma
+
+       Keyframe
+
+- 6.2.2.13 Max light correction
+
+     - Properties:
+
+       Start
+
+       Duration
+
+       Drones
+
+       Remove
+
+       Blend mode
+
+       Opacity
+
+       Max light
+
+       Keyframe 
+
+
+     
+
+
 
 
 
