@@ -423,12 +423,8 @@ Table of contents
        Visible drones
 
        Easing
-       
-         linear
 
-         easing in
-
-       SKeyframes
+       Keyframes
 
 
 
