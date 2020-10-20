@@ -7,3 +7,8 @@ Het aantal drones die je kan gebruiken en ondersteund word door het programma is
 
 Het programma bestaat uit 3 verschillende pijlers:
 
+1. Home screen
+Bij het openen van het programma wordt u automatisch naar het home-scherm geleid. Dit is het belangrijkste deel van het programma waar u in eerste instantie de drones moet plaatsen om daarna via de submenu's "edit figure" en "edit actions" de verdere vormgeving kan gaan verzorgen.
+
+2. Edit figure
+
