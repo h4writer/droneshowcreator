@@ -376,9 +376,28 @@ Table of contents
 
        Easing
 
-         Linear
+       Keyframe
 
-         Ease in
+   - 6.2.2.5 Fade-out
+
+     - Properties:
+
+       Start
+
+       Duration
+
+       Drones
+
+       Remove
+
+       Blende mode
+
+       Opacity
+
+       Easing
+
+       Keyframe
+
 
 
 
