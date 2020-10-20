@@ -623,8 +623,7 @@
 
     - Keyframes
 
-      * With a keyframe you can add a movement or application to your layout. On the basis of a start and end point, you can place this application on the timeline of your clip or scene and move it as desired. Between these two points the action (strobe) will be active. **tekst*
-
+      * With a keyframe you can add a movement or application to your layout. On the basis of a start and end point, you can place this application on the timeline of your clip or scene and move it as desired. Between these two points the action (strobe) will be active.*
   6.2.2.7 Sparkle
 
   *Function in which the LEDs turn on and off very quickly and are randomly distributed among all drones in the complete design.*
