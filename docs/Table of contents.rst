@@ -252,6 +252,28 @@ Table of contents
 
        Keyframes
 
+   - 6.2.1.5 Wave
+
+     - Properties
+
+       Start
+
+       Duration
+
+       Drones
+
+       Remove
+
+       Height
+
+       Time offset
+
+       Angle
+
+       Iterations
+
+       Keyframes
+
 
 
 
