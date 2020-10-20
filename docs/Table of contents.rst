@@ -221,7 +221,6 @@ Table of contents
 
        - Keyframes
 
-
    - 6.2.1.3 Move
 
      - Properties
@@ -253,6 +252,121 @@ Table of contents
        - Scale point
 
        - Key frames
+
+   - 6.2.1.5 Wave
+
+     - Properties
+
+       - Start
+
+       - Duration
+
+       - Drones
+
+       - Remove
+
+       - Height
+
+       - Time offset
+
+       - Angle
+
+       - Iterations
+
+       - Keyframes
+
+   - 6.2.1.6 Yaw
+
+     - Properties
+
+       - Start
+
+       - Duration
+
+       - Drones
+
+       - Remove
+
+       - Relative yaw
+
+       - Keyframes
+
+   6.2.2 Lights
+
+   - 6.2.2.1 Colorize
+
+     - Properties
+
+       - Start
+
+       - Duration
+
+       - Drones
+
+       - Remove
+
+       - Blende mode
+
+       - Opacity
+
+       - Color
+
+       - Keyframes
+
+   - 6.2.2.2 Fade
+
+     - Properties
+
+       - Start
+
+       - Duration
+
+       - Drones
+
+       - Remove
+
+       - Blend mode
+
+       - Opacity
+
+       - Color
+
+       - Keyframes
+
+ - 6.2.2.3 Gradiënt
+
+     - Properties
+
+       - Start
+
+       - Duration
+
+       - Drones
+
+       - Remove
+
+       - Blende mode
+
+       - Opacity
+
+       - Start color
+
+         - Inherit
+
+         - Color
+
+         - Random
+
+       - Second color
+
+       - Start position X Y Z
+
+       - Stop position X Y Z
+
+       - Keyframes
+
+
+
 
 
 
