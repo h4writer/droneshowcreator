@@ -220,34 +220,6 @@ Table of contents
 
        Keyframes
 
-   - 6.2.1.3 Move
-
-     - Properties
-
-       Start
-
-       Duration
-
-       Drones
-
-       Relative position X Y Z
-
-       Keyframes
-
- - 6.2.1.3 x
-
-     - x
-
-       x
-
-       x
-
-       x
-
-       x
-
-       x
-
 
 
 
