@@ -194,8 +194,6 @@ Table of contents
 
     - Properties
 
-      Start
-
 
 
 
