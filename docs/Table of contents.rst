@@ -205,5 +205,61 @@ Table of contents
        - Keyframe
 
 
+   - 6.2.1.2 Rotation
+
+     - Properties
+
+       - Start
+
+       - Duration
+
+       - Drones
+
+       - Rotation front, side, top
+
+       - Rotation point X Y Z
+
+       - Keyframes
+
+
+   - 6.2.1.3 Move
+
+     - Properties
+
+       - Start
+
+       - Duration
+
+       - Drones
+
+       - Relative position X Y Z
+
+       - Keyframes
+
+   - 6.2.1.4 MoveScale
+
+     - Properties
+
+       - Start
+
+       - Duration
+
+       - Drones
+
+       - Remove
+
+       - Scale X Y Z
+
+       - Scale point
+
+       - Key frames
+
+
+
+ 
+
+
+
+
 
 
