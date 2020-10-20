@@ -192,7 +192,7 @@ Table of contents
 
    - 6.2.1.1 Bezier
 
-     - Properties
+     - Properties:
 
        Start
 
@@ -206,7 +206,7 @@ Table of contents
 
    - 6.2.1.2 Rotation
 
-     - Properties
+     - Properties:
 
        Start
 
@@ -222,7 +222,7 @@ Table of contents
 
    - 6.2.1.3 Move
 
-     - Properties
+     - Properties:
 
        Start
 
@@ -236,7 +236,7 @@ Table of contents
 
    - 6.2.1.4 Scale
 
-     - Properties
+     - Properties:
 
        Start
 
@@ -254,7 +254,7 @@ Table of contents
 
    - 6.2.1.5 Wave
 
-     - Properties
+     - Properties:
 
        Start
 
@@ -274,7 +274,21 @@ Table of contents
 
        Keyframes
 
+   - 6.2.1.6 Yaw
 
+     - Properties:
+
+       Start
+
+       Duration
+
+       Drones
+
+       Remove
+
+       Relative yaw
+
+       Keyframes
 
 
 
