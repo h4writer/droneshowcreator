@@ -174,6 +174,36 @@ Table of contents
 
    - 6.1.1.2 Close
 
+   6.1.2 Edit
+
+   - 6.1.2.1 Undo
+
+   - 6.1.2.2 Redo
+
+   6.1.3 View
+
+   - 6.1.3.1 Drone frames
+
+   - 6.1.3.2 Drone closeness indication
+
+6.2 Buttonpane
+
+   6.2.1 Movement
+
+   - 6.2.1.1 Bezier
+
+     - Properties
+
+       - Start
+
+       - Duration
+
+       - Drones
+
+       - Remove
+
+       - Keyframe
+
 
 
 
