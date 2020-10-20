@@ -694,7 +694,7 @@
 
 - Easing
 
-      *Nothing in nature moves linearly from one point to another. In reality, things tend to speed up or slow down as they move. Our brains are wired to expect these types of movements, so if you are animating you should use this to your advantage. Natural movement makes your users feel more comfortable with your design, which in turn leads to a better overall experience.*
+*Nothing in nature moves linearly from one point to another. In reality, things tend to speed up or slow down as they move. Our brains are wired to expect these types of movements, so if you are animating you should use this to your advantage. Natural movement makes your users feel more comfortable with your design, which in turn leads to a better overall experience.*
 
       - Linear
 
