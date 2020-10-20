@@ -454,7 +454,7 @@ Table of contents
 
        Keyframes
 
-- 6.2.2.8 Roll over
+   - 6.2.2.8 Roll over
 
      - Properties:
 
@@ -480,7 +480,7 @@ Table of contents
        
        Keyframe
 
-- 6.2.2.9 Spot
+   - 6.2.2.9 Spot
 
      - Properties:
 
@@ -512,7 +512,7 @@ Table of contents
 
        Keyframe
        
-- 6.2.2.10 Image
+   - 6.2.2.10 Image
 
      - Properties:
 
@@ -540,7 +540,7 @@ Table of contents
        
        Keyframes
 
-- 6.2.2.11 Rainbow
+   - 6.2.2.11 Rainbow
 
      - Properties:
 
@@ -558,7 +558,7 @@ Table of contents
 
        Color
 
-- 6.2.2.12  Gamma correction
+   - 6.2.2.12  Gamma correction
 
      - Properties:
 
@@ -578,7 +578,7 @@ Table of contents
 
        Keyframe
 
-- 6.2.2.13 Max light correction
+   - 6.2.2.13 Max light correction
 
      - Properties:
 
