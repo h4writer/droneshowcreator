@@ -234,6 +234,24 @@ Table of contents
 
        Keyframes
 
+   - 6.2.1.4 Scale
+
+     - Properties
+
+       Start
+
+       Duration
+
+       Drones
+
+       Remove
+
+       Scale X Y Z
+
+       Scale point
+
+       Keyframes
+
 
 
 
