@@ -1099,7 +1099,7 @@ The double arrows to the right: If you click on this, the cursor needle will aut
 
   *This eye icon indicates that the action is visible and active on the timeline.*
 
-  6.5.2 Crossed out eye icon
+  6.5.3 Crossed out eye icon
 
   *This icon of an eye that is crossed out indicates that the action is not visible and is no longer active on the timeline.*
 
