@@ -398,6 +398,38 @@ Table of contents
 
        Keyframe
 
+   - 6.2.2.6 Strobe
+
+     - Properties:
+
+       Start
+
+       Duration
+
+       Drones
+
+       Remove
+
+       Blende mode
+
+       Opacity
+
+       Start color
+
+       Second color
+
+       Strobe duration
+
+       Visible drones
+
+       Easing
+       
+         linear
+
+         easing in
+
+       SKeyframes
+
 
 
 
