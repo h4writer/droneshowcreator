@@ -192,6 +192,8 @@ Table of contents
 
    - 6.2.1.1 Bezier
 
+     - Properties
+
 
 
 
