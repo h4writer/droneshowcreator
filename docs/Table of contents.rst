@@ -188,9 +188,9 @@ Table of contents
 
 6.2 Buttonpane
 
-   6.2.1 Movement
+  6.2.1 Movement
 
-   - 6.2.1.1 Bezier
+  - 6.2.1.1 Bezier
 
     - Properties
 
