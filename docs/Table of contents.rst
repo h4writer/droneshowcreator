@@ -170,9 +170,9 @@ Table of contents
 
    6.1.1 File
 
-   6.1.1.1 Save
+   - 6.1.1.1 Save
 
-   6.1.1.2 Close
+   - 6.1.1.2 Close
 
 
 
