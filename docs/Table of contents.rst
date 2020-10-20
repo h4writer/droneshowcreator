@@ -188,20 +188,20 @@ Table of contents
 
 6.2 Buttonpane
 
-6.2.1 Movement
+  6.2.1 Movement
 
-- 6.2.1.1 Bezier
-- Properties
+  - 6.2.1.1 Bezier
+    - Properties
 
-- Start
+    - Start
 
-- Duration
+    - Duration
 
-- Drones
+    - Drones
 
-- Remove
+    - Remove
 
-- Keyframe
+    - Keyframe
 
    - 6.2.1.2 Rotation
 
