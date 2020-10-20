@@ -290,6 +290,28 @@ Table of contents
 
        Keyframes
 
+   6.2.2 Lights
+
+   - 6.2.2.1 Colorize
+
+     - Properties:
+
+       Start
+
+       Duration
+
+       Drones
+
+       Remove
+
+       Blende mode
+
+       Opacity
+
+       Color
+
+       Keyframes
+
 
 
 
