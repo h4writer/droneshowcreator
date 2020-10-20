@@ -312,6 +312,74 @@ Table of contents
 
        Keyframes
 
+   - 6.2.2.2 Fade
+
+     - Properties:
+
+       Start
+
+       Duration
+
+       Drones
+
+       Remove
+
+       Blende mode
+
+       Opacity
+
+       Color
+
+       Keyframes
+
+   - 6.2.2.3 Gradiënt
+
+     - Properties:
+
+       Start
+
+       Duration
+
+       Drones
+
+       Remove
+
+       Blende mode
+
+       Opacity
+
+       Start color
+
+       Second color
+
+       Start position X Y Z
+
+       Stop position X Y Z
+
+       Keyframes
+
+   - 6.2.2.4 Fade-in
+
+     - Properties:
+
+       Start
+
+       Duration
+
+       Drones
+
+       Remove
+
+       Blende mode
+
+       Opacity
+
+       Easing
+
+         Linear
+
+         Ease in
+
 
 
 
