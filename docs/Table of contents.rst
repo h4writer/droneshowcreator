@@ -163,6 +163,17 @@ Table of contents
 
    - 5.2.2.3 Height
 
+6. Edit Actions
+---------------
+
+6.1 Menu bar
+
+   6.1.1 File
+
+   6.1.1.1 Save
+
+   6.1.1.2 Close
+
 
 
 
