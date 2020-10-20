@@ -426,7 +426,7 @@ Table of contents
 
        Keyframes
 
-- 6.2.2.7 Sparkle
+   - 6.2.2.7 Sparkle
 
      - Properties:
 
