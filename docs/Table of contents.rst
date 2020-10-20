@@ -598,6 +598,29 @@ Table of contents
 
        Keyframe 
 
+6.3 View port
+
+   6.3.1 Cube icons
+
+   6.3.2 Chrono time
+
+   6.3.3 Pay buttons
+
+   6.3.4 Outlinning icon
+
+   6.3.5 Visualisation in terms of percentage
+
+6.4 Properties
+
+6.5 Action list
+
+   6.5.1 Row 1, 2, 3
+
+   6.5.2 Eye icon
+
+   6.5.3 Crossed out eye icon
+
+
 
      
 
