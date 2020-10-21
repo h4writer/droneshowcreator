@@ -40,11 +40,11 @@ Let op bij het plaatsen van drones moet er ten alle tijden minimaal 3 meter ruim
 Cursor naald
 Zorg dat de blauwe cursornaald in de tijdbalk op de beginpositie staat (0sec.). De clips en scene's worden daar geplaatst waar de cursornaald zich bevind. Indien de naald tussen 2 clips staat en er is te weinig plaats om een nieuwe clip te plaatsen, zal je de cursor moeten verplaatsen naar een plaats waar meer plaats is.
 
-Wissen van drones
+3 Wissen van drones
 -----------------
 Een eerste mogelijkheid om te wissen is uw clip of scene selecteren en op de delete knop drukken. Je kan ook bij voorbeeld maar 1 drone uit een formatie wissen => selecteer de clip => rechter muisknop => edit figure => selecteer de drone of meerdere drones die je wilt wissen => klik op het erase icoontje om de selectie te wissen => sluit edit figure af om terug te keren naar de home-screen.
 
-3. Clips en scene's
+4. Clips en scene's
 -------------------
 De drones die je wilt plaatsen op de tijdlijn zullen altijd geplaatst worden in "clips". Een clip is dus een op zich staande verzameling die x aantal drones bevat. Op deze manier kan je verschillende clips naast elkaar op de tijdslijn plaatsen en dit opslaan als een scene. Een scene is dus een verzammeling van verschillende clips. Het is mogelijk om op een tijdlijn clips en scene's met elkaar te combineren en te verbinden met elkaar door beziers. Met deze werkwijze komt een drone lightshow tot stand.
 Elke clip of scene word gedefinieerd door een tijdsduur, deze word bij het aanmaken van een nieuwe clip automatische op 10 seconden geplaatst. Dit kan je aanpassen door de rand van de clip vast te nemen en verder of dichterbij te slepen. Je kan ook nummeriek de tijd aanpassen via het properties menu => duration. De eenheid staat in millisec => 10.000 s = 10 sec. Let op: Als je bij een clip van 10 seconden effecten geplaatst heb via het "edit action" en je gaat nadien de tijdsduur van uw clip verlengen, gaan de effecten op 10 seconden blijven staat en dus niet automatisch gaan mee verlengen, deze aanpassing dient steeds manueel te gebeuren.
@@ -53,4 +53,7 @@ Elke clip of scene word gedefinieerd door een tijdsduur, deze word bij het aanma
 ----------------
 De mogelijkheid om uw creatie vanuit verschillende standpunten te kunnen bekijken is crusiaal voor een ontwerpfase. Daarom zijn er verschillende mogelijkheden om uw ontwerp te bekijken. De drie icoontjes van cubussen met zwart vlakje geeft aan in welk perspectief je uw ontwerp kan plaatsen, vooraanzicht, zijaanzicht en bovenaazicht. Je kan ook een 3D perspectief simuleren door de richtingspijlen op uw klavier te gebruiken, hierdoor kan u uw ontwerp in alle richtingen laten ronddraaien. En om een realistisch beeld te krijgen van hoe u lightshow er uit zal zien kan je het volgende doen => Neem een foto van de skyline waar u uw lightshow zal gaan uitvoeren en plaats deze als achtergrond bij uw opmaak en laat deze afspelen, ideaal als presentatie voor uw klanten. Ga naar home-screen => view => file => settings => background image => none => selecteer uw foto => open => foto word op de achtergrond geplaatst. Ook de tijdlijn kan worden in en uitgezoomd om uw clips of scene blokjes te vergroten of te verkleinen. Ga met uw muis op de nummerieke tijdlijn staan en scrol met het muiswiel voor vergroting of verkleining.
 
+Effecten toevoegen
+-------------------
+Nadat u de drones in de juiste positie gebracht hebt is het tijd om uw
 
