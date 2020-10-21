@@ -19,36 +19,35 @@ In dit submenu vind je tools om de eerder geplaatste drones van het home-scherm 
 Edit actions.
 In dit submenu heb je de mogelijkheid om bewegingsfuncties en kleureffecten aan je ontwerp toe te voegen. Selecteer eerst op het home-scherm de clip die u wilt bewerken => rechtermuisknop => acties bewerken.
 
-2. Drones plaatsen
--------------------
+2. Drones plaatsen en verwijderen
+-----------------------------------
 
 Je hebt 3 mogelijkheden om drones te plaatsen in uw opmaak.
 
-A: Pengereedschap 
+A: Pen gereedschap 
 Voor het manueel plaatsen van één enkele drone. Dit kan handig zijn voor het manueel natekenen van bijvoorbeeld logo's.
 Ga naar de home-screen => klik op het pen icoontje => het submenu "edit figure" word automatisch geopend => ga naar viewport => selecteer het kleurvlakje om een kleur te kiezen => selecteer het "+" icoontje => klik in het zwarte vlak om 1 drone te plaatsen, klik nogmaals om een volgende te plaatsen, en zo voort. Sluit het submenu "edit figure" af om terug naar de home-screen te keren. Gebruik het properties menu van de home-screen om uw geplaatste drone te verfijnen qua positie in de 3D ruimte.
 
 B: Ster icoontje 
-Voor het plaatsen van meerdere drones. Bij het klikken op het ster icoontje zal er automatisch een grid van 5 op 5 drones geplaatst worden. Ga naar het properties menu van de home-screen om uw raster te verfijnen qua vormgeving en positie in de 3D ruimte. Je hebt keuze uit verschillende figuratie, grid, circle, rectangle, sphere, polygon, star. Dit kan handig zijn om van hier uit te vertrekken als basis voor uw ontwerp.
+Voor het plaatsen van meerdere drones. Klik op het ster icoontje en er zal automatisch een grid van 5 op 5 drones geplaatst worden in een clip op de tijdlijn. Ga naar het properties menu van de home-screen om uw raster te verfijnen qua vormgeving en positie in de 3D ruimte. Je hebt keuze uit verschillende figuratie, grid, circle, rectangle, sphere, polygon, star. Dit kan handig zijn om van hier uit te vertrekken als basis voor uw ontwerp. Eenmaal uw figuratie naar wens is selecteer je uw clip => rechter muisklik => convert into raw => rechter muisknop => nu heb je toegang tot de "edit figure" om indien u dat wenst, drones bij te plaatsen, te verwijderen of om van positie te veranderen.
 
-C. tekst
+C. Tekst
+Een derde mogelijkheid om drones te plaatsen is via het tekst icoontje, deze functie zal automatisch tekst gaan plaatsen in een hier voor voorzien raster. Je hebt 2 resoluties voor het vormen van letters. Een eerste formaat is 4 drones in de breedte, 5 drones in de hoogte. Een 2de formaat is vijf drones in de breedte op zeven drones in de hoogte. Klik op het tekst icoontje => er word automatisch een clip geplaatst op de tijdslijn => ga naar properties van de home-screen => Geef u tekst in naast het woord "text"
 
-D. afstand tussen drones
+D. Wissen van drones
+Een eerste mogelijkheid om te wissen is uw clip of scene selecteren en op de delete knop drukken. Je kan ook bij voorbeeld maar 1 drone uit een formatie wissen => selecteer de clip => rechter muisknop => edit figure => selecteer de drone of meerdere drones die je wilt wissen => klik op het erase icoontje om de selectie te wissen => sluit edit figure af om terug te keren naar de home-screen.
 
+E. Afstand tussen drones
+Let op bij het plaatsen van drones moet er ten alle tijden minimaal 3 meter ruimte zijn tussen elke drone. Als de de tussenliggende afstand verkleind naar minder dan drie meter komt de veiligheid in het gedrang. De show zal dan ook niet uitvoerbaar zijn. Om de tussenliggende afstand te controleren gebruik je de "drone closeness indicator". Home-screen => menubar => view => drone closeness indicator.
 
-
-
-
-kan je verschillende drones automatisch in formatie plaatsen, gaande van een grid tot een sterfiguur, cirkel, driehoek, vierkant enz...
-Ga naar de home-screen => klik op het ster icoontje
-
+F. Cursor naald
+Zorg dat de blauwe cursornaald in de tijdbalk op de beginpositie staat (0sec.). De clips en scene's worden daar geplaatst waar de cursornaald zich bevind. Indien de naald tussen 2 clips staat en er is te weinig plaats om een nieuwe clip te plaatsen, zal je de cursor moeten verplaatsen naar een plaats waar meer plaats is.
 
 3. Clips en scene's
 ---------------------
-De drones die je wilt plaatsen op de tijdlijn zullen altijd geplaatst worden in "clips". Een clip is dus een op zich staande verzameling die x aantal drones bevat. Op deze manier kan je verschillende clips naast elkaar op de tijdslijn plaatsen en dit opslaan als een scene. Een scene is dus een verzammeling van verschillende clips. Het is mogelijk om op een tijdlijn clips en scene's met elkaar te combineren en te verbinden met elkaar. Met deze werkwijze komt een drone lightshow tot stand.
+De drones die je wilt plaatsen op de tijdlijn zullen altijd geplaatst worden in "clips". Een clip is dus een op zich staande verzameling die x aantal drones bevat. Op deze manier kan je verschillende clips naast elkaar op de tijdslijn plaatsen en dit opslaan als een scene. Een scene is dus een verzammeling van verschillende clips. Het is mogelijk om op een tijdlijn clips en scene's met elkaar te combineren en te verbinden met elkaar door beziers. Met deze werkwijze komt een drone lightshow tot stand.
+Elke clip of scene word gedefinieerd door een tijdsduur, deze word bij het aanmaken van een nieuwe clip automatische op 10 seconden geplaatst, dit kan je aanpassen door de rand van de clip vast te nemen en verder of dichter te slepen of je kan ook nummeriek de tijd aanpassen via het properties menu => duration. De eenheid staat in millisec => 10.000 s = 10 sec.
 
-Werkwijze:
-
-Zorg dat de blauwe cursornaald in de tijdbalk op de beginpositie staat (0sec.). De clips en scene's worden daar geplaatst waar de cursornaald zich bevind. Indien de naald tussen 2 clips staat en er is te weinig plaats om een nieuwe clip te plaatsen, zal je de cursor moeten verplaatsen naar een plaats waar meer plaats is.
-
-
+4. View options.
+----------------
+De mogelijkheid om uw creatie vanuit verschillende standpunten te kunnen bekijken is crusiaal voor een ontwerpfase. Daarom zijn er verschillende mogelijkheden om uw ontwerp te bekijken in. De drie icoontjes van cubussen met zwart vlakje geeft aan in welk perspectief je uw ontwerp kan plaatsen, vooraanzicht, zijaanzicht en bovenaazicht. Je kan ook een 3D perspectief simuleren door de richtingspijlen op uw klavier te gebruiken, hierdoor kan u uw ontwerp in alle richtingen laten ronddraaien. En om een realistisch beeld te krijgen van hoe u lightshow er uit zal zien kan je het volgende doen => Neem een foto van de skyline waar u uw lightshow zal gaan uitvoeren en plaats deze als achtergrond bij uw opmaak en laat deze af spelen, ideaal als presentatie voor uw klanten. Ga naar home-screen => view => file => settings => background image => none => selecteer uw foto => open => foto word op de achtergrond geplaatst.
