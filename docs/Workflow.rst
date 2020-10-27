@@ -65,3 +65,13 @@ Manueel => plaats eerst een movement of lights effect => er verschijnd een blokj
 
 Automatisch plaatsen van keyframes => Deze funtie is enkel mogelijk bij rotatie, scale en yaw. bij deze 3 movements vind je naast het + icoontje, het icoontje terug voor keyframes. Als je hier op klikt word er automatisch een balk geplaatst op de tijdslijn die automatisch een begin en eindpunt plaatst op de clip. De start en eind keyframe worden aan het begin en einde van de clip geplaatst. Door de punten te selecteren kan je deze naar wens verplaatsen.
 
+Tweens
+------
+Een drone show is pas geslaagd als uw figuratie zich dynamisch gaat gaan bewegen en niet statisch ter plaatse blijft hangen. Om een figuur te laten bewegen in de ruimte kan je onderandere gebruik gaan maken van tweens. Dit is een verbindingslijn tussen 2 clips of scene's. Een begin en eindpunt die verbonden word door een lijn. Het is ook mogelijk om een clip te verbinden met meerdere clips die zich op verschillende sequenceses bevinden. Om een tween te verwijderen, selecteer je het beginpunt van de tween => properties => tween => delete. 
+
+Importeren vanuit de bibiotheek
+-------------------------------
+Een drone show bestaat meestal uit verschillende losse onderdelen (=scenes) die op hun beurt bij elkaar gebracht worden tot een geheel.
+Werkwijze: plaats verschillende clips op de tijdlijn en bewaar deze als scene A, plaats verschillende clips op de tijdlijn en bewaar deze als scene B, plaats verschillende clips op de tijdlijn en bewaar deze als scene C => Maak een nieuw document (= opmaak) aan en inporteer via het book icoontje de drie scenes op uw tijdslijn, dit is uw definitieve opmaak.
+
+
