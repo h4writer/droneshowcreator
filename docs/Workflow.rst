@@ -55,5 +55,11 @@ De mogelijkheid om uw creatie vanuit verschillende standpunten te kunnen bekijke
 
 Effecten toevoegen
 -------------------
-Nadat u de drones in de juiste positie gebracht hebt is het tijd om effecten toe te voegen. Het programma heeft twee soorten effecten aan, een eerste groep zijn de bewegingseffecten, dit zijn allerhande bewegingen die je kan laten uitvoeren op uw formatie. En dan heb je ook nog de lichteffecten die vooral voor kleur en overgang zorgen. Plaats op de home-pagina in de sequence lijn een drone formatie via de pen, ster of tekst gereedschap => rechter muisknop => convert into raw => clip word omgezet in raw => rechter muisknop => edit actions => movements => bezier => "+" teken => er verschijnd op de tijdlijn een clip => ga naar properties voor meer detailering.
+Nadat u de drones in de juiste positie gebracht hebt is het tijd om effecten toe te voegen. Het programma bied twee soorten effecten aan, een eerste groep zijn de bewegingseffecten, dit zijn allerhande bewegingen die je kan laten uitvoeren op uw formatie. En dan heb je ook nog de lichteffecten die vooral voor kleur en overgang zorgen. Plaats op de home-pagina in de sequence lijn een drone formatie via de pen, ster of tekst gereedschap => rechter muisknop => convert into raw => clip word omgezet in raw => rechter muisknop => edit actions => movements => bezier => "+" teken => er verschijnd op de tijdlijn een clip => ga naar properties voor meer detailering.
+
+Keyframes
+---------
+Met keyframes kan je een beweging of effect toevoegen aan je formatie. Dit werkt met een begin en eindpunt dat je op uw clip plaatst. Het effect zal dan uitgevoerd worden tussen deze 2 punten. Er zijn 2 manieren om keyframes te plaatsen.
+
+Manueel => plaats eerst het movement of lights effect op de tijdslijn => er verschijnd een blokje => ga met de cursor op de plaats staan waar je de start keyframe wilt plaatsen => ga naar properties => klik op het uurwerk icoontje => er verschijnt een wit bolletje met twee driehoekjes links en rechts => Als je op het bolletje klikt word er een keyframe geplaatst => het bolletje word zwart => je kan onbeperkt keyframes plaatsen. Als je een keyframe plaatst en je verzet de cursor niet en je klikt een 2de keer op het bolletje zal de keyframe verwijderd worden.
 
