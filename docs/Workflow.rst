@@ -55,5 +55,5 @@ De mogelijkheid om uw creatie vanuit verschillende standpunten te kunnen bekijke
 
 Effecten toevoegen
 -------------------
-Nadat u de drones in de juiste positie gebracht hebt is het tijd om uw
+Nadat u de drones in de juiste positie gebracht hebt is het tijd om effecten toe te voegen. Het programma heeft twee soorten effecten aan, een eerste groep zijn de bewegingseffecten, dit zijn allerhande bewegingen die je kan laten uitvoeren op uw formatie. En dan heb je ook nog de lichteffecten die vooral voor kleur en overgang zorgen. Plaats op de home-pagina in de sequence lijn een drone formatie via de pen, ster of tekst gereedschap => rechter muisknop => convert into raw => clip word omgezet in raw => rechter muisknop => edit actions => movements => bezier => "+" teken => er verschijnd op de tijdlijn een clip => ga naar properties voor meer detailering.
 
