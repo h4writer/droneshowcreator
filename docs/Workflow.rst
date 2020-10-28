@@ -73,4 +73,7 @@ Importeren vanuit de bibiotheek
 Een drone show bestaat meestal uit verschillende losse onderdelen (=scenes) die op hun beurt bij elkaar gebracht worden tot een geheel.
 Werkwijze: plaats verschillende clips op de tijdlijn en bewaar deze als scene A, plaats verschillende clips op de tijdlijn en bewaar deze als scene B, plaats verschillende clips op de tijdlijn en bewaar deze als scene C => Maak een nieuw document (= opmaak) aan en inporteer via het book icoontje de drie scenes op uw tijdslijn, dit is uw definitieve opmaak.
 
+Manier van werken
+-----------------
+
 
