@@ -620,8 +620,29 @@ Table of contents
 
    6.5.3 Crossed out eye icon
 
-7. Workflow
------------
+7.Workflow
+---------------
+
+7.1 Certification
+
+7.2 Placing drones
+
+7.3 Erasing drones
+
+7.4 Clips en scene's
+
+7.5 View options
+
+7.6 Add effects
+
+7.7 Keyframes
+
+7.8 Tweens
+
+7.9 Import from the library
+
+7.10 Way of working, an example
+
 
 
 
