@@ -46,15 +46,7 @@ The number of drones that you can use and are supported by the program is unlimi
 
   .. image:: images/105.jpg
 
-  .. image:: images/106.jpg
-  
-  .. image:: images/107.jpg 
-  
-  .. image:: images/108.jpg 
-  
-  .. image:: images/109.jpg 
-  
-  .. image:: images/110.jpg
+  .. image:: images/111.jpg
 
 *Text*
   *A third option to place drones is via the text icon, this function will automatically place text in a grid provided for this. You have 2 resolutions for letter formation. A first format is 4 drones in width, 5 drones in height. A second format is five drones in width by seven drones in height. Click on the text icon => a clip will automatically be placed on the timeline => go to properties of the home screen => Enter your text next to the word "text"*
