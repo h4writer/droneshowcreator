@@ -70,10 +70,14 @@ Een drone show is pas geslaagd als uw figuratie zich dynamisch gaat gaan bewegen
 
 Importeren vanuit de bibiotheek
 -------------------------------
-Een drone show bestaat meestal uit verschillende losse onderdelen (=scenes) die op hun beurt bij elkaar gebracht worden tot een geheel.
-Werkwijze: plaats verschillende clips op de tijdlijn en bewaar deze als scene A, plaats verschillende clips op de tijdlijn en bewaar deze als scene B, plaats verschillende clips op de tijdlijn en bewaar deze als scene C => Maak een nieuw document (= opmaak) aan en inporteer via het book icoontje de drie scenes op uw tijdslijn, dit is uw definitieve opmaak.
+Een drone show bestaat meestal uit verschillende losse onderdelen (=clips) die op hun beurt bij elkaar gebracht worden en bewaard worden als een scene. Een scene kan je dan opnieuw inporteren in een nieuwe tijdlijn. Om een scene te inporteren ga je als volgt te werk. Plaats verschillende clips op de tijdlijn en bewaar deze als een scene. Het opgeslagen bestand is een .sky4 => kopieer het .sky4 bestand => ga naar de software map van de lightshowcreator => ga naar de map "library" => plak het .sky4 bestand in deze map => Ga terug naar het programma => klik op het book icoontje => kies het gewenste bestand uit de lijst => add => de opmaak word geplaatst op de tijdslijn.
 
-Manier van werken
------------------
+Manier van werken, een voorbeeld
+----------------------------------
+Als voorbeeld gaan we de werkflow volgen van een opmaak waarin we vertrekken vanuit twee cirkels die overgaan naar twee roterende vierkanten.
+Een basis workflow vertrekt altijd eerst vanuit het plaatsen van drones, gevolgd door het vormgeven en doen bewegen van de geplaatste drones.
+Als laatste stap belichten we de presentatie van de gemaakte lightshow naar klanten toe.
+
+
 
 
