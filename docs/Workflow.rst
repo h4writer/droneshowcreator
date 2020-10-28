@@ -18,12 +18,12 @@ Het aantal drones die je kan gebruiken en ondersteund word door het programma is
 *Edit figure*
   In dit submenu vind je tools om de eerder geplaatste drones van het home-scherm te bewerken, te wijzigen of te verwijderen. Selecteer eerst op het home-scherm de clip die u wilt bewerken => rechtermuisknop => omzetten in raw => rechtermuisknop => figuur bewerken.
 
-  .. image:: images/edit_figure.jpg
+  .. image:: images/edit_figure_page.jpg
 
 *Edit actions.*
   *In dit submenu heb je de mogelijkheid om bewegingsfuncties en kleureffecten aan je ontwerp toe te voegen. Selecteer eerst op het home-scherm de clip die u wilt bewerken => rechtermuisknop => acties bewerken.*
 
-  .. image:: images/edit_actions.jpg
+  .. image:: images/edit_actions_page.jpg
 
 7.2 Drones plaatsen
 ------------------
