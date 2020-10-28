@@ -25,20 +25,20 @@ Edit actions.
 Je hebt 3 mogelijkheden om drones te plaatsen in uw opmaak.
 
 Pen gereedschap 
-Voor het manueel plaatsen van één enkele drone. Dit kan handig zijn voor het manueel natekenen van bijvoorbeeld logo's.
+  Voor het manueel plaatsen van één enkele drone. Dit kan handig zijn voor het manueel natekenen van bijvoorbeeld logo's.
 Ga naar de home-screen => klik op het pen icoontje => het submenu "edit figure" word automatisch geopend => ga naar viewport => selecteer het kleurvlakje om een kleur te kiezen => selecteer het "+" icoontje => klik in het zwarte vlak om 1 drone te plaatsen, klik nogmaals om een volgende te plaatsen, en zo voort. Sluit het submenu "edit figure" af om terug naar de home-screen te keren. U ziet nu een clip verschijnen op sequence 1 van de tijdlijn. Gebruik het properties menu van de home-screen om uw geplaatste drone te verfijnen qua positie in de 3D ruimte.
 
 Ster icoontje 
-Voor het plaatsen van meerdere drones. Klik op het ster icoontje en er zal automatisch een grid van 5 op 5 drones geplaatst worden in een clip op de tijdlijn bij sequence 1. Ga naar het properties menu van de home-screen om uw raster te verfijnen qua vormgeving en positie in de 3D ruimte. Je hebt keuze uit verschillende figuratie, grid, circle, rectangle, sphere, polygon, star. Dit kan handig zijn om van hier uit te vertrekken als basis voor uw ontwerp. Eenmaal uw figuratie naar wens is selecteer je uw clip => rechter muisklik => convert into raw => rechter muisknop => nu heb je toegang tot de "edit figure" om indien u dat wenst, drones bij te plaatsen, te verwijderen of om van positie te veranderen.
+  Voor het plaatsen van meerdere drones. Klik op het ster icoontje en er zal automatisch een grid van 5 op 5 drones geplaatst worden in een clip op de tijdlijn bij sequence 1. Ga naar het properties menu van de home-screen om uw raster te verfijnen qua vormgeving en positie in de 3D ruimte. Je hebt keuze uit verschillende figuratie, grid, circle, rectangle, sphere, polygon, star. Dit kan handig zijn om van hier uit te vertrekken als basis voor uw ontwerp. Eenmaal uw figuratie naar wens is selecteer je uw clip => rechter muisklik => convert into raw => rechter muisknop => nu heb je toegang tot de "edit figure" om indien u dat wenst, drones bij te plaatsen, te verwijderen of om van positie te veranderen.
 
 Tekst
-Een derde mogelijkheid om drones te plaatsen is via het tekst icoontje, deze functie zal automatisch tekst gaan plaatsen in een hier voor voorzien raster. Je hebt 2 resoluties voor het vormen van letters. Een eerste formaat is 4 drones in de breedte, 5 drones in de hoogte. Een 2de formaat is vijf drones in de breedte op zeven drones in de hoogte. Klik op het tekst icoontje => er word automatisch een clip geplaatst op de tijdslijn => ga naar properties van de home-screen => Geef u tekst in naast het woord "text"
+  Een derde mogelijkheid om drones te plaatsen is via het tekst icoontje, deze functie zal automatisch tekst gaan plaatsen in een hier voor voorzien raster. Je hebt 2 resoluties voor het vormen van letters. Een eerste formaat is 4 drones in de breedte, 5 drones in de hoogte. Een 2de formaat is vijf drones in de breedte op zeven drones in de hoogte. Klik op het tekst icoontje => er word automatisch een clip geplaatst op de tijdslijn => ga naar properties van de home-screen => Geef u tekst in naast het woord "text"
 
 Afstand tussen drones
-Let op bij het plaatsen van drones moet er ten alle tijden minimaal 3 meter ruimte zijn tussen elke drone. Als de de tussenliggende afstand verkleind naar minder dan drie meter komt de veiligheid in het gedrang. De show zal dan ook niet uitvoerbaar zijn. Om de tussenliggende afstand te controleren gebruik je de "drone closeness indicator". Home-screen => menubar => view => drone closeness indicator.
+  Let op bij het plaatsen van drones moet er ten alle tijden minimaal 3 meter ruimte zijn tussen elke drone. Als de de tussenliggende afstand verkleind naar minder dan drie meter komt de veiligheid in het gedrang. De show zal dan ook niet uitvoerbaar zijn. Om de tussenliggende afstand te controleren gebruik je de "drone closeness indicator". Home-screen => menubar => view => drone closeness indicator.
 
 Cursor naald
-Zorg dat de blauwe cursornaald in de tijdbalk op de beginpositie staat (0sec.). De clips en scene's worden daar geplaatst waar de cursornaald zich bevind. Indien de naald tussen 2 clips staat en er is te weinig plaats om een nieuwe clip te plaatsen, zal je de cursor moeten verplaatsen naar een plaats waar meer plaats is.
+  Zorg dat de blauwe cursornaald in de tijdbalk op de beginpositie staat (0sec.). De clips en scene's worden daar geplaatst waar de cursornaald zich bevind. Indien de naald tussen 2 clips staat en er is te weinig plaats om een nieuwe clip te plaatsen, zal je de cursor moeten verplaatsen naar een plaats waar meer plaats is.
 
 3 Wissen van drones
 -----------------
