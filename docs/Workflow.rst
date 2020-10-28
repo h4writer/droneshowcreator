@@ -25,12 +25,12 @@ The number of drones that you can use and are supported by the program is unlimi
 
   .. image:: images/edit_action_page.jpg
 
-7.2 Drones plaatsen
-------------------
+7.2 Placing drones
+-------------------
 
 *You have 3 options to place drones in your layout.*
 
-*Pen tool * 
+*Pen tool* 
   *For manually placing a single drone. This can be useful for manually drawing logos, for example. Go to the home screen => click on the pen icon => the submenu "edit figure" will open automatically => go to viewport => select the color square to choose a color => select the "+" icon => click in the black area to place 1 drone, click again to place another, and so on. Close the submenu "edit figure" to return to the home screen. You will now see a clip appear on sequence 1 of the timeline. Use the properties menu of the home screen to refine your placed drone in terms of position in 3D space.*
 
   .. image:: images/101.jpg
