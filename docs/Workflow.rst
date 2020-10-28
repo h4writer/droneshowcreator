@@ -11,7 +11,7 @@ The number of drones that you can use and are supported by the program is unlimi
 *The program consists of 3 different pillars:*
 
 *Home screen*
-  *When opening the program you will automatically be taken to the home screen. This is the most important part of the program where you first have to place the drones and then take care of the further design via the submenus "edit figure" and "edit actions"..*
+  *When opening the program you will automatically be taken to the home screen. This is the most important part of the program where you first have to place the drones and then take care of the further design via the submenus "edit figure" and "edit actions".*
 
   .. image:: images/home-page.jpg
 
@@ -42,10 +42,10 @@ The number of drones that you can use and are supported by the program is unlimi
   .. image:: images/104.jpg
 
 *Star icon* 
-  *For placing multiple drones. Click on the star icon and a grid of 5 by 5 drones will automatically be placed in a clip on the timeline at sequence 1. Go to the properties menu of the home screen to refine your grid in terms of design and position in the 3D. space. You can choose from different figuration, grid, circle, rectangle, sphere, polygon, star. This can be useful to start from here as the basis for your design. Once your figuration is the way you want, select your clip => right mouse click => convert into raw => right mouse button => now you have access to the "edit figure" to add or remove drones if you wish. change position. *
+  *For placing multiple drones. Click on the star icon and a grid of 5 by 5 drones will automatically be placed in a clip on the timeline at sequence 1. Go to the properties menu of the home screen to refine your grid in terms of design and position in the 3D. space. You can choose from different figuration, grid, circle, rectangle, sphere, polygon, star. This can be useful to start from here as the basis for your design. Once your figuration is the way you want, select your clip => right mouse click => convert into raw => right mouse button => now you have access to the "edit figure" to add or remove drones if you wish. change position.*
 
 *Text*
-  *A third option to place drones is via the text icon, this function will automatically place text in a grid provided for this. You have 2 resolutions for letter formation. A first format is 4 drones in width, 5 drones in height. A second format is five drones in width by seven drones in height. Click on the text icon => a clip will automatically be placed on the timeline => go to properties of the home screen => Enter your text next to the word "text"
+  *A third option to place drones is via the text icon, this function will automatically place text in a grid provided for this. You have 2 resolutions for letter formation. A first format is 4 drones in width, 5 drones in height. A second format is five drones in width by seven drones in height. Click on the text icon => a clip will automatically be placed on the timeline => go to properties of the home screen => Enter your text next to the word "text"*
 
 *Distance between drones*
   *Please note when placing drones, there must be at least 3 meters of space between each drone at all times. If the intermediate distance is reduced to less than three meters, safety is compromised. The show will therefore not be feasible. To check the intermediate distance, use the "drone closeness indicator". Home-screen => menubar => view => drone closeness indicator.*
@@ -61,7 +61,7 @@ The number of drones that you can use and are supported by the program is unlimi
 7.4 Clips and scenes 
 ---------------------
 
-*The drones you place on the timeline will always be placed in a "clip". A clip is therefore a stand-alone collection that contains x number of drones and is visualized by a bar on the timeline. This way you can place different clips next to each other on the timeline and save it as a scene. A scene is therefore a collection of different clips. All scenes that are created and used can be found at "Scene list" at the top right corner of the home page interface. It is possible to combine clips and scenes on a timeline and connect them with each other by tweens. A drone light show is created with this method. Each clip or scene is defined by a time duration, which is automatically placed at 10 seconds when creating a new clip. You can adjust this by grabbing the edge of the clip and dragging it further or closer. You can also adjust the time numerically via the properties menu => duration. The unit is in milliseconds => 10,000 s = 10 sec. Note: If you have added effects to a clip of 10 seconds via the "edit action" and you are going to extend the duration of your clip afterwards, the effects will remain at 10 seconds and therefore do not automatically extend, this adjustment should always done manually. *
+*The drones you place on the timeline will always be placed in a "clip". A clip is therefore a stand-alone collection that contains x number of drones and is visualized by a bar on the timeline. This way you can place different clips next to each other on the timeline and save it as a scene. A scene is therefore a collection of different clips. All scenes that are created and used can be found at "Scene list" at the top right corner of the home page interface. It is possible to combine clips and scenes on a timeline and connect them with each other by tweens. A drone light show is created with this method. Each clip or scene is defined by a time duration, which is automatically placed at 10 seconds when creating a new clip. You can adjust this by grabbing the edge of the clip and dragging it further or closer. You can also adjust the time numerically via the properties menu => duration. The unit is in milliseconds => 10,000 s = 10 sec. Note: If you have added effects to a clip of 10 seconds via the "edit action" and you are going to extend the duration of your clip afterwards, the effects will remain at 10 seconds and therefore do not automatically extend, this adjustment should always done manually.*
 
 7.5 View options.
 ----------------
