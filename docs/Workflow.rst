@@ -53,6 +53,8 @@ The number of drones that you can use and are supported by the program is unlimi
 *Text*
   *A third option to place drones is via the text icon, this function will automatically place text in a grid provided for this. You have 2 resolutions for letter formation. A first format is 4 drones in width, 5 drones in height. A second format is five drones in width by seven drones in height. Click on the text icon => a clip will automatically be placed on the timeline => go to properties of the home screen => Enter your text next to the word "text"*
 
+  .. image:: images/113.jpg
+
 *Distance between drones*
   *Please note when placing drones, there must be at least 3 meters of space between each drone at all times. If the intermediate distance is reduced to less than three meters, safety is compromised. The show will therefore not be feasible. To check the intermediate distance, use the "drone closeness indicator". Home-screen => menubar => view => drone closeness indicator.*
 
