@@ -23,7 +23,7 @@ Het aantal drones die je kan gebruiken en ondersteund word door het programma is
 *Edit actions.*
   *In dit submenu heb je de mogelijkheid om bewegingsfuncties en kleureffecten aan je ontwerp toe te voegen. Selecteer eerst op het home-scherm de clip die u wilt bewerken => rechtermuisknop => acties bewerken.*
 
-  .. image:: images/edit_actions_page.jpg
+  .. image:: images/edit_action_page.jpg
 
 7.2 Drones plaatsen
 ------------------
