@@ -15,7 +15,11 @@ The number of drones that you can use and are supported by the program is unlimi
 
   .. image:: images/home-page.jpg
 
+      
+
   .. image:: images/115.jpg
+
+    
 
   .. image:: images/116.jpg
 
