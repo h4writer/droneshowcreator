@@ -13,15 +13,15 @@ The number of drones that you can use and are supported by the program is unlimi
 *Home screen*
   *When opening the program you will automatically be taken to the home screen. This is the most important part of the program where you first have to place the drones and then take care of the further design via the submenus "edit figure" and "edit actions".*
 
-  .. image:: images/home-page.jpg
+ .. image:: images/home-page.jpg
 
 *Convert the clip into a RAW clip => select the clip => right mouse button => convert into raw.*
 
-  .. image:: images/115.jpg
+ .. image:: images/115.jpg
   
 *After converting it into a RAW clip you make a choice between edit figure or action.*
 
-  .. image:: images/116.jpg
+ .. image:: images/116.jpg
 
 *Edit figure*
   *In this submenu you will find tools to edit, change or delete the previously placed drones from the home screen. First on the home screen select the clip you want to edit => right mouse button => convert to raw => right mouse button => edit figure.*
