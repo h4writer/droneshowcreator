@@ -15,11 +15,11 @@ The number of drones that you can use and are supported by the program is unlimi
 
   .. image:: images/home-page.jpg
 
-.
+*Convert the clip into a RAW clip => select the clip => right mouse button => convert into raw.*
 
   .. image:: images/115.jpg
-
-.
+  
+*After converting it into a RAW clip you make a choice between edit figure or action.*
 
   .. image:: images/116.jpg
 
