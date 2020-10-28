@@ -34,7 +34,7 @@ Tekst
   Een derde mogelijkheid om drones te plaatsen is via het tekst icoontje, deze functie zal automatisch tekst gaan plaatsen in een hier voor voorzien raster. Je hebt 2 resoluties voor het vormen van letters. Een eerste formaat is 4 drones in de breedte, 5 drones in de hoogte. Een 2de formaat is vijf drones in de breedte op zeven drones in de hoogte. Klik op het tekst icoontje => er word automatisch een clip geplaatst op de tijdslijn => ga naar properties van de home-screen => Geef u tekst in naast het woord "text"
 
 Afstand tussen drones
-  Let op bij het plaatsen van drones moet er ten alle tijden minimaal 3 meter ruimte zijn tussen elke drone. Als de de tussenliggende afstand verkleind naar minder dan drie meter komt de veiligheid in het gedrang. De show zal dan ook niet uitvoerbaar zijn. Om de tussenliggende afstand te controleren gebruik je de "drone closeness indicator". Home-screen => menubar => view => drone closeness indicator.
+  Let op bij het plaatsen van drones moet er ten alle tijden minimaal 3 meter ruimte zijn tussen elke drone. Als de tussenliggende afstand verkleind naar minder dan drie meter komt de veiligheid in het gedrang. De show zal dan ook niet uitvoerbaar zijn. Om de tussenliggende afstand te controleren gebruik je de "drone closeness indicator". Home-screen => menubar => view => drone closeness indicator.
 
 Cursor naald
   Zorg dat de blauwe cursornaald in de tijdbalk op de beginpositie staat (0sec.). De clips en scene's worden daar geplaatst waar de cursornaald zich bevind. Indien de naald tussen 2 clips staat en er is te weinig plaats om een nieuwe clip te plaatsen, zal je de cursor moeten verplaatsen naar een plaats waar meer plaats is.
