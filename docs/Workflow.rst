@@ -40,7 +40,7 @@ Cursor naald
   Zorg dat de blauwe cursornaald in de tijdbalk op de beginpositie staat (0sec.). De clips en scene's worden daar geplaatst waar de cursornaald zich bevind. Indien de naald tussen 2 clips staat en er is te weinig plaats om een nieuwe clip te plaatsen, zal je de cursor moeten verplaatsen naar een plaats waar meer plaats is.
 
 3 Wissen van drones
------------------
+--------------------
 Een eerste mogelijkheid om te wissen is uw clip of scene selecteren en op de delete knop drukken. Je kan ook bij voorbeeld maar 1 drone uit een formatie wissen => selecteer de clip => rechter muisknop => edit figure => selecteer de drone of meerdere drones die je wilt wissen => klik op het erase icoontje om de selectie te wissen => sluit edit figure af om terug te keren naar de home-screen.
 
 4. Clips en scene's
