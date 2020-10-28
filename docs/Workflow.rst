@@ -13,6 +13,8 @@ The number of drones that you can use and are supported by the program is unlimi
 *Home screen*
   *When opening the program you will automatically be taken to the home screen. This is the most important part of the program where you first have to place the drones and then take care of the further design via the submenus "edit figure" and "edit actions".*
 
+  .. image:: images/home-page.jpg
+
   .. image:: images/115.jpg
 
   .. image:: images/116.jpg
