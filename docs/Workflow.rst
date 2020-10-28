@@ -16,7 +16,7 @@ The number of drones that you can use and are supported by the program is unlimi
   .. image:: images/home-page.jpg
 
 *Edit figure*
-  *In this submenu you will find tools to edit, change or delete the previously placed drones from the home screen. First on the home screen select the clip you want to edit => right mouse button => convert to raw => right mouse button => edit picture.
+  *In this submenu you will find tools to edit, change or delete the previously placed drones from the home screen. First on the home screen select the clip you want to edit => right mouse button => convert to raw => right mouse button => edit picture.*
 
   .. image:: images/edit_figure_page.jpg
 
