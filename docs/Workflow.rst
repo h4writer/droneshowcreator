@@ -11,13 +11,13 @@ Het aantal drones die je kan gebruiken en ondersteund word door het programma is
 Het programma bestaat uit 3 verschillende pijlers:
 
 Home screen
-Bij het openen van het programma wordt u automatisch naar het home-scherm geleid. Dit is het belangrijkste deel van het programma waar u in eerste instantie de drones moet plaatsen om daarna via de submenu's "edit figure" en "edit actions" de verdere vormgeving te gaan verzorgen.
+  Bij het openen van het programma wordt u automatisch naar het home-scherm geleid. Dit is het belangrijkste deel van het programma waar u in eerste instantie de drones moet plaatsen om daarna via de submenu's "edit figure" en "edit actions" de verdere vormgeving te gaan verzorgen.
 
 Edit figure
-In dit submenu vind je tools om de eerder geplaatste drones van het home-scherm te bewerken, te wijzigen of te verwijderen. Selecteer eerst op het home-scherm de clip die u wilt bewerken => rechtermuisknop => omzetten in raw => rechtermuisknop => figuur bewerken.
+  In dit submenu vind je tools om de eerder geplaatste drones van het home-scherm te bewerken, te wijzigen of te verwijderen. Selecteer eerst op het home-scherm de clip die u wilt bewerken => rechtermuisknop => omzetten in raw => rechtermuisknop => figuur bewerken.
 
 Edit actions.
-In dit submenu heb je de mogelijkheid om bewegingsfuncties en kleureffecten aan je ontwerp toe te voegen. Selecteer eerst op het home-scherm de clip die u wilt bewerken => rechtermuisknop => acties bewerken.
+  In dit submenu heb je de mogelijkheid om bewegingsfuncties en kleureffecten aan je ontwerp toe te voegen. Selecteer eerst op het home-scherm de clip die u wilt bewerken => rechtermuisknop => acties bewerken.
 
 2. Drones plaatsen
 ------------------
