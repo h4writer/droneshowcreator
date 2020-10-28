@@ -55,6 +55,8 @@ The number of drones that you can use and are supported by the program is unlimi
 
   .. image:: images/113.jpg
 
+  .. image:: images/114.jpg
+
 *Distance between drones*
   *Please note when placing drones, there must be at least 3 meters of space between each drone at all times. If the intermediate distance is reduced to less than three meters, safety is compromised. The show will therefore not be feasible. To check the intermediate distance, use the "drone closeness indicator". Home-screen => menubar => view => drone closeness indicator.*
 
