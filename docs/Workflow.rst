@@ -8,7 +8,7 @@ The number of drones that you can use and are supported by the program is unlimi
 7.1 Certification
 -----------------
 
-*The program consists of 3 different pillars:*
+*The program consists 3 different pillars:*
 
 *Home screen*
   *When opening the program you will automatically be taken to the home screen. This is the most important part of the program where you first have to place the drones and then take care of the further design via the submenus "edit figure" and "edit actions".*
