@@ -1,12 +1,12 @@
----------
+-----------
 7 Workflow
----------
+-----------
 
 *Before you start designing a drone light show, it is recommended that you think carefully about the possibilities and what you want to achieve, put your ideas on paper and make a first design sketch. It is important to know all the functions the program offers in order to achieve the maximum effect.
 The number of drones that you can use and are supported by the program is unlimited.*
 
-7.1 Indeling
--------------
+7.1 Certification
+-----------------
 
 *The program consists of 3 different pillars:*
 
