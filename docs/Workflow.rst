@@ -141,13 +141,15 @@ The number of drones that you can use and are supported by the program is unlimi
 7.6 View options.
 ----------------
 
-*When creating complex figures, it is very important that you have a good awareness of 3D space. That is why the program offers various possibilities to view, approach and present your work. Three different perspectives are possible: front view, side view and top view. You can also use the directional arrows on your keyboard to freely rotate the perspective.*
+*When creating complex figures, it is very important that you have a good awareness of 3D space. That is why the program offers various possibilities to view, approach and present your work. Three different perspectives are possible: front view, side view and top view.*
 
   .. image:: images/139.jpg
 
   .. image:: images/140.jpg
 
   .. image:: images/141.jpg
+
+ *You can also use the directional arrows on your keyboard to freely rotate the perspective.*
 
   .. image:: images/142.jpg
 
