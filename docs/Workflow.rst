@@ -160,12 +160,35 @@ The number of drones that you can use and are supported by the program is unlimi
 
   .. image:: images/142.jpg
 
-7.8 Add effects
+7.8 Tweens
+----------
+
+*Een drone show is pas geslaagd als uw figuraties zich dynamisch gaan bewegen en niet statisch ter plaatse blijft hangen. Om een figuur te laten bewegen in de ruimte kan je onderandere gebruik maken van tweens. Een tween verbind het eindpunt van clip/scene A met het beginpunt van een clip/scene B door middel van een verbindingslijn. Het doel hiervan is om een figuur van positie A naar positie B te laten bewegen of figuren van vorm te laten overgaan, bijvoorbeeld een overgang van een vierkant naar een cirkel. U kan ook de beide functies combineren door een figuur van vorm te laten veranderen terwijl die zich van positie verplaatst.* 
+
+  .. image:: images/xxx.jpg
+
+  .. image:: images/xxx.jpg
+
+  .. image:: images/xxx.jpg
+
+*Om een tween te plaatsen ga je met uw muispijl op het bolletje staan dat je terug vind op het eind van elke clip => de muispijl veranderd in een kruisje => klik en met muisknop ingedrukt sleep je de verbindingslijn naar het begin van de clip die je wilt verbinden => laat muisknop los.* 
+
+  .. image:: images/xxx.jpg
+
+*Het is ook mogelijk om een clip te verbinden met meerdere clips die zich op verschillende sequenceses onder elkaar bevinden.* 
+
+  .. image:: images/xxx.jpg
+
+*Om een tween te verwijderen, selecteer je het beginpunt van de tween => properties => tween => delete.* 
+
+  .. image:: images/xxx.jpg
+
+7.9 Add effects
 ----------------------
 
 *Nadat u de drones in de juiste positie gebracht hebt is het tijd om effecten toe te voegen. Het programma bied twee soorten effecten aan, een eerste groep zijn de bewegingseffecten, dit zijn allerhande bewegingen die je kan laten uitvoeren op uw formatie. En dan heb je ook nog de lichteffecten die vooral voor kleur en overgangen zorgen. Plaats op de home-pagina in de sequence lijn een drone formatie via de pen, ster of tekst gereedschap => rechter muisknop => convert into raw => clip word omgezet in raw => rechter muisknop => edit actions => movements => bezier => "+" teken => er verschijnd op de tijdlijn een clip => ga naar properties voor meer detailering.*
 
-7.9 Keyframes
+7.10 Keyframes
 -------------
 
 *Met keyframes kan je een beweging of effect toevoegen aan je formatie. Dit werkt met een begin en eindpunt dat je op uw clip plaatst. Het effect zal dan uitgevoerd worden tussen deze 2 punten. Er zijn 2 manieren om keyframes te plaatsen.*
@@ -174,17 +197,10 @@ The number of drones that you can use and are supported by the program is unlimi
 
 *Automatisch plaatsen van keyframes => Deze funtie is enkel mogelijk bij rotatie, scale en yaw. bij deze 3 movements vind je naast het + icoontje, het icoontje terug voor keyframes. Als je hier op klikt word er automatisch een balk geplaatst op de tijdslijn die automatisch een begin en eindpunt plaatst op de clip. De start en eind keyframe worden aan het begin en einde van de clip geplaatst. Door de punten te selecteren kan je deze naar wens verplaatsen.*
 
-7.10 Tweens
-----------
-
-*Een drone show is pas geslaagd als uw figuratie zich dynamisch gaat gaan bewegen en niet statisch ter plaatse blijft hangen. Om een figuur te laten bewegen in de ruimte kan je onderandere gebruik maken van tweens. Een tween verbind een eindpunt en beginpunt van een clip of scene met elkaar door middel van een lijn. Het is ook mogelijk om een clip te verbinden met meerdere clips die zich op verschillende sequenceses onder elkaar bevinden. Om een tween te plaatsen ga je met uw muispijl op het bolletje staan dat je terug vind op het eind van elke clip => de muispijl veranderd in een kruisje => klik en met muisknop ingedrukt sleep je de verbindingslijn naar het begin van de clip die je wilt verbinden => laat muisknop los. Om een tween te verwijderen, selecteer je het beginpunt van de tween => properties => tween => delete.* 
-
 7.11 Manier van werken, een voorbeeld
 -------------------------------------
 
-*Als voorbeeld gaan we de werkflow volgen van een opmaak waarin we vertrekken vanuit twee cirkels die overgaan naar twee roterende vierkanten.
-Een basis workflow vertrekt altijd eerst vanuit het plaatsen van drones, gevolgd door het vormgeven en doen bewegen van de geplaatste drones.
-Als laatste stap belichten we de presentatie van de gemaakte lightshow naar klanten toe.*
+
 
 
 
