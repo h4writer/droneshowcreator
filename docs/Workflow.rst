@@ -51,6 +51,8 @@ The number of drones that you can use and are supported by the program is unlimi
 
   .. image:: images/101.jpg
 
+  *The submenu "edit figure" will open automatically => go to viewport => select the color square to choose a color => select the "+" icon.*
+
   .. image:: images/102.jpg
 
   .. image:: images/103.jpg
