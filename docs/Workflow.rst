@@ -134,7 +134,7 @@ The number of drones that you can use and are supported by the program is unlimi
 
   .. image:: images/137.jpg
 
-*Note: If you have added effects to a clip of 10 seconds via the "edit action" and you are going to extend the duration of your clip afterwards, the effects will remain at 10 seconds and therefore do not automatically extend, this adjustment should always done manually.*
+*Note: If you have added effects to a clip of 10 seconds by the "edit action" and you are going to extend the duration of your clip afterwards, the effects will remain at 10 seconds and therefore do not automatically extend, this adjustment should always done manually.*
 
   .. image:: images/138.jpg
 
