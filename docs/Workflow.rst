@@ -163,13 +163,13 @@ The number of drones that you can use and are supported by the program is unlimi
 7.8 Tweens
 ----------
 
-*Een drone show is pas geslaagd als uw figuraties zich dynamisch gaan bewegen en niet statisch ter plaatse blijft hangen. Om een figuur te laten bewegen in de ruimte kan je onderandere gebruik maken van tweens. Een tween verbind het eindpunt van clip/scene A met het beginpunt van een clip/scene B door middel van een verbindingslijn. Het doel hiervan is om een figuur van positie A naar positie B te laten bewegen of figuren van vorm te laten overgaan, bijvoorbeeld een overgang van een vierkant naar een cirkel. U kan ook de beide functies combineren door een figuur van vorm te laten veranderen terwijl die zich van positie verplaatst.* 
+*A drone show is only successful if your figurations start moving dynamically and do not remain static on the spot. To make a figure move in space you can use tweens, among other things. A tween connects the end point of clip / scene A to the start point of a clip / scene B with a connector line. The purpose of this is to make a figure move from position A to position B or to make figures transition from shape, for example a transition from a square to a circle. You can also combine the two functions by making a figure change shape as it moves from position.* 
 
-  .. image:: images/xxx.jpg
+  .. image:: images/144.jpg
 
-  .. image:: images/xxx.jpg
+  .. image:: images/145.jpg
 
-  .. image:: images/xxx.jpg
+  .. image:: images/156.jpg
 
 *Om een tween te plaatsen ga je met uw muispijl op het bolletje staan dat je terug vind op het eind van elke clip => de muispijl veranderd in een kruisje => klik en met muisknop ingedrukt sleep je de verbindingslijn naar het begin van de clip die je wilt verbinden => laat muisknop los.* 
 
