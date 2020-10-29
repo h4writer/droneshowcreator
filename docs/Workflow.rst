@@ -123,6 +123,8 @@ The number of drones that you can use and are supported by the program is unlimi
   
    .. image:: images/134.jpg
 
+  *In the example below you can see that the newly created "scene A" has been placed on the timeline of the "main scene" and is combined with new clips. This timeline can in turn be saved as a new scene "B" and imported back into another scene. In this way you can combine endless clips and scenes.*
+
   .. image:: images/136.jpg
   
   
