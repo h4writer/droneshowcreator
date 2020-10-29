@@ -171,11 +171,11 @@ The number of drones that you can use and are supported by the program is unlimi
 
   .. image:: images/156.jpg
 
-*Om een tween te plaatsen ga je met uw muispijl op het bolletje staan dat je terug vind op het eind van elke clip => de muispijl veranderd in een kruisje => klik en met muisknop ingedrukt sleep je de verbindingslijn naar het begin van de clip die je wilt verbinden => laat muisknop los.* 
+*To place a tween, place your mouse arrow on the ball that you find at the end of each clip => the mouse arrow changes into a cross => click and with the mouse button pressed drag the connecting line to the start of the clip that you want to connect => release mouse button.* 
 
-  .. image:: images/xxx.jpg
+  .. image:: images/147.jpg
 
-*Het is ook mogelijk om een clip te verbinden met meerdere clips die zich op verschillende sequenceses onder elkaar bevinden.* 
+*It is also possible to link a clip with several clips that are located in different sequences below each other.* 
 
   .. image:: images/xxx.jpg
 
