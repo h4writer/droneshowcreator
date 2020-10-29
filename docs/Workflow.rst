@@ -55,6 +55,8 @@ The number of drones that you can use and are supported by the program is unlimi
 
   .. image:: images/102.jpg
 
+  *Click in the black area to place 1 drone, click again to place another, and so on. Close the submenu "edit figure" to return to the home screen.*
+
   .. image:: images/103.jpg
 
   .. image:: images/104.jpg
