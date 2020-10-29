@@ -119,7 +119,7 @@ The number of drones that you can use and are supported by the program is unlimi
 
   .. image:: images/133.jpg
 
-  *The "main" scene is meant as a main editing line in which you place the other created scenes and possibly combine them with other clips.* 
+  *The "main" scene is meant as a main editing line in which you place the other created scenes and possibly combine them with other scenes and clips. To import a created scene into the "main" scene => scene list => select the main scene => go to the book icon => current project => scene A => add => scene A word on the timeline of the main scene.* 
   
    .. image:: images/134.jpg
 
