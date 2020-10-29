@@ -100,7 +100,11 @@ The number of drones that you can use and are supported by the program is unlimi
 
   .. image:: images/127.jpg
 
+  *Select the drone or multiple drones you want to delete.*
+
   .. image:: images/128.jpg
+
+  *Click the erase icon to delete the selection = > exit edit figure to return to the home screen.*.
 
   .. image:: images/129.jpg
 
