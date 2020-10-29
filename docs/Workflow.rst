@@ -181,7 +181,7 @@ The number of drones that you can use and are supported by the program is unlimi
 
 *To delete a tween, select the starting point of the tween => properties => tween => delete.* 
 
-  .. image:: images/xxx.jpg
+  .. image:: images/149.jpg
 
 7.9 Add effects
 ----------------------
