@@ -19,14 +19,14 @@ The number of drones that you can use and are supported by the program is unlimi
 
   .. image:: images/118.jpg
 
-  *Convert the clip into a RAW clip => Select the clip => right mouse button => convert into raw.*
+  *Before you can edit the formation, you must first convert the clip to a raw clip. => Select the clip => right mouse button => convert into raw.*
 
   .. image:: images/115.jpg
 
 *Edit figure*
 
   *In this submenu you will find tools to edit, change or delete the previously placed drones from the start screen.*
-  *After you have converted the clip to a raw clip => rechter muisknop => edit figure*
+  *After you have converted the clip to a raw clip => right mouse button => edit figure*
 
   .. image:: images/119.jpg
 
