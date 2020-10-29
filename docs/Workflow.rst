@@ -24,7 +24,9 @@ The number of drones that you can use and are supported by the program is unlimi
   .. image:: images/115.jpg
 
 *Edit figure*
-  *After you have converted the clip to a raw clip, in this submenu you will find tools to edit, change or delete the previously placed drones from the start screen.*
+
+  *In this submenu you will find tools to edit, change or delete the previously placed drones from the start screen.*
+  *After you have converted the clip to a raw clip => rechter muisknop => edit figure*
 
   .. image:: images/119.jpg
 
