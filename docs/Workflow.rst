@@ -149,7 +149,7 @@ The number of drones that you can use and are supported by the program is unlimi
 
   .. image:: images/141.jpg
 
- *You can also use the directional arrows on your keyboard to freely rotate the perspective.*
+*You can also use the directional arrows on your keyboard to freely rotate the perspective.*
 
   .. image:: images/142.jpg
 
