@@ -87,7 +87,7 @@ The number of drones that you can use and are supported by the program is unlimi
   .. image:: images/124.jpg
 
 *Cursor needle*
-  *Make sure that the blue cursor needle in the timeline is at the start position (0sec.) The clips and scenes are placed where the cursor needle is located. If the needle is between 2 clips and there is not enough space to place a new clip, you will have to move the cursor to a place with more space.*
+  *The clips and scenes are placed where the cursor needle is located. If the needle is between 2 clips and there is not enough space to place a new clip, you will have to move the cursor to a place with more space.*
 
   .. image:: images/125.jpg
 
@@ -97,6 +97,14 @@ The number of drones that you can use and are supported by the program is unlimi
 ----------------------
 
 *A first option to delete is to select your clip or scene and press the delete button. You can also, for example, only delete 1 drone from a formation => select the clip => right mouse button => edit figure => select the drone or multiple drones you want to delete => click the erase icon to delete the selection = > exit edit figure to return to the home screen.*
+
+  .. image:: images/127.jpg
+
+  .. image:: images/128.jpg
+
+  .. image:: images/129.jpg
+
+  .. image:: images/130.jpg
 
 7.4 Clips and scenes 
 ---------------------
