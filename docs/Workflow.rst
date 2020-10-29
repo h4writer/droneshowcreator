@@ -100,11 +100,11 @@ The number of drones that you can use and are supported by the program is unlimi
 
   .. image:: images/127.jpg
 
-  *Select the drone or multiple drones you want to delete.*
+*Select the drone or multiple drones you want to delete.*
 
   .. image:: images/128.jpg
 
-  *Click the erase icon to delete the selection = > exit edit figure to return to the home screen.*.
+*Click the erase icon to delete the selection = > exit edit figure to return to the home screen.*.
 
   .. image:: images/129.jpg
 
@@ -119,11 +119,11 @@ The number of drones that you can use and are supported by the program is unlimi
 
   .. image:: images/133.jpg
 
-  *The "main" scene is meant as a main editing line in which you place the other created scenes and possibly combine them with other scenes and clips. To import a created scene into the "main" scene => scene list => select the main scene => go to the book icon => current project => scene A => add => scene A will be added to the timeline of the main scene.* 
+*The "main" scene is meant as a main editing line in which you place the other created scenes and possibly combine them with other scenes and clips. To import a created scene into the "main" scene => scene list => select the main scene => go to the book icon => current project => scene A => add => scene A will be added to the timeline of the main scene.* 
   
   .. image:: images/134.jpg
 
-  *In the example below you can see that the newly created "scene A" has been placed on the timeline of the "main scene" and is combined with new clips. This timeline can in turn be saved as a new scene "B" and imported back into another scene. In this way you can combine endless clips and scenes.*
+*In the example below you can see that the newly created "scene A" has been placed on the timeline of the "main scene" and is combined with new clips. This timeline can in turn be saved as a new scene "B" and imported back into another scene. In this way you can combine endless clips and scenes.*
 
   .. image:: images/136.jpg
   
