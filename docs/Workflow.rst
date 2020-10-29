@@ -169,7 +169,7 @@ The number of drones that you can use and are supported by the program is unlimi
 
   .. image:: images/145.jpg
 
-  .. image:: images/156.jpg
+  .. image:: images/146.jpg
 
 *To place a tween, place your mouse arrow on the ball that you find at the end of each clip => the mouse arrow changes into a cross => click and with the mouse button pressed drag the connecting line to the start of the clip that you want to connect => release mouse button.* 
 
