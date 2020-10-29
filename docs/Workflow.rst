@@ -177,9 +177,9 @@ The number of drones that you can use and are supported by the program is unlimi
 
 *It is also possible to link a clip with several clips that are located in different sequences below each other.* 
 
-  .. image:: images/xxx.jpg
+  .. image:: images/148.jpg
 
-*Om een tween te verwijderen, selecteer je het beginpunt van de tween => properties => tween => delete.* 
+*To delete a tween, select the starting point of the tween => properties => tween => delete.* 
 
   .. image:: images/xxx.jpg
 
