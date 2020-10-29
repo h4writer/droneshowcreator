@@ -151,7 +151,7 @@ The number of drones that you can use and are supported by the program is unlimi
 
 *You can also use the directional arrows on your keyboard to freely rotate the perspective.*
 
-  .. image:: images/x.jpg
+  .. image:: images/142.jpg
 
 7.7 Add effects
 ----------------------
