@@ -35,9 +35,9 @@ The number of drones that you can use and are supported by the program is unlimi
 *Edit actions.*
  *After you have converted the clip to a raw clip => right mouse button => edit actions*
 
-  .. image:: images/119.jpg
+  .. image:: images/120.jpg
   
-  *In this submenu you have the option to add motion functions and color effects to your design.* 
+ *In this submenu you have the option to add motion functions and color effects to your design.* 
 
   .. image:: images/edit_action_page.jpg
 
