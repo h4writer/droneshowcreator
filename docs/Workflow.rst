@@ -119,11 +119,21 @@ The number of drones that you can use and are supported by the program is unlimi
 
   .. image:: images/133.jpg
 
-  *It is possible to combine clips and scenes on a timeline and connect them with each other by tweens. A drone light show is created with this method. Each clip or scene is defined by a time duration, which is automatically placed at 10 seconds when creating a new clip. You can adjust this by grabbing the edge of the clip and dragging it further or closer. You can also adjust the time numerically via the properties menu => duration. The unit is in milliseconds => 10,000 s = 10 sec. Note: If you have added effects to a clip of 10 seconds via the "edit action" and you are going to extend the duration of your clip afterwards, the effects will remain at 10 seconds and therefore do not automatically extend, this adjustment should always done manually.*
-
-  .. image:: images/134.jpg
+  *It is possible to combine clips and scenes on a timeline. A drone light show is created with this method. 
+  
+  
+   .. image:: images/134.jpg
 
   .. image:: images/136.jpg
+  
+  
+  
+  
+  Each clip or scene is defined by a time duration, which is automatically placed at 10 seconds when creating a new clip. You can adjust this by grabbing the edge of the clip and dragging it further or closer. You can also adjust the time numerically via the properties menu => duration. The unit is in milliseconds => 10,000 s = 10 sec. Note: If you have added effects to a clip of 10 seconds via the "edit action" and you are going to extend the duration of your clip afterwards, the effects will remain at 10 seconds and therefore do not automatically extend, this adjustment should always done manually.*
+
+  .. image:: images/x.jpg
+
+  .. image:: images/x.jpg
 
 7.5 View options.
 ----------------
