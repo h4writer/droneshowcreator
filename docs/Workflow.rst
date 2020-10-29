@@ -89,6 +89,10 @@ The number of drones that you can use and are supported by the program is unlimi
 *Cursor needle*
   *Make sure that the blue cursor needle in the timeline is at the start position (0sec.) The clips and scenes are placed where the cursor needle is located. If the needle is between 2 clips and there is not enough space to place a new clip, you will have to move the cursor to a place with more space.*
 
+  .. image:: images/125.jpg
+
+  .. image:: images/126.jpg
+
 7.3 Deleting drones 
 ----------------------
 
