@@ -149,6 +149,8 @@ The number of drones that you can use and are supported by the program is unlimi
 
   .. image:: images/141.jpg
 
+  .. image:: images/142.jpg
+
 7.7 Add effects
 ----------------------
 
