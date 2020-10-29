@@ -39,7 +39,7 @@ The number of drones that you can use and are supported by the program is unlimi
   
  *In this submenu you have the option to add motion functions and color effects to your design.* 
 
-  .. image:: images/edit_action_page.jpg
+  .. image:: images/121.jpg
 
 7.2 Placing drones
 -------------------
