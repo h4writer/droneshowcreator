@@ -141,8 +141,13 @@ The number of drones that you can use and are supported by the program is unlimi
 7.6 View options.
 ----------------
 
-*De drones die je plaatsen op de tijdlijn zullen altijd geplaatst worden in een "clip". Een clip is dus een op zich staande verzameling die x aantal drones bevat en gevisualiseerd word door een balkje op de tijdlijn. Op deze manier kan je verschillende clips naast elkaar op de tijdslijn plaatsen en dit opslaan als een scene. Een scene is dus een verzammeling van verschillende clips. Alle scenes die worden aangemaakt en gebruikt zijn terug te vinden bij "Scene list" aan de rechter bovenhoek van de home-pagina interface. Het is mogelijk om op een tijdlijn clips en scene's met elkaar te combineren en te verbinden met elkaar door tweens. Met deze werkwijze komt een drone lightshow tot stand.
-Elke clip of scene word gedefinieerd door een tijdsduur, deze word bij het aanmaken van een nieuwe clip automatische op 10 seconden geplaatst. Dit kan je aanpassen door de rand van de clip vast te nemen en verder of dichterbij te slepen. Je kan ook nummeriek de tijd aanpassen via het properties menu => duration. De eenheid staat in millisec => 10.000 s = 10 sec. Let op: Als je bij een clip van 10 seconden effecten geplaatst heb via het "edit action" en je gaat nadien de tijdsduur van uw clip verlengen, gaan de effecten op 10 seconden blijven staat en dus niet automatisch gaan mee verlengen, deze aanpassing dient steeds manueel te gebeuren.*
+*When creating complex figures, it is very important that you have a good awareness of 3D space. That is why the program offers various possibilities to view, approach and present your work. Three different perspectives are possible: front view, side view and top view. You can also use the directional arrows on your keyboard to freely rotate the perspective.*
+
+  .. image:: images/139.jpg
+
+  .. image:: images/140.jpg
+
+  .. image:: images/141.jpg
 
 7.7 Add effects
 ----------------------
