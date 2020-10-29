@@ -126,8 +126,15 @@ The number of drones that you can use and are supported by the program is unlimi
 *In the example below you can see that the newly created "scene A" has been placed on the timeline of the "main scene" and is combined with new clips. This timeline can in turn be saved as a new scene "B" and imported back into another scene. In this way you can combine endless clips and scenes.*
 
   .. image:: images/136.jpg
+
+7.5 Import from the library
+-----------------------------------
+
+*If you want to import a saved drone show (.sky4 file) in a new format. Copy the ".sky4 file" => go to the software folder of the lightshow creator => go to the folder "library" => paste the .sky4 file in this folder => go back to the program => click on the book icon = > choose the desired file from the list => add => the layout will be placed on the timeline.*
+
+  .. image:: images/143.jpg
   
-7.5 Clip time duration
+7.6 Clip time duration
 ------------------------
 
 *Each clip is defined by a time duration, which is automatically placed at 10 seconds when creating a new clip. You can adjust this by grabbing the edge of the clip and dragging it further or closer. You can also adjust the time numerically via the properties menu => duration. The unit is in milliseconds => 10,000 s = 10 sec.*
@@ -138,7 +145,7 @@ The number of drones that you can use and are supported by the program is unlimi
 
   .. image:: images/138.jpg
 
-7.6 View options.
+7.7 View options.
 ----------------
 
 *When creating complex figures, it is very important that you have a good awareness of 3D space. That is why the program offers various possibilities to view, approach and present your work. Three different perspectives are possible: front view, side view and top view.*
@@ -153,12 +160,12 @@ The number of drones that you can use and are supported by the program is unlimi
 
   .. image:: images/142.jpg
 
-7.7 Add effects
+7.8 Add effects
 ----------------------
 
 *Nadat u de drones in de juiste positie gebracht hebt is het tijd om effecten toe te voegen. Het programma bied twee soorten effecten aan, een eerste groep zijn de bewegingseffecten, dit zijn allerhande bewegingen die je kan laten uitvoeren op uw formatie. En dan heb je ook nog de lichteffecten die vooral voor kleur en overgangen zorgen. Plaats op de home-pagina in de sequence lijn een drone formatie via de pen, ster of tekst gereedschap => rechter muisknop => convert into raw => clip word omgezet in raw => rechter muisknop => edit actions => movements => bezier => "+" teken => er verschijnd op de tijdlijn een clip => ga naar properties voor meer detailering.*
 
-7.8 Keyframes
+7.9 Keyframes
 -------------
 
 *Met keyframes kan je een beweging of effect toevoegen aan je formatie. Dit werkt met een begin en eindpunt dat je op uw clip plaatst. Het effect zal dan uitgevoerd worden tussen deze 2 punten. Er zijn 2 manieren om keyframes te plaatsen.*
@@ -167,15 +174,10 @@ The number of drones that you can use and are supported by the program is unlimi
 
 *Automatisch plaatsen van keyframes => Deze funtie is enkel mogelijk bij rotatie, scale en yaw. bij deze 3 movements vind je naast het + icoontje, het icoontje terug voor keyframes. Als je hier op klikt word er automatisch een balk geplaatst op de tijdslijn die automatisch een begin en eindpunt plaatst op de clip. De start en eind keyframe worden aan het begin en einde van de clip geplaatst. Door de punten te selecteren kan je deze naar wens verplaatsen.*
 
-7.9 Tweens
+7.10 Tweens
 ----------
 
 *Een drone show is pas geslaagd als uw figuratie zich dynamisch gaat gaan bewegen en niet statisch ter plaatse blijft hangen. Om een figuur te laten bewegen in de ruimte kan je onderandere gebruik maken van tweens. Een tween verbind een eindpunt en beginpunt van een clip of scene met elkaar door middel van een lijn. Het is ook mogelijk om een clip te verbinden met meerdere clips die zich op verschillende sequenceses onder elkaar bevinden. Om een tween te plaatsen ga je met uw muispijl op het bolletje staan dat je terug vind op het eind van elke clip => de muispijl veranderd in een kruisje => klik en met muisknop ingedrukt sleep je de verbindingslijn naar het begin van de clip die je wilt verbinden => laat muisknop los. Om een tween te verwijderen, selecteer je het beginpunt van de tween => properties => tween => delete.* 
-
-7.10 Importeren vanuit de bibiotheek
------------------------------------
-
-*Een drone show bestaat meestal uit verschillende losse onderdelen (=clips) die op hun beurt bij elkaar gebracht worden en bewaard worden als een scene. Een scene kan je dan opnieuw inporteren in een nieuwe tijdlijn. Om een scene te inporteren ga je als volgt te werk. Plaats verschillende clips op de tijdlijn en bewaar deze als een scene. Het opgeslagen bestand is een .sky4 => kopieer het .sky4 bestand => ga naar de software map van de lightshowcreator => ga naar de map "library" => plak het .sky4 bestand in deze map => Ga terug naar het programma => klik op het book icoontje => kies het gewenste bestand uit de lijst => add => de opmaak word geplaatst op de tijdslijn.*
 
 7.11 Manier van werken, een voorbeeld
 -------------------------------------
