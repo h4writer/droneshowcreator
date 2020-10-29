@@ -113,7 +113,7 @@ The number of drones that you can use and are supported by the program is unlimi
 7.4 Clips and scenes 
 ---------------------
 
-*The drones you place on the timeline will always be placed in a "clip". A clip is therefore a stand-alone collection that contains x number of drones and is visualized by a bar on the timeline. This way you can place different clips next to each other on the timeline and use it as a scene A, 3, #, green ...".  A scene is therefore a collection of different clips. All new scenes that are created and used can be found at "Scene list" at the top right corner of the home page interface. To create a new scene => scene list => new => properties => name => name the new scene => go to the timeline and place clips.*
+*The drones you place on the timeline will always be placed in a "clip". A clip is therefore a stand-alone collection that contains x number of drones and is visualized by a bar on the timeline. This way you can place different clips next to each other on the timeline and use it as a scene.  A scene is therefore a collection of different clips. All new scenes that are created and used can be found at "Scene list" at the top right corner of the home page interface. To create a new scene => scene list => new => properties => name => give the new scene a name => go to the timeline and place clips.*
 
   .. image:: images/131.jpg
 
