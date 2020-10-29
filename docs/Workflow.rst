@@ -15,6 +15,10 @@ The number of drones that you can use and are supported by the program is unlimi
 
   .. image:: images/117.jpg
 
+ *Gebruik een van de toolgereedschappen om de eerste drones te plaatsen => er verschijnd een clip op de tijdslijn.*
+
+  .. image:: images/118.jpg
+
   *Convert the clip into a RAW clip => select the clip => right mouse button => convert into raw.*
 
   .. image:: images/115.jpg
