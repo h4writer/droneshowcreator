@@ -127,27 +127,24 @@ The number of drones that you can use and are supported by the program is unlimi
 
   .. image:: images/136.jpg
   
-  
-  
-  
-  Each clip or scene is defined by a time duration, which is automatically placed at 10 seconds when creating a new clip. You can adjust this by grabbing the edge of the clip and dragging it further or closer. You can also adjust the time numerically via the properties menu => duration. The unit is in milliseconds => 10,000 s = 10 sec. Note: If you have added effects to a clip of 10 seconds via the "edit action" and you are going to extend the duration of your clip afterwards, the effects will remain at 10 seconds and therefore do not automatically extend, this adjustment should always done manually.*
+7.5 Clip time duration
+------------------------
+  *Each clip or scene is defined by a time duration, which is automatically placed at 10 seconds when creating a new clip. You can adjust this by grabbing the edge of the clip and dragging it further or closer. You can also adjust the time numerically via the properties menu => duration. The unit is in milliseconds => 10,000 s = 10 sec. Note: If you have added effects to a clip of 10 seconds via the "edit action" and you are going to extend the duration of your clip afterwards, the effects will remain at 10 seconds and therefore do not automatically extend, this adjustment should always done manually.*
 
-  .. image:: images/x.jpg
+  .. image:: images/137.jpg
 
-  .. image:: images/x.jpg
-
-7.5 View options.
+7.6 View options.
 ----------------
 
 *De drones die je plaatsen op de tijdlijn zullen altijd geplaatst worden in een "clip". Een clip is dus een op zich staande verzameling die x aantal drones bevat en gevisualiseerd word door een balkje op de tijdlijn. Op deze manier kan je verschillende clips naast elkaar op de tijdslijn plaatsen en dit opslaan als een scene. Een scene is dus een verzammeling van verschillende clips. Alle scenes die worden aangemaakt en gebruikt zijn terug te vinden bij "Scene list" aan de rechter bovenhoek van de home-pagina interface. Het is mogelijk om op een tijdlijn clips en scene's met elkaar te combineren en te verbinden met elkaar door tweens. Met deze werkwijze komt een drone lightshow tot stand.
 Elke clip of scene word gedefinieerd door een tijdsduur, deze word bij het aanmaken van een nieuwe clip automatische op 10 seconden geplaatst. Dit kan je aanpassen door de rand van de clip vast te nemen en verder of dichterbij te slepen. Je kan ook nummeriek de tijd aanpassen via het properties menu => duration. De eenheid staat in millisec => 10.000 s = 10 sec. Let op: Als je bij een clip van 10 seconden effecten geplaatst heb via het "edit action" en je gaat nadien de tijdsduur van uw clip verlengen, gaan de effecten op 10 seconden blijven staat en dus niet automatisch gaan mee verlengen, deze aanpassing dient steeds manueel te gebeuren.*
 
-7.6 Add effects
+7.7 Add effects
 ----------------------
 
 *Nadat u de drones in de juiste positie gebracht hebt is het tijd om effecten toe te voegen. Het programma bied twee soorten effecten aan, een eerste groep zijn de bewegingseffecten, dit zijn allerhande bewegingen die je kan laten uitvoeren op uw formatie. En dan heb je ook nog de lichteffecten die vooral voor kleur en overgangen zorgen. Plaats op de home-pagina in de sequence lijn een drone formatie via de pen, ster of tekst gereedschap => rechter muisknop => convert into raw => clip word omgezet in raw => rechter muisknop => edit actions => movements => bezier => "+" teken => er verschijnd op de tijdlijn een clip => ga naar properties voor meer detailering.*
 
-7.7 Keyframes
+7.8 Keyframes
 -------------
 
 *Met keyframes kan je een beweging of effect toevoegen aan je formatie. Dit werkt met een begin en eindpunt dat je op uw clip plaatst. Het effect zal dan uitgevoerd worden tussen deze 2 punten. Er zijn 2 manieren om keyframes te plaatsen.*
@@ -156,17 +153,17 @@ Elke clip of scene word gedefinieerd door een tijdsduur, deze word bij het aanma
 
 *Automatisch plaatsen van keyframes => Deze funtie is enkel mogelijk bij rotatie, scale en yaw. bij deze 3 movements vind je naast het + icoontje, het icoontje terug voor keyframes. Als je hier op klikt word er automatisch een balk geplaatst op de tijdslijn die automatisch een begin en eindpunt plaatst op de clip. De start en eind keyframe worden aan het begin en einde van de clip geplaatst. Door de punten te selecteren kan je deze naar wens verplaatsen.*
 
-7.8 Tweens
+7.9 Tweens
 ----------
 
 *Een drone show is pas geslaagd als uw figuratie zich dynamisch gaat gaan bewegen en niet statisch ter plaatse blijft hangen. Om een figuur te laten bewegen in de ruimte kan je onderandere gebruik maken van tweens. Een tween verbind een eindpunt en beginpunt van een clip of scene met elkaar door middel van een lijn. Het is ook mogelijk om een clip te verbinden met meerdere clips die zich op verschillende sequenceses onder elkaar bevinden. Om een tween te plaatsen ga je met uw muispijl op het bolletje staan dat je terug vind op het eind van elke clip => de muispijl veranderd in een kruisje => klik en met muisknop ingedrukt sleep je de verbindingslijn naar het begin van de clip die je wilt verbinden => laat muisknop los. Om een tween te verwijderen, selecteer je het beginpunt van de tween => properties => tween => delete.* 
 
-7.9 Importeren vanuit de bibiotheek
+7.10 Importeren vanuit de bibiotheek
 -----------------------------------
 
 *Een drone show bestaat meestal uit verschillende losse onderdelen (=clips) die op hun beurt bij elkaar gebracht worden en bewaard worden als een scene. Een scene kan je dan opnieuw inporteren in een nieuwe tijdlijn. Om een scene te inporteren ga je als volgt te werk. Plaats verschillende clips op de tijdlijn en bewaar deze als een scene. Het opgeslagen bestand is een .sky4 => kopieer het .sky4 bestand => ga naar de software map van de lightshowcreator => ga naar de map "library" => plak het .sky4 bestand in deze map => Ga terug naar het programma => klik op het book icoontje => kies het gewenste bestand uit de lijst => add => de opmaak word geplaatst op de tijdslijn.*
 
-7.10 Manier van werken, een voorbeeld
+7.11 Manier van werken, een voorbeeld
 -------------------------------------
 
 *Als voorbeeld gaan we de werkflow volgen van een opmaak waarin we vertrekken vanuit twee cirkels die overgaan naar twee roterende vierkanten.
