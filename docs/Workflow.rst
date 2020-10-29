@@ -59,6 +59,8 @@ The number of drones that you can use and are supported by the program is unlimi
 
   .. image:: images/103.jpg
 
+  *Back to the home page, you will see a clip appear on sequence 1 of the timeline. Use the properties menu of the home screen to refine your placed drone in terms of position in 3D space.*
+
   .. image:: images/104.jpg
 
 *Star icon* 
