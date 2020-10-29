@@ -98,7 +98,7 @@ The number of drones that you can use and are supported by the program is unlimi
 
 *A first option to delete is to select your clip and press the delete button. You can also, for example, only delete 1 drone from a formation => select the clip => right mouse button => edit figure.*
 
-  .. image:: images/127.jpg
+ .. image:: images/127.jpg
 
   *Select the drone or multiple drones you want to delete.*
 
