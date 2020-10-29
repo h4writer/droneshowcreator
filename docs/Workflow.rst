@@ -61,7 +61,7 @@ The number of drones that you can use and are supported by the program is unlimi
 
   *Back to the home page, you will see a clip appear on sequence 1 of the timeline. Use the properties menu of the home screen to refine your placed drone in terms of position in 3D space.*
 
-
+  .. image:: images/104.jpg
 
 *Star icon* 
   *For placing multiple drones. Click on the star icon and a grid of 5 by 5 drones will automatically be placed in a clip on the timeline at sequence 1. Go to the properties menu of the home screen to refine your grid in terms of design and position in the 3D space. You can choose from different figuration, grid, circle, rectangle, sphere, polygon, star. This can be useful to start from here as the basis for your design. Once your figuration is the way you want, select your clip => right mouse click => convert into raw => right mouse button => now you have access to the "edit figure" to add or remove drones if you wish.*
