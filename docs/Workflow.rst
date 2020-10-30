@@ -47,6 +47,7 @@ The number of drones that you can use and are supported by the program is unlimi
 *The first thing we do when we start a new project is to determine the flight zone. It is important to enter the correct distances for a reliable relationship between design and space. Follow the next steps => open the program => home page => file => settings => a "Project settings" window will open => enter the correct values (expressed in meters) => close the window => your flight zone is visualized by solid white lines (use the arrows on your keyboard for a 3D view of the zone).*
 
 
+  .. image:: images/160.jpg
 
   .. image:: images/161.jpg
 
