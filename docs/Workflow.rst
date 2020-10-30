@@ -217,9 +217,11 @@ The number of drones that you can use and are supported by the program is unlimi
 
   .. image:: images/157.jpg
 
-*Delete keyframes => Select the keyframe you want to delete => click on the black dot in the properties => the dot becomes white again => the keyframe on the timeline has been deleted.*
+*Delete keyframes => Select the keyframe you want to delete => click on the black dot in the properties.*
 
   .. image:: images/158.jpg
+
+*The dot becomes white again => the keyframe on the timeline has been deleted.*
 
   .. image:: images/159.jpg
 
