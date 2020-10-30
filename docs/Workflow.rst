@@ -207,7 +207,7 @@ The number of drones that you can use and are supported by the program is unlimi
 
   .. image:: images/154.jpg
 
-*A white dot appears with two triangles left and right => If you click on the dot a keyframe is placed => the dot turns black => move the cursor to the place where you want to place the end point => then click back on the black dot in the properties => the end point is placed. You can place unlimited key frames.*
+*A white dot appears with two triangles left and right => If you click on the dot a keyframe is placed => the watch and dot turns black => move the cursor to the place where you want to place the end point => then click back on the black dot in the properties => the end point is placed. You can place unlimited key frames.*
 
   .. image:: images/155.jpg
 
