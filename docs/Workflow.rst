@@ -219,9 +219,9 @@ The number of drones that you can use and are supported by the program is unlimi
 
 *Keyframes verwijderen => Selecteer het keyframe dat u wilt verwijderen => klik op het zwarte bolletje in de properties => het bolletje word terug wit => de keyframe op de tijdsbalk is verwijderd.*
 
-  .. image:: images/xxx.jpg
+  .. image:: images/158.jpg
 
-  .. image:: images/xxx.jpg
+  .. image:: images/159.jpg
 
 7.11 Manier van werken, een voorbeeld
 -------------------------------------
