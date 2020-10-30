@@ -203,7 +203,7 @@ The number of drones that you can use and are supported by the program is unlimi
 
 *There are 2 ways to place key frames.*
 
- *Manual => first place a movement of lights effect => a block will appear on the timeline => move the cursor to the place where you want to place the start keyframe => go to properties => click on the clockwork icon.*
+*Manual => first place a movement of lights effect => a block will appear on the timeline => move the cursor to the place where you want to place the start keyframe => go to properties => click on the clockwork icon.*
 
   .. image:: images/154.jpg
 
@@ -213,7 +213,7 @@ The number of drones that you can use and are supported by the program is unlimi
 
   .. image:: images/156.jpg
 
- *Automatic placement of key frames => This function is only possible with rotation, scale and yaw. in these 3 movements you will find the icon for automatic keyframes next to the + icon. If you click on this, a bar will automatically be placed on the timeline that places a start and end point on the clip. The start and end keyframe are placed at the beginning and end of the clip. By selecting the points you can move them as desired.*
+*Automatic placement of key frames => This function is only possible with rotation, scale and yaw. in these 3 movements you will find the icon for automatic keyframes next to the + icon. If you click on this, a bar will automatically be placed on the timeline that places a start and end point on the clip. The start and end keyframe are placed at the beginning and end of the clip. By selecting the points you can move them as desired.*
 
   .. image:: images/157.jpg
 
