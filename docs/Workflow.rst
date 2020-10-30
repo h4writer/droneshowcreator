@@ -203,9 +203,11 @@ The number of drones that you can use and are supported by the program is unlimi
 
 *There are 2 ways to place key frames.*
 
- *Manueel => plaats eerst een movement of lights effect => er verschijnd een blokje op de tijdslijn => ga met de cursor op de plaats staan waar je de start keyframe wilt plaatsen => ga naar properties => klik op het uurwerk icoontje => er verschijnt een wit bolletje met twee driehoekjes links en rechts => Als je op het bolletje klikt word er een keyframe geplaatst => het bolletje word zwart => je kan onbeperkt keyframes plaatsen. Als je een keyframe plaatst en je verzet de cursor niet en je klikt een 2de keer op het bolletje zal de keyframe verwijderd worden.*
+ *Manueel => plaats eerst een movement of lights effect => er verschijnd een blokje op de tijdslijn => ga met de cursor op de plaats staan waar je de start keyframe wilt plaatsen => ga naar properties => klik op het uurwerk icoontje.*
 
   .. image:: images/154.jpg
+
+*Er verschijnt een wit bolletje met twee driehoekjes links en rechts => Als je op het bolletje klikt word er een keyframe geplaatst => het bolletje word zwart => je kan onbeperkt keyframes plaatsen. Als je een keyframe plaatst en je verzet de cursor niet en je klikt een 2de keer op het bolletje zal de keyframe verwijderd worden.*
 
   .. image:: images/155.jpg
 
