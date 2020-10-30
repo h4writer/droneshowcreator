@@ -183,10 +183,16 @@ The number of drones that you can use and are supported by the program is unlimi
 
   .. image:: images/149.jpg
 
-7.9 Add effects
+7.9 Effects
 ----------------------
 
-*Nadat u de drones in de juiste positie gebracht hebt is het tijd om effecten toe te voegen. Het programma bied twee soorten effecten aan, een eerste groep zijn de bewegingseffecten, dit zijn allerhande bewegingen die je kan laten uitvoeren op uw formatie. En dan heb je ook nog de lichteffecten die vooral voor kleur en overgangen zorgen. Plaats op de home-pagina in de sequence lijn een drone formatie via de pen, ster of tekst gereedschap => rechter muisknop => convert into raw => clip word omgezet in raw => rechter muisknop => edit actions => movements => bezier => "+" teken => er verschijnd op de tijdlijn een clip => ga naar properties voor meer detailering.*
+*After you have put the drones in the correct position by the "edit firugre" it is time to add effects. The program offers two types of effects, the first group is the movement effects, these are all kinds of movements that you can have on your formation. In addition to using tweens, these effects are a second way of making characters move. The duration of an effect you post is proportional to the duration of your clip. On the home page, place a drone formation in the sequence line via the pen, star or text tool => right mouse button => convert into raw => clip is converted into raw => right mouse button => edit actions => movements => choose an effect => click on the "+" sign next to the effect => a clip will appear on the timeline => go to properties for more details.*
+
+  .. image:: images/150.jpg
+
+*And then you also have the light effects that mainly provide color and color transitions. These color effects are placed in the same way as the movement effects. On the home page, place a drone formation in the sequence line via the pen, star or text tool => right mouse button => convert into raw => clip is converted into raw => right mouse button => edit actions => lights => choose an effect => click the "+" sign next to the effect => a clip will appear on the timeline => go to properties for more details.*
+
+  .. image:: images/151.jpg
 
 7.10 Keyframes
 -------------
