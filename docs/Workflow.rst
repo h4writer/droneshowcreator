@@ -203,28 +203,27 @@ The number of drones that you can use and are supported by the program is unlimi
 
 *There are 2 ways to place key frames.*
 
- *Manueel => plaats eerst een movement of lights effect => er verschijnd een blokje op de tijdslijn => ga met de cursor op de plaats staan waar je de start keyframe wilt plaatsen => ga naar properties => klik op het uurwerk icoontje.*
+ *Manual => first place a movement of lights effect => a block will appear on the timeline => move the cursor to the place where you want to place the start keyframe => go to properties => click on the clockwork icon.*
 
   .. image:: images/154.jpg
 
-*Er verschijnt een wit bolletje met twee driehoekjes links en rechts => Als je op het bolletje klikt word er een keyframe geplaatst => het bolletje word zwart => verzet de cursor naar de plaats waar u het eindpunt wilt plaatsen => klik vervolgens terug op het zwart bolletje in de properties => het eindpunt word geplaatst. Je kan onbeperkt keyframes plaatsen.*
+*A white dot appears with two triangles left and right => If you click on the dot a keyframe is placed => the dot turns black => move the cursor to the place where you want to place the end point => then click back on the black dot in the properties => the end point is placed. You can place unlimited key frames.*
 
   .. image:: images/155.jpg
 
   .. image:: images/156.jpg
 
- *Automatisch plaatsen van keyframes => Deze funtie is enkel mogelijk bij rotatie, scale en yaw. bij deze 3 movements vind je naast het + icoontje, het icoontje terug voor automatische keyframes. Als je hier op klikt word er automatisch een balk geplaatst op de tijdslijn die een begin en eindpunt plaatst op de clip. De start en eind keyframe worden aan het begin en einde van de clip geplaatst. Door de punten te selecteren kan je deze naar wens verplaatsen.*
+ *Automatic placement of key frames => This function is only possible with rotation, scale and yaw. in these 3 movements you will find the icon for automatic keyframes next to the + icon. If you click on this, a bar will automatically be placed on the timeline that places a start and end point on the clip. The start and end keyframe are placed at the beginning and end of the clip. By selecting the points you can move them as desired.*
 
   .. image:: images/157.jpg
 
-*Keyframes verwijderen => Selecteer het keyframe dat u wilt verwijderen => klik op het zwarte bolletje in de properties => het bolletje word terug wit => de keyframe op de tijdsbalk is verwijderd.*
+*Delete keyframes => Select the keyframe you want to delete => click on the black dot in the properties => the dot becomes white again => the keyframe on the timeline has been deleted.*
 
   .. image:: images/158.jpg
 
   .. image:: images/159.jpg
 
-7.11 Manier van werken, een voorbeeld
--------------------------------------
+
 
 
 
