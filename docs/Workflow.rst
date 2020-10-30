@@ -192,7 +192,7 @@ The number of drones that you can use and are supported by the program is unlimi
 
 *And then you also have the light effects that mainly provide color and color transitions. These color effects are placed in the same way as the movement effects. On the home page, place a drone formation in the sequence line via the pen, star or text tool => right mouse button => convert into raw => clip is converted into raw => right mouse button => edit actions => lights => choose an effect => click the "+" sign next to the effect => a clip will appear on the timeline => go to properties for more details.*
 
-  .. image:: images/151.jpg
+  .. image:: images/xxx.jpg
 
 7.10 Keyframes
 -------------
