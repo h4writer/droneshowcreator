@@ -207,15 +207,17 @@ The number of drones that you can use and are supported by the program is unlimi
 
   .. image:: images/154.jpg
 
-*Er verschijnt een wit bolletje met twee driehoekjes links en rechts => Als je op het bolletje klikt word er een keyframe geplaatst => het bolletje word zwart => je kan onbeperkt keyframes plaatsen. Als je een keyframe plaatst en je verzet de cursor niet en je klikt een 2de keer op het bolletje zal de keyframe verwijderd worden.*
+*Er verschijnt een wit bolletje met twee driehoekjes links en rechts => Als je op het bolletje klikt word er een keyframe geplaatst => het bolletje word zwart => verzet de cursor naar de plaats waar u het eindpunt wilt plaatsen => klik vervolgens terug op het zwart bolletje in de properties => het eindpunt word geplaatst. Je kan onbeperkt keyframes plaatsen.*
 
   .. image:: images/155.jpg
 
   .. image:: images/156.jpg
 
+ *Automatisch plaatsen van keyframes => Deze funtie is enkel mogelijk bij rotatie, scale en yaw. bij deze 3 movements vind je naast het + icoontje, het icoontje terug voor automatische keyframes. Als je hier op klikt word er automatisch een balk geplaatst op de tijdslijn die een begin en eindpunt plaatst op de clip. De start en eind keyframe worden aan het begin en einde van de clip geplaatst. Door de punten te selecteren kan je deze naar wens verplaatsen.*
+
   .. image:: images/157.jpg
 
- *Automatisch plaatsen van keyframes => Deze funtie is enkel mogelijk bij rotatie, scale en yaw. bij deze 3 movements vind je naast het + icoontje, het icoontje terug voor keyframes. Als je hier op klikt word er automatisch een balk geplaatst op de tijdslijn die automatisch een begin en eindpunt plaatst op de clip. De start en eind keyframe worden aan het begin en einde van de clip geplaatst. Door de punten te selecteren kan je deze naar wens verplaatsen.*
+Keyframes verwijderen
 
 7.11 Manier van werken, een voorbeeld
 -------------------------------------
