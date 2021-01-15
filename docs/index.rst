@@ -20,7 +20,7 @@ Welcome to Andlights Dronecreator
    
    Home_screen
    Edit_figure
-   Edit-actions
+   Edit_actions
   
 .. toctree::
    :caption: Workflow
