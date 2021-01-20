@@ -1,47 +1,57 @@
 ===========================
-5. Edit figure
+Edit drone figure
 ===========================
 
 *In this submenu you will find tools to edit, modify or remove the previously placed drones from the start page. First, on the home page, select the clip you want to edit => right mouse button => convert into raw => right mouse button => edit figure.*
 
-5.1 Viewport
+Viewport
 -------------
 
 *The difference with the viewport of the start page is that here you have the option to select and edit a single drone within a formation.*
 
 .. image:: images/Vieuwport.jpg
 
-5.1.1 Arrow
-  
-  *With the arrow you can select one or more drones, use the shift key to select multiple drones separately.*
+**Buttons**
 
-  .. image:: images/pijl.jpg
+.. |arrow| image:: images/pijl.jpg
+.. |transformation| image:: images/Vier_hoeken.jpg
 
-5.1.2 Four corners icon
+.. list-table::
+   :widths: 20 80
+   :header-rows: 1
 
-  *First select with the arrow all the drones you want to edit => then click on the four-sided icon => a frame will appear around the outer drones of your selection. These drones are connected by a dotted line. On the four outer corners are anchor points that can be dragged. You can rotate, enlarge or reduce the frame.*
+   * - 
+     - Description
+   * - |arrow|
+     - With the arrow you can select one or more drones, use the shift key to select multiple drones separately.  +
+   * - |transformation|
+     - First select with the arrow all the drones you want to edit => then click on the four-sided icon => a frame will appear around the outer drones of your selection. These drones are connected by a dotted line. On the four outer corners are anchor points that can be dragged. You can rotate, enlarge or reduce the frame., 90 degree angles
 
-  .. image:: images/Vier_hoeken.jpg
 
-5.1.3 Plus icon
+
+Plus icon
+---------
 
   *With this tool you can add extra drones to your formation design. First select the desired color in the color area, this is set to black by default and will therefore not be visible. Then click on the plus icon => click in the black field to place additional drones. Use the visualization cube pads to place drones in the depth.*
 
   .. image:: images/plusteken.jpg
 
-5.1.4 Eraser icon
+Eraser icon
+------------
 
   *Select one or more drones (shift key) you want to remove => click on the eraser icon => the selection will be removed.*
 
   .. image:: images/gom.jpg
 
-5.1.5 Bucket
+Bucket
+-------
 
   *Is used to give one or more drones a specific color => select one or more drones => choose the desired color => click on the bucket => the color of the selected drones will be adjusted automatically.*
 
   .. image:: images/emmer.jpg
 
-5.1.6 Color area
+Color area
+------------
 
   *Here you can choose a desired color from a suggested color range, or you can create a color yourself via the link.*
 
@@ -57,19 +67,22 @@
 
   .. image:: images/Color4.jpg
 
-5.1.7 Cube icon
+Cube icon
+----------
 
   *Three different perspectives are possible, front view, side view and top view. You can also use the directional arrows on your keyboard to freely define and rotate the perspective, which is very useful for complex structures. Method: first click with the mouse in the black part where the layout is visualized, then use the directional arrows.*
 
   .. image:: images/cubus.jpg
 
-5.1.8 Outlining icon
+Outlining icon
+--------------
 
   *Use this button if your design is not fully visualized, the design will be automatically resized until it fits in the visualization area. You can also use the three lines that frame the "View" area. Click with the mouse pointer on the lines and drag as desired.*
 
   .. image:: images/kadrage.jpg
 
-5.1.9 Visualisation in terms of percentage
+Visualisation in terms of percentage
+------------------------------------
 
   *You can also reduce, enlarge or fit the visualization of your layout by entering the desired percentages.*
 

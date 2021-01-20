@@ -1,11 +1,11 @@
------------
-7 Workflow
------------
+============
+Workflow
+============
 
 *Before you start designing a drone light show, it is recommended that you think carefully about the possibilities and what you want to achieve, put your ideas on paper and make a first design sketch. It is important to know all the functions the program offers in order to achieve the maximum effect.
 The number of drones that you can use and are supported by the program is unlimited.*
 
-7.1 Certification
+Certification
 -----------------
 
 *The program consists 3 different pillars:*
@@ -41,7 +41,7 @@ The number of drones that you can use and are supported by the program is unlimi
 
   .. image:: images/121.jpg
 
-7.2 Determining the flight zone.
+Determining the flight zone.
 --------------------------------
 
 *The first thing we do when we start a new project is to determine the flight zone. It is important to enter the correct distances for a reliable relationship between design and space. Follow the next steps => open the program => home page => file => settings => a "Project settings" window will open => enter the correct values (expressed in meters) => close the window => your flight zone is visualized by solid white lines (use the arrows on your keyboard for a 3D view of the zone).*
@@ -55,7 +55,7 @@ The number of drones that you can use and are supported by the program is unlimi
 
   .. image:: images/163.jpg
 
-7.3 Placing drones
+Placing drones
 -------------------
 
 *You have 3 options to place drones in your layout.*
@@ -107,7 +107,7 @@ The number of drones that you can use and are supported by the program is unlimi
 
   .. image:: images/126.jpg
 
-7.4 Deleting drones 
+Deleting drones 
 ----------------------
 
 *A first option to delete is to select your clip and press the delete button. You can also, for example, only delete 1 drone from a formation => select the clip => right mouse button => edit figure.*
@@ -124,7 +124,7 @@ The number of drones that you can use and are supported by the program is unlimi
 
   .. image:: images/130.jpg
 
-7.5 Clips and scenes 
+Clips and scenes 
 ---------------------
 
 *The drones you place on the timeline will always be placed in a "clip". A clip is therefore a stand-alone collection that contains x number of drones and is visualized by a bar on the timeline. This way you can place different clips next to each other on the timeline and use it as a scene.  A scene is therefore a collection of different clips. All new scenes that are created and used can be found at "Scene list" at the top right corner of the home page interface. To create a new scene => scene list => new => properties => name => give the new scene a name => go to the timeline and place clips.*
@@ -141,14 +141,14 @@ The number of drones that you can use and are supported by the program is unlimi
 
   .. image:: images/136.jpg
 
-7.6 Import from the library
+Import from the library
 -----------------------------------
 
 *If you want to import a saved drone show (.sky4 file) in a new format. Copy the ".sky4 file" => go to the software folder of the lightshow creator => go to the folder "library" => paste the .sky4 file in this folder => go back to the program => click on the book icon = > choose the desired file from the list => add => the layout will be placed on the timeline.*
 
   .. image:: images/143.jpg
   
-7.7 Clip time duration
+Clip time duration
 ------------------------
 
 *Each clip is defined by a time duration, which is automatically placed at 10 seconds when creating a new clip. You can adjust this by grabbing the edge of the clip and dragging it further or closer. You can also adjust the time numerically via the properties menu => duration. The unit is in milliseconds => 10,000 s = 10 sec.*
@@ -159,7 +159,7 @@ The number of drones that you can use and are supported by the program is unlimi
 
   .. image:: images/138.jpg
 
-7.8 View options.
+View options.
 ----------------
 
 *When creating complex figures, it is very important that you have a good awareness of 3D space. That is why the program offers various possibilities to view, approach and present your work. Three different perspectives are possible: front view, side view and top view.*
@@ -174,7 +174,7 @@ The number of drones that you can use and are supported by the program is unlimi
 
   .. image:: images/142.jpg
 
-7.9 Tweens
+Tweens
 ----------
 
 *A drone show is only successful if your figurations start moving dynamically and do not remain static on the spot. To make a figure move in space you can use tweens, among other things. A tween connects the end point of clip / scene A to the start point of a clip / scene B with a connector line. The purpose of this is to make a figure move from position A to position B or to make figures transition from shape, for example a transition from a square to a circle. You can also combine the two functions by making a figure change shape as it moves from position.* 
@@ -197,7 +197,7 @@ The number of drones that you can use and are supported by the program is unlimi
 
   .. image:: images/149.jpg
 
-7.10 Effects
+Effects
 ----------------------
 
 *After you have put the drones in the correct position by the "edit firugre" it is time to add effects. The program offers two types of effects, the first group is the movement effects, these are all kinds of movements that you can have on your formation. In addition to using tweens, these effects are a second way of making characters move. The duration of an effect you post is proportional to the duration of your clip. On the home page, place a drone formation in the sequence line via the pen, star or text tool => right mouse button => convert into raw => clip is converted into raw => right mouse button => edit actions => movements => choose an effect => click on the "+" sign next to the effect => a clip will appear on the timeline => go to properties for more details.*
@@ -208,7 +208,7 @@ The number of drones that you can use and are supported by the program is unlimi
 
   .. image:: images/151.jpg
 
-7.11 Keyframes
+Keyframes
 -------------
 
 *With keyframes you can add movement or effect to your formation. This works with a start and end point that you place on your clip. The effect will then be executed between these 2 points. These two points can always be repositioned.*

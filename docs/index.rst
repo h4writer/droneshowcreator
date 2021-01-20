@@ -1,31 +1,17 @@
 =================================
-Welcome to Andlights Dronecreator
+Drone lightshow creator
 =================================
 
 .. toctree::
-   :caption: Table of contents
+   :caption: Manual
    :maxdepth: 2
-
-.. toctree::
-   :caption: Introduction
-   :maxdepth: 2
-
-.. toctree::
-   :caption: Installation
-   :maxdepth: 2
-
-.. toctree::
-   :caption: Description interface
-   :maxdepth: 2
+   :numbered:
    
-   Home_screen
-   Edit_figure
-   Edit_actions
+   Ch1_Introduction
+   Ch2_Installation
+   Ch3_Interface
+   Ch4_Workflow
   
-.. toctree::
-   :caption: Workflow
-   :maxdepth: 2
    
-
    
    

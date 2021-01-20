@@ -1,89 +1,79 @@
-==========================
-4 Home screen
-==========================
+========================
+Main screen
+========================
 
 *When opening the program you will automatically be taken to the home screen. This is the main part of the program where the editing of clips and scenes are done. The drones are initially placed here for further processing in the sub pages "edit figure" and "edit actions". You will always start from the home screen to develop an idea.*
 
-.. image:: images/home_page.jpg
+.. figure:: images/home_page.jpg
 
-4.1 Menu bar
----------------
+Menu bar
+========
 
 *The menu bar contains functions related to open and saving files, project settings, undo edits, extra view options, upload and export options.*
 
-.. image:: images/menubalk.jpg
 
-4.1.1 File
+File
+-----
 
-  .. image:: images/file.jpg
+.. figure:: images/file.jpg
 
-  - New: 
+**New**
+    Create a new document for the editing layout of a light show.
   
-    *Create a new document for the editing layout of a light show.*
+**Open**
+    To open an existing lightshow.
   
-  - Open
-  
-    *To open an existing lightshow.*
-  
-  - Open recent
-  
-    *List of your 20 most recently saved lightshows.*
+**Open recent**
+    List of your 20 most recently saved lightshows.
     
-  - Save
-  
-    *To save your lightshow.*
+**Save**
+    To save your lightshow.
     
-  - Save as
-  
-    *Bring up a window to save your work as a file with a different name*
+**Save as**
+    Bring up a window to save your work as a file with a different name
     
-  - Settings
-
+**Settings**
     *This function is used to determine the flight zone in which the drones should move. The width, depth, height and above ground are displayed in meters. This zone is visualized with a solid white line and should not be confused with the "raw clip" dotted line that you can find at 3.5.5 properties.*
-    
-    .. image:: images/setting.jpg
 
-    .. image:: images/rawclip.jpg
-
-    - Width
-      
-      *Enter the desired width of the flight zone, expressed in meters.*
-      
-    - Depth
-      
-      *Enter the desired depth of the flight zone, expressed in meters.*
-      
-    - Height
-      
-      *Enter the desired height of the flight zone, expressed in meters.*
-      
-    - Above ground
+Settings
+^^^^^^^^
     
-      *Enter the desired height above ground of the flight zone, expressed in meters.*
-      
-    - Background images
-    
-      *You can use this function in 2 different ways. A first way is as a simulation, post a photo of the skyline where the drone show is to be performed. Place your design on the photo and get an idea of what your show will look like on site. Ideal for convincing potential customers of your designs. As a second way you can use this function to redraw a certain figuration. For example, place a photo of a logo, place your drones on this logo to draw it perfectly in this way.*
-      
-    - Default drone size
-    
-      *The size of the drone is entered here and expressed in meters. Example 0.4 = a 40 cm drone. It is important that this parameter is entered correctly to get a reliable ratio in the simulation.*
+.. figure:: images/setting.jpg
 
-4.1.2 Edit
 
- .. image:: images/edit.jpg
+**Width**
+    Enter the desired width of the flight zone, expressed in meters.
 
- - Undo
-  
-   *Undo an action or operation.*
+**Depth**
+    Enter the desired depth of the flight zone, expressed in meters.
+
+**Height**
+    Enter the desired height of the flight zone, expressed in meters.
+
+**Above ground**
+    Enter the desired height above ground of the flight zone, expressed in meters.
+
+**Background images**
+    You can use this function in 2 different ways. A first way is as a simulation, post a photo of the skyline where the drone show is to be performed. Place your design on the photo and get an idea of what your show will look like on site. Ideal for convincing potential customers of your designs. As a second way you can use this function to redraw a certain figuration. For example, place a photo of a logo, place your drones on this logo to draw it perfectly in this way.
+
+**Default drone size**
+    The size of the drone is entered here and expressed in meters. Example 0.4 = a 40 cm drone. It is important that this parameter is entered correctly to get a reliable ratio in the simulation.
+
+Edit
+-----
+
+.. figure:: images/edit.jpg
+
+**Undo**
+   Undo an action or operation
     
- - Redo
-  
-   *Redo an action or operation*
+**Redo**
+   Redo an action or operation
     
-4.1.3 View
+View
+-----
 
- .. image:: images/view.jpg
+ .. figure:: images/view.jpg
 
  - Drone frames
   
@@ -101,9 +91,10 @@
   
    *It is possible to switch the image you placed earlier on and off (Fille => settings => background image) while developing the layout.*
     
-4.1.4 Show
+Show
+-----
 
- .. image:: images/show.jpg
+ .. figure:: images/show.jpg
 
  - Upload
   
@@ -115,103 +106,103 @@
     
 4.1.5 Help
 
- .. image:: images/help.jpg
+ .. figure:: images/help.jpg
 
  - About
   
    *For asking questions in case of problems.*
    
-4.2 Viewport
+4.1.2 Viewport
 ---------------
 
 *In this section you will find the tools to place and select drones within a layout. The placed drones can be visualized in different positions in a simulation using an in and out zoom function. It is also possible to follow the timeline numerically and possibly to slow down or speed up the time.*
 
-.. image:: images/Viewport.jpg
+.. figure:: images/Viewport.jpg
 
 4.2.1 Pen
 
  *Used to manually draw and place drones. When activated, you get a new panel (edit figure) => first choose a color => then click on the plus sign in the left side => click in the field, a drone will appear.*
  
- .. image:: images/Pen_tool.jpg
+ .. figure:: images/Pen_tool.jpg
 
 4.2.2 Star
 
  *If you click on this, a clip will automatically appear on the timeline without a panel appearing. This clip automatically contains a grid, at the bottom right of the interface at properties you can adjust the grid to your liking in terms of design and number of drones. When the clip is created in the timeline => right mouse button => edit actions for more options*
 
- .. image:: images/Star_tool.jpg
+ .. figure:: images/Star_tool.jpg
  
 4.2.3 Text
 
  *When you use the text icon, a clip automatically appears in the timeline. Then go to "properties" => text. Here you have the option to give the desired color to the text at "color". This can be done in various ways, by a webcolor with "#", by a color range or by custom color. You can also remove the color by clicking on the waste bin icon. You can enter the text next to "text". And at "present" you can choose the text size. 4 x 5 = 4 drones in the width and 5 drones in the length. 5 x 7 = 5 drones in the width and 7 drones in the length.*
 
- .. image:: images/Text_tool.jpg
+ .. figure:: images/Text_tool.jpg
  
 4.2.4 Image
 
  *Make sure the cursor needle is free on the timeline. Click on the photo icon to project a photo on a grid of drones. Go to properties for further details.*
  
- .. image:: images/Image_tool.jpg
+ .. figure:: images/Image_tool.jpg
  
 4.2.5 Book icon
 
  *Library with existing scenes to choose from. Note, an existing layout to be placed in a new layout must first be saved in the "Library folder" before it is available for posting.*
  
- .. image:: images/book_icon.jpg
+ .. figure:: images/book_icon.jpg
  
 4.2.6 Music icon
 
  *For placing audio files. Note, you must first place a "music sequence" in the timeline before you can place the audio.*
  
- .. image:: images/Audio_icon.jpg
+ .. figure:: images/Audio_icon.jpg
  
 4.2.7 Cube icons
 
  *Three different perspectives are possible, front view, side view and top view. You can also use the directional arrows on your keyboard to freely define and rotate the perspective, which is very useful for complex structures. Method: first click with the mouse in the black part where the layout is visualized, then use the directional arrows.*
 
- .. image:: images/cubus.jpg
+ .. figure:: images/cubus.jpg
  
 4.2.8 Chrono time
 
  *This time indication shows the position of the cursor needle in hours, minutes, seconds and milliseconds. If you move the cursor manually, the chrone will be adjusted automatically. The reverse way can also be used if you have to place the cursor very precisely, then enter the correct time indication to place the cursor very accurately.*
 
- .. image:: images/chrono.jpg
+ .. figure:: images/chrono.jpg
  
 4.2.9 Play buttons
 
  *The left button is used to automatically return the cursor needle to the beginning of the timeline. The middle button is used to play the format. The right button is used to automatically move the cursor needle to the end of the markup, that is, at the end of the last block on the sequence line*
 
- .. image:: images/play.jpg
+ .. figure:: images/play.jpg
 
 4.2.10 Speed up
 
  *This is the acceleration function, normal speed is 1x, the higher the number, the faster format is played.*
 
- .. image:: images/vergroot.jpg
+ .. figure:: images/vergroot.jpg
  
 4.2.11 Outlining icon
 
  *Use this button if the lightshow is not fully visualized, the layout will be automatically reduced to fit the visualization area. You can also use the three lines that frame the "Display" area. Mouse-click the lines and drag as desired.* 
 
- .. image:: images/kadrage.jpg
+ .. figure:: images/kadrage.jpg
  
 4.2.12 Visualisation in terms of percentage
 
  *You can also reduce, enlarge or fit the visualization of your lightshowt by entering the desired percentages.*
 
- .. image:: images/percent.jpg
+ .. figure:: images/percent.jpg
  
 4.3 Clips
 ---------------
 
 *A sequence is a horizontal space on the timeline where a markup block can be placed. You can create as many sequences vertically one below the other as needed for the intended end result. You can create a new sequence by clicking on the icon for new sequence to the left of the timeline or by dragging a format block down. A sequence is only intended for formatting and not for placing audio files.*
 
- .. image:: images/clip001.jpg
+ .. figure:: images/clip001.jpg
 
 4.3.1 Timeline
 
  *This is the area where clips and scenes are placed on the sequence tracks and the audio files on the audio sequence. The timeline is therefore a collection of clips and scenes that together form a layout. You can also zoom in and out on the sequence timeline to make the blocks bigger or smaller => place the cursor on the numerical indication and roll the mouse wheel to enlarge or reduce.*
 
- .. image:: images/tijdbalk.jpg
+ .. figure:: images/tijdbalk.jpg
  
 4.3.2 Cursor needle
 
@@ -229,32 +220,32 @@
 
  *To create a new sequence track in the timeline. You can also drag a clip or scene down to create unlimited and automatic new sequence jobs.*
 
- .. image:: images/iconA.jpg
+ .. figure:: images/iconA.jpg
  
 4.3.6 Audio sequence icon
 
  *To create a new audio sequence track in the timeline. You can also drag an audio clip down to create unlimited and automatic new audio sequence jobs.*
 
- .. image:: images/iconB.jpg
+ .. figure:: images/iconB.jpg
  
 4.3.7 Clip and scene
 
  *A clip is a block that you place on the sequence track by the pen or star tool and contains x number of drones in a formation that are bound to a certain time duration. You cannot edit a newly placed clip directly with "edit figure", it must first be converted (by right mouse button) to a raw file (convert into raw). Other options such as edit actions, take a snapshot or delete are available via the right mouse button without converting the clip to raw. A collection of different clips on the timeline can be saved as a scene. For more information see below at scene list.*
 
- .. image:: images/clip_and_scene_cubes.jpg
+ .. figure:: images/clip_and_scene_cubes.jpg
 
 4.4 Scene list
 ---------------
 
 *A collection of different clips on a timeline that is saved as a separate block is called a scene. At "scene list" all created scenes are listed.*
 
- .. image:: images/scene.jpg
+ .. figure:: images/scene.jpg
 
 4.4.1 Main
 
  * When starting a new light show (= new document), the program will always automatically place a "main scene" in the "scene list". This is an empty scene where the clips will be automatically placed. The main scene can always be copied, exported or deleted. Use the right mouse button for this. The purpose of the main scene, however, is that all other scenes come together here and this is used as the main scene. It's best to create a new scene at the start of your edit, name it, place your clips in it, then import them into the "main scene". A scene with clips can therefore be imported into another scene, where it can be combined with other clips and scenes ... so that they can be used interchangeably. *
 
- .. image:: images/scene_list.jpg
+ .. figure:: images/scene_list.jpg
  
 4.4.2 New
 
@@ -265,9 +256,9 @@
 
 *Enter parameters here at the beginning of your design to obtain the desired result. Note, always select your posted clip or scene first to use the properties. If this is not selected, you cannot see anything in properties. When all parameters are entered as desired, the clip must be converted to a RAW clip => right mouse button => convert into raw => the last part of the properties window "formation" will then change to "RAW clip". The RAW clip can then be adjusted in width, depth and height. The raw clip is always outlined by a white dashed line.*
 
- .. image:: images/propertiesA.jpg
+ .. figure:: images/propertiesA.jpg
 
- .. image:: images/propertiesB.jpg
+ .. figure:: images/propertiesB.jpg
 
 4.5.1 General
 
@@ -465,7 +456,7 @@
 
 *This is the area in which all drones are located, this is the size of the clip. This is visualized by a dotted line. This is not the same as the dimensions of the project in which you enter the size of the flying area. The raw clip (dotted line) is always located inside the flying area (full line) that you enter via Project settings.*
 
-  .. image:: images/rawclip.jpg
+  .. figure:: images/rawclip.jpg
 
   - Width
   
