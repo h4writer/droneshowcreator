@@ -4,7 +4,7 @@ Drone lightshow creator
 
 .. toctree::
    :caption: Manual
-   :maxdepth: 2
+   :maxdepth: 3
    :numbered:
    
    Ch1_Introduction

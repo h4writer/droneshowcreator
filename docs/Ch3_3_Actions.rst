@@ -65,7 +65,7 @@ Lights
 *Here you will find all light effects and color options that you can apply to your design.*
 
 .. toctree::
-   :caption: Movements
+   :caption: Lights
    :maxdepth: 1
    :glob:
 
@@ -81,36 +81,46 @@ Lights
 
 6.3.1 Cube icons
 
+  .. image:: images/Cube_icons.jpg
+     :height: 25
+
 *The program has 3 different preview perspectives, the front view (first cube), top view (second cube) and the side view (third cube). A fourth function uses the directional arrows on the keyboard to allow you to freely move the layout in all directions for the ideal perspective. The latter function can be very useful when formatting complex structures.*
 
-  .. image:: images/Cube_icons.jpg
 
 6.3.2 Chrono time
 
+  .. image:: images/Chrono_time.jpg
+       :height: 35
+
 *This is the numerical representation of the cursor needle position in hours, minutes, seconds and milliseconds. If you adjust the numerical values ​​manually, the needle will automatically jump to the entered value.*
 
-  .. image:: images/Chrono_time.jpg
 
 6.3.3 Play buttons
+
+  .. image:: images/play.jpg
+       :height: 25
 
 *The double arrows to the left: If you click on this, the cursor needle automatically jumps to the beginning of the timeline.
 The play triangle: Clicking on this will cause the cursor needle to run from its position on the timeline.
 The double arrows to the right: If you click on this, the cursor needle will automatically move to the end of the layout. This means to the end position of the last block
 1x: This is the acceleration function, if you enter a value of 10x the playback speed will be accelerated 10x. The 1 value is the normal speed.*
 
-  .. image:: images/play.jpg
+
 
 6.3.4 Outlining icon
 
+  .. image:: images/kadrage.jpg
+
 *The automatic framing icon ensures that your layout, regardless of size, is visualized in the available viewport frame. The percentage is automatically calculated for this.*
 
-  .. image:: images/kadrage.jpg
 
 6.3.5 Visualisation in terms of percentage
 
+  .. image:: images/percentage.jpg
+         :height: 35
+
 *You can also manually determine the size of the visualization by entering a percentage yourself or by using the arrows. Manually determining the preview can be useful to enlarge details of complex structures for a clear interpretation.*
 
-  .. image:: images/percentage.jpg
 
 6.4 Properties
 --------------
